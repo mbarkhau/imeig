@@ -1,0 +1,833 @@
+<!--
+% Privateigentum: Grundlage von Ethik und Wirtschaft
+% Hans-Hermann Hoppe
+% 2004
+-->
+
+Privateigentum: Grundlage von Ethik und Wirtschaft
+==================================================
+
+Das Problem der gesellschaftlichen Ordnung
+------------------------------------------
+
+Als einziger auf seiner Insel, kann Robinson Crusoe tun und lassen was
+er will. Die Frage nach Regeln für ein geordnetes Zusammenleben, kommt
+ihm gar nicht erst in den Sinn. Diese Frage kommt erst dann auf, wenn
+die zweite Person, Freitag, auf die Insel ankommt. Selbst dann bleibt
+die Frage jedoch weitestgehend irrelevant, solange keine *Knappheit*
+herrscht. Stellen wir uns vor, es handelt sich bei der Insel um den
+Garten Eden; alle äußeren Güter sind im Überfluss vorhanden. Die Güter
+sind "frei" im selben Sinne wie die Atemluft "frei" ist und Crusoe kann
+über diese Güter frei verfügen. Seine Handlung haben dabei *weder* einen
+Einfluss auf die Verfügbarkeit dieser Güter für ihn, *noch* auf die
+jetzige oder zukünftige Verfügbarkeit der Güter für Freitag (und
+umgekehrt). Im Bezug auf diese Güter, kann es also niemals zu einem
+Konflikt zwischen Crusoe und Freitag kommen. Ein Konflikt kann nur dann
+entstehen, wenn Knappheit herrscht. Erst dann müssen Regeln aufgestellt
+werden, damit ein geordnetes - konfliktfreies - Zusammenleben möglich
+wird.
+
+Im Garten Eden gibt es bloß zwei Güter die knapp sind: Der Körper einer
+Person und die Fläche auf dem er steht. Crusoe und Freitag haben jeweils 
+nur einen Körper und können immer nur an einer Stelle stehen. Es können
+also selbst im Garten Eden Konflikte aufkommen: Crusoe und Freitag
+können nicht zugleich an der gleichen Stelle stehen ohne dabei physisch
+in Konflikt zu geraten. Dementsprechend muss es selbst im Garten
+Eden Regeln geben, damit ein geordnetes zusammenleben möglich wird -
+Regeln über die Platzierung und Bewegung von Personen. Außerhalb vom
+Garten Eden, im Reich der *Knappheit*, muss es nicht nur Regeln über
+Körper geben, sondern über *alles* was knapp ist, sodass *alle*
+möglichen Konflikte ausgeschlossen werden können. Das ist das Problem
+der gesellschaftlichen Ordnung.
+
+
+Die Lösung: Privateigentum und Originäre Aneignung
+--------------------------------------------------
+
+Die Geschichte des gesellschaftlichen und politischen Diskurses, hat
+diverse Vorschläge produziert um das Problem der gesellschaftlichen
+Ordnung zu lösen. Diese Vielzahl widersprüchlicher Vorschläge trägt
+dazu bei, dass die Suche nach einer einzigen "korrekten" Lösung, heute
+von vielen als illusorisch erachtet wird. Dennoch will ich versuchen zu
+zeigen, dass es eine korrekte Lösung gibt; sodass es keinen Grund gibt
+einem moralischen Relativismus zu unterliegen. Die Lösung ist seit
+hunderten von Jahren bekannt, wenn nicht sogar länger.[^1] In unserer
+heutigen Zeit wurde diese alte und einfache Lösung am klarsten und
+überzeugendsten von Murray N. Rothbard formuliert.[^2]
+
+[^1]: Siehe Abschnitt V weiter unten.
+
+[^2]: See Murray N. Rothbard, *Man, Economy, and State* (Auburn, Al.:
+    Mises Institute, 1993 [1962]); idem, *Power and Market* (Kansas City:
+    Sheed Andrews & McMeel, 1977 [1970]); idem, *The Ethics of Liberty*
+    (New York: New York University Press, 1998 [1982]); idem,
+    *Egalitarianism as a Revolt against Nature and other Essays* (Auburn,
+    Al.: Mises Institute, 2000 [1974]); idem, *The Logic of Action*, 2
+    vols.  (Cheltenham, UK: Edward Elgar, 1997).
+
+Zunächst werde ich die Lösung formulieren - erst für den Spezialfall im
+Garten Eden und danach für den allgemeinen Fall der "echten" Welt, indem
+allgemeine Knappheit herrscht - und gehe im weiteren darauf ein, warum
+diese, und keine andere, die korrekte Lösung ist. Im Garten Eden besteht
+die Lösung aus der einfachen Regel, dass jeder seinen Körper bewegen und
+hinstellen darf wo er mag, *vorausgesetzt es steht kein anderer an
+dieser Stelle, der sie **vorher** besetzt hat*. Außerhalb vom Garten
+Eden, im Reich der Knappheit, ist die Lösung folgende
+Regel: Jeder ist Eigentümer seines eigenen Körpers, alle Gebiete die er
+besetzt hat sowie naturgegebene Güter von denen er durch Einsatz seines
+Körpers Gebrauch macht, *vorausgesetzt kein anderer hat diese Gebiete
+oder Güter **vorher** schon besetzt oder benutzt*. Eigentum an "originär
+Angeeignete" Gebiete und Güter durch eine Person, impliziert das Recht
+diese nach eigenem ermessen zu verändern und einzusetzen,
+*vorausgesetzt, die physikalische Unversehrtheit originär
+angeeigneter Gebiete und Güter einer anderen Person, werden dabei nicht
+verletzt*. Nachdem eine Stelle oder ein Gut erstmals angeeignet
+wurde, in den Worten von John Locke, durch "Vermischung mit der eigenen
+Arbeit", kann man Eigentum nur erwerben, indem der Titel am Eigentum
+freiwillig - vertraglich - von dem vorherigen zu einem späteren
+Eigentümer übertragen wird.
+
+Angesichts eines weit verbreiteten moralischen Relativismus sollte ich
+darauf hinweisen, dass die Idee der originären Aneignung und
+Privateigentum als Lösung für das Problem der gesellschaftlichen
+Ordnung, ganz und gar mit unserer moralischen "Intuition" übereinstimmt.
+Wäre es nicht absurd zu behaupten, dass eine Person *nicht* der
+rechtmäßige Eigentümer seines eigenen Körpers ist? Oder, dass die
+Gebiete und Güter die jemand originär, also vor allen anderen aneignet,
+nutzt und/oder durch Einsatz seines Körpers produziert, einem anderen
+Gehören? Wer sonst, wenn nicht er, sollte der Eigentümer sein? Ist es
+nicht auch offensichtlich, dass die überwältigende Mehrheit – sogar
+Kinder und Naturvölker – sich in ihrem Alltag nach diesen Regeln richten
+und sie als selbstverständlich erachten?
+
+Die moralische Intuition ist zwar wichtig, stellt aber kein Beweis dar.
+Doch solch ein Beweis für die Gültigkeit unserer moralischen Intuition
+existiert tatsächlich.
+
+Der Beweis kann auf verschiedene Weise erbracht werden. Zunächst können
+wir die Folgen untersuchen, würde man die Gültigkeit der originären
+Aneignung und dem Privateigentum verneinen: Betrachten wir von Person
+*A*, den Körper sowie alle Gebiete und Güter die er originär angeeignet
+hat. Weiterhin kann *A* Güter produzieren, durch den Einsatz seines
+Körpers, zusammen mit Gütern die von ihrem vorherigen Eigentümer
+freiwillig (vertraglich) erworben wurden. Wäre *A* bei all dem Genannten
+*nicht* der Eigentümer, gibt es nur zwei Alternativen. Wir müssen
+entweder eine *andere* Person *B*, als Eigentümer betrachten, oder es
+sind *A* *und* *B* gleichberechtigte Miteigentümer an alle Körper,
+Gebiete und Güter.
+
+Im ersten Fall, wäre *A* zum Sklaven von *B* degradiert bzw. würde von
+*B* ausgebeutet. *B* wäre der Eigentümer des Körpers von *A* sowie
+aller Gebiete und Güter die von ihm angeeignet, produziert oder erworben
+wurden, umgekehrt wäre *A* aber nicht der Eigentümer des Körpers von *B*
+oder der Gebiete und Güter die von ihm angeeignet, produziert oder
+erworben wurden. Unter solcher Reglung gäbe es demzufolge zwei
+Klassen von Personen - *Untermenschen* wie *A* und *Übermenschen* wie
+*B* - für die ein jeweils verschiedenes "Recht" gilt. Dementsprechend
+ist eine solch Regelung keine Ethik die auf jedes menschliche
+(rationale) Wesen angewendet werden kann. Sie gilt per Definition nicht
+für alle gleich und kann deshalb nicht für sich beanspruchen Recht zu
+sein. Eine Regel die den Anspruch hat ein Recht - eine *gerechte* Regel
+- zu sein, muss universell für alle gleich gelten.
+
+Im Zweiten Fall, in dem alle an allem gleichberechtigte Miteigentümer
+sind, ist die Bedingung nach gleichem Recht für alle erfüllt. Diese
+Alternative leidet allerdings an einem viel schwerwiegenderen Fehler.
+Würde sie angewendet, müsste die gesamte Menschheit sofort
+zugrundegehen. Jede Aktivität einer Person verlangt den Einsatz
+bestimmter Knapper Mittel (zumindest des Körpers der Person und der
+Fläche auf dem er Steht). Wenn aber jeder an allen Gütern ein
+Miteigentümer ist, wäre es niemandem jemals erlaubt irgendetwas zu tun,
+ohne vorher das Einverständnis aller Miteigentümer zu bekommen. Wie soll
+jemand dieses Einverständnis aber jemals gewähren, wenn er nicht der
+exclusive Eigentümer seines eigenen Körpers ist (einschließlich der
+Stimmbänder) womit er dieses Einverständnis ausdrücken muss?
+Tatsächlich bräuchte man vorher Erlaubnis um überhaupt einem anderen
+Erlaubnis zu geben, damit dieser wiederum einem Erlaubnis erteilt. Die
+Menschheit befände sich im Stillstand und da jede menschliche Ethik das
+Überleben erlauben muss, müssen wir diese Alternative ebenfalls
+ablehnen.
+
+Diese Erkenntnis über die praxeologische[^3] (praktische) Unmöglichkeit
+des "universellen Kommunismus", wie Rothbard diesen Vorschlag nannte,
+bringt mich sofort auf eine weitere viel strengere Form, womit die Idee
+der originären Aneignung und das Privateigentum, als einzig korrekte
+Lösung für das Problem der Gesellschaftlichen Ordnung, bewiesen werden
+kann:[^4] Ob Personen Rechte haben oder nicht, und wenn ja welche, kann
+nur durch Argumentation (dem sprachlichen Austausch von Aussagen)
+entschieden werden. Rechtfertigung - Beweisführung, Ableitung,
+Widerlegung - ist *argumentative* Rechtfertigung. Wenn man eine Aussage
+ablehnt, begibt man sich durch die eigene Handlung in einen Widerspruch,
+denn die Ablehnung selbst ist ein Argument. Selbst ein ethischer
+Relativist muss diese erste Aussage annehmen, entsprechend wird es auch
+das *Apriori der Argumentation* genannt.
+
+[^3]: Zum Begriff der Praxeologie und der systematischen Rekonstruktion
+der Wirtschaftstheorie als einer aprioristischen "Logik des Handelns"
+vgl. Ludwig von Mises, *Nationalökonomie: Theorie des Handels und
+Wirtschaftens* (Genf: Editions Union, 1940); Neuauflage im Philosophia
+Verlag, München.
+
+[^4]: Siehe auch Hans-Hermann Hoppe, *A Theory of Socialism and
+    Capitalism* (Boston: Kluwer Academic Publishers, 1989); idem, *The
+    Economics and Ethics of Private Property* (Boston: Kluwer Academic
+    Publishers, 1993).
+
+Da das Apriori der Argumentation angenommen werden muss - axiomatisch
+ist - ergeben sich zwei gleichermaßen wichtige Folgerungen. Erstens
+lassen sich für durch Knappheit verursachte Konflikte, solche Fälle
+ableiten, zu denen es *keine* rationale Lösung gibt. Nehmen wir im
+vorherigen Beispiel von Crusoe und Freitag an, dass Freitag kein Mensch
+sondern ein Gorilla ist. Offensichtlich kann Crusoe ebenso in ein
+Konflikt mit Freitag als Mensch wie mit Freitag als Gorilla geraten. Es
+könnte sein, dass der Gorilla die gleiche Stelle besetzen möchte, die
+bereits von Crusoe eingenommen wurde. In diesem Fall, zumindest wenn wir
+von dem Gorilla das für seine Art übliche Verhalten annehmen, gibt es
+keine rationale Lösung zu dem Konflikt. Entweder der Gorilla wird
+Crusoe zur Seite schieben, zerquetschen, oder verspeisen - so würde
+der Gorilla das Problem lösen - oder Crusoe wird den Gorilla zähmen,
+verfolgen, schlagen oder töten - so würde Crusoe das Problem lösen.
+Man könnte in dieser Situation auch vom moralischen Relativismus
+sprechen. Eher angemessen wäre es jedoch dieser Situation als solche
+zu bezeichnen, in der die Frage nach Gerechtigkeit und Vernunft gar
+nicht erst aufkommt; man könnte sagen, in der Situation tritt eine
+moralische Frage gar nicht erst auf. Freitag als Gorilla ist für Crusoe
+kein moralisches sondern ein technisches Problem. Er hat keine andere
+Wahl, außer sich zu bemühen den Gorilla unter seiner Kontrolle zu
+bringen; ebenso wie andere leblose Objekte in seiner Umgebung ihm
+keinen anderen Umgang erlauben, außer sie unter seiner Kontrolle zu
+bringen.
+
+Es folgt, dass man erst dann von einem moralischen Problem sprechen
+kann, wenn beide Parteien in einem Konflikt in der Lage sind mit
+einander zu argumentieren, und dementsprechend auch erst dann die Frage
+nach einer Lösung überhaupt von Bedeutung wird. Erst wenn Freitag,
+ungeachtet seiner physischen Erscheinung, in der Lage ist zu
+argumentieren (selbst wenn er diese Fähigkeit bloß ein mal gezeigt hat),
+kann er als rational erachtet werden. Erst dann kann die Frage nach einer
+Korrekten Lösung für das Problem der gesellschaftlichen Ordnung
+überhaupt einen Sinn ergeben. Man kann nicht jemandem *irgendeine*
+Antwort geben, wenn derjenige noch nie eine Frage gestellt hat, oder
+genauer gesagt noch nicht mal seine relativistische Sichtweise in der
+Form eines Arguments ausgedrückt hat. In dem Fall, kann man dieses
+"andere" nur als Tier oder Pflanze betrachten und behandeln, also als
+Wesen außerhalb moralischer Betrachtung. Nur wenn dieses Wesen seine
+Aktivität anhält, einen Schritt zurückgeht und "ja" oder "nein" auf
+etwas was man gesagt hat erwidert, sind wir dieser Entität einer Antwort
+schuldig. Entsprechend können wir auch erst dann von unserer Antwort 
+behaupten, sie wäre die Korrekte für beide an einem Konflikt beteiligte
+Parteien.
+
+Desweiteren folgt aus dem Apriori der Argumentation, dass wir alle
+Annahmen die bei der Argumentation als logische und praxeologische
+Voraussetzung der Argumentation gemacht werden, nicht umgekehrt durch
+ein Argument widerlegen können, ohne dabei durch die eigene Handlung
+in einen internen Widerspruch zu geraten.
+
+Beim der Argumentation schweben Aussagen nicht einfach frei im Raum,
+sondern es handelt sich um eine bestimmte Menschliche Aktivität.
+Voraussetzung für die Argumentation zwischen Crusoe und Freitag ist die
+gegenseitige Anerkennung, dass beide als einzige die Kontrolle über
+ihren jeweiligen Körper (ihr Gehirn, Stimmbänder, etc.) haben, sowie
+über die Fläche auf denen sie stehen. Niemand könnte ein Argument
+vortragen und von seinem Gegenüber erwarten dieses Argument als gültig
+anzusehen, es abzulehnen oder ein Gegenargument vorzutragen, ohne
+gleichzeitig vorauszusetzen, dass beide das Recht haben als einzige über
+ihre jeweiligen Körper und der Fläche auf der sie stehen zu verfügen.
+Tatsächlich macht eben diese gegenseitige Anerkennung von Eigentum am
+eigenen Körper und der Standfläche das *characteristicum
+specificum* argumentativer Auseinandersetzungen aus: Man kann
+sich uneinig über die Gültigkeit einer Aussage sein, aber man kann sich
+trotzdem darüber einig sein, dass man verschiedener Meinung ist.
+Desweiteren, müssen beide Parteien das Recht am eigenen Körper und
+ihrer Standfläche *a priori* als gerechtfertigt anerkennen. Jeder der
+eine beliebige Aussage einem Gegenüber für gültig erklären will, setzt 
+gleichzeitig die Verfügungsgewalt beider über ihren Körper und ihrer
+Standfläche voraus, damit er überhaupt die Aussage machen kann: "Ich
+behaupte dies oder jenes sei Wahr und ich fordere dich heraus das
+Gegenteil zu beweisen".
+
+Weiterhin wäre Argumentation gleichermaßen unmöglich, hätte man kein
+Eigentumsrecht (exklusive Verfügungsgewalt) an andere knappe Mittel
+(abgesehen von Körper und Standfläche). Wenn wir kein solches Recht
+hätten, würden wir alle sofort zugrundegehen und das Problem der
+Rechtfertigung von Regeln - ebenso wie jedes andere menschliche Problem
+- würde sich erübrigen. Dementsprechend muss alleine aufgrund der
+Existenz von Personen, das Recht auf Eigentum an andere Güter als
+gültig anerkannt werden. Keine lebende Person kann ohne Widerspruch
+etwas anderes behaupten.
+
+Wenn eine Person nicht das Recht hätte Güter und Gebiete durch originäre
+Aneignung zu seinem Besitz zu machen, etwa in dem er zwischen sich
+selbst und dem Gut eine objektive (durch andere erkennbare) Verbindung
+*als erster* herstellt, und statt dessen ein Nachzügler Eigentum an
+dieses Gut hätte, wäre es niemandem jemals erlaubt ein Gut zu benutzen,
+ohne vorher von einem solchen Nachzügler die Erlaubnis zu haben. Wie
+kann aber ein Nachzügler jemals einem Vorgänger diese Erlaubnis
+erteilen? Der Nachzügler bräuchte außerdem das Einverständnis von allen
+die im Bezug auf ihm Nachzügler sind, etc. Unter solchen Bedingungen,
+könnten weder wir, unsere Vorfahren noch unsere Nachkommen jemals
+überleben. Damit eine Person zu irgend einem Zeitpunkt etwas
+argumentieren kann, muss er jedoch überleben können; deswegen kann das
+Recht am Eigentum nicht als Zeitlos und und unabhängig von den
+betreffenden Personen erachtet werden. Eigentumsrechte müssen vielmehr
+zusammen mit Aktionen von bestimmten Personen an bestimmte Ort und
+Zeitpunkte entstehen. Sonst wäre es niemandem jemals möglich an
+irgendeinem Ort zu irgendeiner Zeit etwas zu tun oder zu sagen. Die
+Aussage die "erster-Nutzer-erster-Eigentümer"-Regel in der Ethik vom
+Privateigentum sei nicht gerechtfertigt, impliziert alleine schon durch
+seine Aussprache einen Widerspruch. Denn die Möglichkeit diese Aussage
+überhaupt machen zu können, bedingt die eigene Existenz als
+unabhängiges, entscheidungfähiges Wesen, zu einer bestimmten Zeit und an
+einem bestimmten Ort.[^5]
+
+[^5]: Merke den "naturrechtlichen" Charakter der vorgeschlagenen Lösung
+    zum Problem der gesellschaftlichen Ordnung - Privateigentum und das
+    erlangen von Besitz durch originäre Aneignung ist nicht bloß eine
+    Konvention, sondern ein notwendiges Recht, dass sich aus der Natur
+    des Menschen als rationales Wesen ergibt. Eine
+    Konvention dient einem bestimmten *Zweck* und es existieren zu ihm
+    *Alternativen*. Das lateinische Alphabet dient beispielsweise dem
+    Zweck der schriftlichen Kommunikation. Man könnte alternativ auch
+    das kyrillische Alphabet benutzen. Dementsprechend nennen wir es
+    eine Konvention. Der Sinn von Normen ist die Vermeidung von
+    Konflikten im Bezug auf die Nutzung knapper physischer Mittel.
+    Normen die Konflikte verursachen stehen diesem Sinn entgegen. Im
+    Bezug auf die Vermeidung von Konflikten, existiert allerdings keine
+    Alternative zum Privateigentum und der originären Aneignung. Wenn
+    wir nicht von zuvor etablierter Harmonie zwischen Akteuren
+    ausgehen, können Konflikte nur vermieden werden, wenn all Güter das
+    Privateigentum bestimmter Individuen ist und es klar ist wem was
+    gehört und wem nicht. Zusätzlich können wir Konflikte vom beginn der
+    Menschheit an nur vermeiden, wenn Privateigentum durch originäre
+    Aneignung zustandekommt (und nicht etwa indem ein Nachzügler sie
+    einfach durch eine Aussage für sich beansprucht).
+
+
+Missverständnisse und Klarstellungen
+------------------------------------
+
+Nach diesem Verständnis von Eigentum, bedeutet Eigentum die exklusive
+Kontrolle über bestimmte *physische* Objekte und Gebiete durch bestimmte
+Personen. Umgekehrt, bedeutet Verletzung des Eigentumsrechts, die
+unaufgeforderte *physische* Beschädigung oder Beeinträchtigung von
+Objekten oder Gebiete die das Eigentum anderer Personen sind. Im Gegensatz
+dazu steht die weit verbreitete Meinung, dass eine Beschädigung oder
+Beeinträchtigung vom *Wert* (oder Preis) des Eigentums einer anderer
+Person ebenfalls eine Strafbare Handlung darstellt.
+
+Im Bezug auf die (Un-)Vereinbarkeit beider Positionen ist es leicht
+einzusehen, dass praktisch jede Handlung einer Person den *Wert* (Preis)
+des Eigentums einer anderen Person beeinflussen kann. Wenn beispielsweise
+Person *A* in den Arbeitsmarkt oder Heiratsmarkt Eintritt, kann das den
+Wert von *B* in diesen Märkten beeinflussen. Wenn *A* seine Wertschätzung
+von Bier relativ zu Brot ändert, oder wenn *A* sich entschließt selbst 
+Brauer oder Bäcker zu werden, verändert sich der Wert des Eigentums
+anderer Brauer und Bäcker. Nach der Ansicht, dass die Minderung eines
+*Wertes* eine Rechtsverletzung darstellt, hätte *A* eine strafbare
+Handlung gegenüber den Brauer und Bäckern begangen. Wenn *A* sich
+*schuldig* gemacht hat, dann haben *B* sowie die Brauer und Bäcker das
+Recht sich gegen die Handlungen von *A* zu *verteidigen*, also physisch
+in das Eigentum von *A* einzugreifen. Es muss *B* erlaubt sein *A*
+physisch daran zu hindern in den Arbeitsmarkt oder dem Heiratsmarkt
+einzutreten; den Brauern und Bäcker muss erlaubt sein *A* physisch daran
+zu hindern sein Geld nach seiner Einschätzung auszugeben. In diesem Fall
+dürfen wir die physischen Schäden oder Verletzungen des Eigentums von
+*A* durch *B* nicht als Straftat ansehen. Da die physischen Schäden und
+Verletzungen aus Verteidigung geschehen, sind sie legitim. Da umgekehrt
+der physische Schaden eine Verletzung von Rechten darstellt, haben *B*
+oder die Brauer und Bäcker nicht das Recht sich gegen die Handlungen von
+*A* zu verteidigen, denn seine Handlungen - der Eintritt in den
+Arbeitsmarkt und Heiratsmarkt, seine geänderte Wertschätzung von Bier
+und Brot, oder seine Eröffnung einer Brauerei oder Bäckerei - haben
+keinen Einfluss auf die körperliche Unversehrtheit von *B* oder die
+physische Integrität des Eigentums der Brauer und Bäcker. Wenn sie sich
+trotzdem physisch verteidigen, hätte *A* das Recht sich zu verteidigen.
+Demnach können wir es jedoch nicht als Straftat erachten wenn
+jemand den Wert des Eigentums einer anderen Person verändert. Eine
+dritte Möglichkeit existiert nicht.
+
+Beide Ideen des Eigentums sind jedoch nicht nur unvereinbar. Die
+Alternative - dass man Eigentum am Wert oder Preis eines Gutes hat - ist
+nicht haltbar. Eine Person hat zwar Kontrolle darüber ob seine
+Handlungen die *physischen* Eigenschaften des Eigentums einer anderen
+Person verändert, er hat jedoch keine Kontrolle darüber ob seine
+Handlungen den *Wert* (oder Preis) des Eigentums einer anderen Person
+beeinflussen. Dieser Wert wird nämlich durch Wertschätzung und
+Einschätzung *anderer* Personen bestimmt. Demzufolge wäre es unmöglich
+vorauszusagen, ob die eigenen geplanten Handlungen legitim wären oder
+nicht. Man müsste die gesamte Bevölkerung befragen, um sicherzustellen
+dass die eigenen Handlungen nicht den Wert des Eigentums einer anderen
+Person beeinträchtigt und man könnte damit nicht anfangen, bevor man
+einen universellen Konsens erreicht. Die Menschheit müsste aussterben, 
+lange bevor man solch eine Annahme jemals erfüllen könnte.
+
+Desweiteren beinhaltet die Aussage, dass Eigentum ein Recht am Wert
+bedeutet einen Widerspruch. Denn sollte diese Aussage gültig sein -
+allgemein Zustimmungsfähig - müsste man annehmen es wäre legitim 
+schon *vor* einer Übereinstimmung zu handeln. Sonst wäre es
+unmöglich jemals eine Behauptung aufzustellen. Wenn es jedoch erlaubt
+ist eine Behauptung aufzustellen - was keiner verneinen kann ohne sich
+in ein Widerspruch zu begeben - dann liegt das nur daran, dass es
+*physische* Grenzen des Eigentums gibt, also Grenzen die jeder
+selbstständig und unabhängig erkennen kann, ohne irgendetwas von den
+subjektiven Wertschätzungen anderer zu wissen.[^6]
+
+[^6]: Es stimmt zwar, dass *niemand* handeln könnte, wenn *jeder* den
+    Wert seines Eigentums besäße, praktisch *ist* es aber schon möglich,
+    dass *eine* Person oder Gruppe *A*, den Wert seines Eigentums
+    besitzt und bestimmen darf was eine *andere* Person oder Gruppe,
+    *B*, mit ihrem Eigentum tun oder lassen darf. Das bedeutet jedoch,
+    dass *B* *weder* Eigentum am Wert *noch* an der physischen
+    Integrität ihres Besitzes hat. *B* und sein Eigentum ist also in
+    Wirklichkeit das Eigentum von *A*. Diese Reglung kann man durchaus
+    implementieren aber es kann nicht als menschliche Ethik bezeichnet
+    werden. In Wirklichkeit handelt es sich dabei um ein Klassensystem
+    mit ausbeutenden Übermenschen und ausgebeuteten Untermenschen.
+
+Ein weiteres ebenso verbreitetes Missverständnis ist, dass
+Eigentumsrechte bestimmen welche Handlungen erlaubt sind oder nicht,
+*alleine* auf Grund ihrer physischen Auswirkungen. Dabei wird übersehen,
+dass jedes Eigentumsrecht eine *Geschichte* (zeitliche Genese) hat.
+
+Wenn *A* derzeit physischen Schaden am Eigentum von *B* ausübt
+(beispielsweise durch Luftverschmutzung oder Lärm), muss die Situation
+unterschiedlich bewertet werden, abhängig davon wessen Eigentumsrecht
+*früher* zustandekam. Wenn das Eigentum von *A* zuerst etabliert wurde
+und seine fragwürdigen Aktivitäten vor der Etablierung des Eigentums vom
+Nachbar *B* durchgeführt wurden, kann er damit fortfahren. *A* hat eine
+Dienstbarkeit etabliert. *B* hat verschmutztes und lautes Eigentum
+erworben, und sollte sich *B* ein sauberes und stilles Grundstück
+wünschen, muss er das mit *A* aushandeln. Wurde umgekehrt, das Eigentum
+von *B* als erstes begründet, muss *A* mit seinen Aktivitäten aufhören;
+und wenn er das nicht möchte, muss er *B* für dieses Privileg bezahlen.
+Jede andere Regelung ist unmöglich und nicht zu verteidigen, da ein
+Mensch so lange er lebt, nicht in der Lage ist *nicht* zu handeln.
+Jemand der mit einer Aktivität beginnt, kann selbst wenn er es wollte, 
+nicht auf das Einverständnis von allen Nachzüglern warten. Es muss ihm
+erlaubt sein sofort zu handeln. Sofern kein anderes Eigentum neben sein
+eigenes existiert (da die Nachzügler noch nicht angekommen sind), sind
+die eigenen Aktivitäten alleine durch die Naturgesetze beschränkt. Ein
+Nachzügler könnte die Berechtigung eines Vorgängers nur anzweifeln wenn
+*er* Eigentümer der Güter wäre, die durch die Handlungen des Vorgängers
+beeinflusst werden. Das würde allerdings implizieren, dass man nicht
+angeeignete Sachen besitzen kann, also Eigentum an Sachen die man noch
+nicht entdeckt oder durch eigene Handlungen originär angeeignet hat.
+Demzufolge dürfte niemand eine vorher unentdeckte und nicht angeeignete
+Sache erstmalig benutzen.
+
+
+Die Wirtschaftlichkeit des Privateigentums
+------------------------------------------
+
+Die Idee des Privateigentums stimmt nicht nur mit unserer moralischen
+Intuition überein und ist die einzig gerechte Lösung zum Problem der
+gesellschaftlichen Ordnung, sondern ist auch die Grundlage für
+wirtschaftlichen Wohlstand und die Voraussetzung für soziale Wohlfahrt.
+So lange sich Menschen nach den Regeln des Privateigentums richten, wird
+auch die gesellschaftliche Wohlfahrt optimiert.
+
+Jede originäre Aneignung verbessert die Wohlfahrt des aneignenden
+(zumindest *ex ante*); sonst würde man sie nicht durchführen. Durch diese
+Handlung geht es gleichzeitig niemandem schlechter. Jeder andere hätte
+sich die gleichen Güter und Gebiete aneignen können, wenn er sie als
+knapp - und demnach wertvoll - angesehen hätte. Da eine solche Aneignung
+jedoch von niemandem durchgeführt wurde, kann keiner durch die Handlung
+des Aneignenden an Wohlfahrt verloren haben. Es folgt, dass das
+sogenannte Pareto-Kriterium erfüllt ist: Es ist wissenschaftlich *nur
+dann* berechtigt von einer Erhöhung der sozialen Wohlfahrt zu sprechen,
+wenn durch eine Änderung zumindest eine Person an Wohlstand subjektiv
+gewinnt, dabei aber niemand einen Verlust erleidet. Die originäre
+Aneignung erfüllt diese Bedingung. Es erhöht den Wohlstand des
+Aneignenden, ohne dabei den physischen Wohlstand (das Eigentum) eines
+anderen zu verringern. Alle anderen haben die gleiche Menge an Eigentum
+wie zuvor und der Aneignende hat neues, zuvor nicht existentes Eigentum
+gewonnen. Insofern erhöht ein Akt der originären Aneignung immer die
+soziale Wohlfahrt.
+
+Jede weitere Handlung mit originär angeeignete Güter und Gebiet erhöht
+die soziale Wohlfahrt, denn was eine Person mit seinem Eigentum auch
+unternimmt, es ist immer mit der Absicht seine Wohlfahrt zu erhöhen. Das
+ist der Fall wenn er sein Eigentum verbraucht oder wenn er neues
+Eigentum damit produziert. Jede Produktion wird mit der Absicht
+durchgeführt ein weniger wertvolles Gut in ein Wertvolleres zu
+verwandeln. So lange der Verbrauch und die Produktion nicht zu einer
+physischen Beeinträchtigung des Eigentums von anderen führt, kann man
+diese Handlungen als Steigerung der sozialen Wohlfahrt betrachten.
+
+Schließlich können wir feststellen, dass jeder freiwillige Austausch von
+angeeigneten oder produzierten Gütern die soziale Wohlfahrt erhöht. Ein
+Tausch von Eigentum ist nämlich nur dann möglich wenn beide Eigentümer
+das erworbene Gut in ihrer subjektiven Empfindung höher bewerten als das
+was sie hergeben und demnach erwarten von dem Tausch zu profitieren.
+Der Wohlstand von zwei Personen wird bei jedem Tausch von Eigentum
+erhöht, dabei bleibt das Eigentum von allen anderen unverändert.
+
+Dem gegenüber steht, dass jede Abweichung von den Regeln der Institution
+des Privateigentums zu einem Verlust an sozialer Wohlfahrt führen muss.
+
+Im Fall allgemeiner und gleicher Miteigentümerschaft - universeller
+Kommunismus statt Privateigentum - würde der Preis mit dem Aussterben
+der Menschheit beglichen, denn universelle Miteigentümerschaft würde
+bedeuten, dass es keinem erlaubt wäre irgendetwas zu tun oder sich
+irgendwo hin zu bewegen. Jede tatsächliche Abweichung von einer Ordnung
+des Privateigentums würde ein System ungleicher Herrschaft darstellen.
+Das heißt es wäre *einer* Person oder Gruppe - die Herrscher, Ausbeuter
+oder Übermenschen - erlaubt Eigentum zu erwerben, *außer* durch
+originäre Aneignung, Produktion oder Tauschhandel. Der anderen Person
+oder Gruppe - die Beherrschten, Ausgebeuteten oder Untermenschen - wäre
+das gleiche Recht jedoch verwehrt. Eine solche Herrschaftsordnung ist
+zwar durchaus möglich, würde jedoch zu einem Verlust sozialer Wohlfahrt
+und relativer Verarmung führen.
+
+Wenn es *A* erlaubt ist ein Gut oder Gebiet anzueignen, dass sichtbar
+markiert das Eigentum von *B* ist, wird der Wohlstand von *A* auf kosten
+von *B* erhöht. Das Pareto-Kriterium ist nicht erfüllt und die soziale
+Wohlfahrt ist suboptimal. Das gleiche gilt für andere Formen
+herrschaftlicher Eingriffe: Ob *B* von *A* daran gehindert wird sich
+einen bisher nicht angeeigneten Teil der Natur originär anzueignen; ob
+es *A* erlaubt ist die von *B* produzierten Güter ohne sein
+Einverständnis zu nehmen; ob *A* vorschreiben kann was *B* mit seinem
+angeeignetem oder produziertem Besitz tun darf (ausgenommen der
+Vorschrift, dass es ihm nicht erlaubt ist das Eigentum anderer physisch
+zu beschädigen oder zu beeinträchtigen) - in jedem Fall haben wir einen
+"Sieger", *A*, und einen "Verlierer", *B*. In jedem Fall vermehrt *A*
+sein Eigentum durch eine entsprechende Verringerung des Eigentums von
+*B*. In keinem Fall ist das Pareto-Kriterium erfüllt und es entsteht
+immer ein suboptimales Niveau sozialer Wohlfahrt.
+
+Die Ausübung von Herrschaft führt darüber hinaus zu einer Verringerung
+der zukünftigen Produktion. Jede Reglung die den Nicht-Aneignenden,
+Nicht-Produzierenden und Nicht-Handelnden einen Teil oder die volle
+Kontrolle über die angeeigneten, produzierten oder erworbenen Güter
+gewährt, führt zwangsläufig zu einer Verringerung der betreffenden
+Tätigkeiten. Denn für die ausübenden Personen ist die Aneignung,
+Produktion und der Handel mit gewissen Kosten verbunden, und diese
+Kosten erhöhen sich unter einem Herrschaftsystem. Dem gegenüber steht
+eine Verringerung von Kosten, wenn man diese Handlungen beendet.
+
+Der sofortige Konsum und die Freizeit wird im Vergleich zur Produktion
+(zukünftiger Konsum) attraktiver, und die Güterproduktion wird sich
+unterhalb des ansonsten erreichten Niveaus bewegen. Bei den Herrschern
+führt die Tatsache, dass sie ihr Wohlstand durch Enteignung erhöhen
+können zu einem verschwenderischen Umgang mit dem Eigentum unter ihrem
+Einfluss. Da es ihnen erlaubt ist ihren zukünftigen Wohlstand durch
+Enteignung (Steuern) zu erhöhen, wird Konsum und Kurzsichtigkeit (hohe
+Zeitpräferenz) gefördert und sofern sie ihre Güter überhaupt "produktiv"
+einsetzen, so ist die Wahrscheinlichkeit für Misswirtschaft,
+Fehleinschätzungen und wirtschaftlichen Verlusten systematisch erhöht.
+
+
+Der Klassische Ursprung
+-----------------------
+
+Wie eingangs angemerkt wurde, ist Privateigentum als Grundlagen von
+Ethik und Wirtschaft nichts neues. Es ist vielmehr ein moderner Ausdruck
+einer "klassischen" Tradition, die sich bis auf Aristoteles, das Römische
+Recht, Thomas von Aquin, die späten Scholastiker in Spanien, Grotius und
+Locke zurückführen lässt.[^7]
+
+[^7]: Siehe hierzu Murray N. Rothbard, *Economic Thought Before Adam
+    Smith. An Austrian Perspective on the History of Economic Thought,
+    Volume I* (Aldershot, UK: Edward Elgar, 1995); und Tom Bethell,
+    *The Noblest Triumph. Property and Prosperity Through the Ages* (New
+    York: St.  Martin's Press, 1998).
+
+Im Gegensatz zur kommunistischen Utopie der *Republik* des Plato, zeigt 
+Aristoteles die Vorteile des Privateigentums in *Politik* mit einer
+umfassenden Liste. Zunächst sorgt Privateigentum für mehr Produktion.
+"Was der größten Gemeinde gehört, wird am wenigsten gepflegt. Man achtet
+am meisten auf das was einem gehört; weniger auf das was allen gehört;
+zumindest sorgt man nur soweit dafür wie es einem persönlich betrifft. 
+Selbst wenn es keinen Grund gibt die Wartung zu vernachlässigen, neigt
+man eher dazu die Pflicht zu vernachlässigen wenn man der Meinung ist
+jemand anderes kümmert sich darum."[^8]
+
+[^8]: Aristoteles, *Politics* (Oxford: Clarendon Press, 1946), 1261b.
+
+Zum zweiten, verhindert Privateigentum Konflikte und fördert den
+Frieden. Wenn Menschen ihre eigenen getrennten Gebiete haben, "wird es
+nicht die gleichen Gründe für Streit geben und die Erträge werden
+steigen, da jeder meint seine Arbeitskraft im eigenen Dienst
+einzusetzen"[^9] "Tatsächlich ist es eine beobachtete Tatsache, dass
+gemeinschaftliche Eigentümer und geteilte Verwaltung, viel öfter
+Uneinigkeit verursacht als getrenntes Eigentum."[^10] Weiterhin können
+wir feststellen, dass Privateigentum schon immer und überall existiert
+hat, während eine kommunistische Utopie noch nie spontan entstanden ist.
+Zuletzt werden Tugenden wie Gutmütigkeit und Großzügigkeit durch
+Privateigentum gefördert. Es erlaubt einem gegenüber Freunden in der
+Not, sich zivilisiert zu verhalten.
+
+[^9]: Ibid, 1263a.
+
+[^10]: Ibid, 1263b.
+
+Das Römische Recht, vom *Zwölftafelgesetz* bis zum *Codex Theodosianus*
+und dem *Codex Justinian*, hat das Recht am Privateigentum als praktisch
+absolut anerkannt. Der Ursprung vom Eigentum war der unangefochtene
+Besitz und zuvor gesicherte Dienstbarkeit durch Nutzung. Ein Eigentümer
+konnte beliebig mit seinem Eigentum umgehen, und die Vertragsfreiheit
+wurde anerkannt. Wichtig war die Unterscheidung im Römischen Recht
+zwischen 'nationales' (Römisches) Recht - *ius civile* - und
+'internationales' Recht - *ius gentium*.
+
+Der Christliche Beitrag zu dieser klassischen Tradition - verkörpert
+durch Thomas von Aquin, die späten Scholastiker in Spanien sowie die
+Protestanten Hugo Grotius und John Locke - ist zweierlei. Die
+Griechische wie die Römische Zivilisation erlaubten die Sklavenhaltung.
+Bezeichnend war die Haltung von Aristoteles, dass die Sklaverei eine 
+natürliche Institution ist. Im Gegensatz dazu, ist die westliche -
+christliche - Zivilisation, mit ein paar Ausnahmen, im wesentlichen
+eine freie Gesellschaft. Entsprechend war für Aquin und Locke jede
+Person, Eigentümer seiner selbst. Aristoteles und die klassische
+Zivilisation im allgemeinen, hatten darüber hinaus, eine
+verachtungsvolle Haltung gegenüber Arbeit, Handel und dem verdienst von
+Geld. Im Gegensatz dazu und in Übereinstimmung mit dem Alten Testament,
+lobte die Kirche die Tugend von Arbeit und Mühe. Für Aquin und Locke kam
+Eigentum zustande, durch Arbeit, Nutzung und Anbau auf bisher
+unbenutztes Land.
+
+Diese klassische Theorie des Privateigentums, auf der Grundlage des
+Eigentums seiner selbst, originäre Aneignung, und Verträge (Übertragung
+von Rechten) fand weiterhin berühmte Befürworter wie J. B. Say. Seit der
+Hochzeit ihres Einflusses im achtzehnten Jahrhundert, ist die
+klassische Theorie bis vor kurzem, mit dem Aufkommen der Bewegung um
+Rothbard, in Vergessenheit geraten.
+
+Zwei Jahrhunderte lang waren Ökonomie und Ethik (politische Philosophie)
+von ihrem gemeinsamen Ursprung im natürlichen Recht, zu zwei scheinbar
+unterschiedliche intellektuelle Unterfangen geworden. Die Ökonomie war
+eine "positive" Wissenschaft ohne Werte. Es fragte "Welche Mittel sind
+angemessen um ein gegebenes (angenommenes) Ziel zu erreichen?". Die
+Ethik war eine "normative" Wissenschaft (wenn es überhaupt eine
+Wissenschaft war). Es stellte die Frage "Welche Ziele (und welche
+Mittel) sind gerechtfertigt?". Wegen dieser Trennung, ist das Konzept
+des Eigentums aus beiden Disziplinen verschwunden. Für einen Ökonomen
+hörte sich Eigentum zu normativ an; politische Philosophen verbanden mit
+Eigentum die banale Ökonomie.
+
+Im Gegensatz dazu, wies Rothbard darauf hin, das elementare 
+Begriffe der Ökonomie wie direkter und indirekter Handel, Märkte und
+Preise sowie Aggression, Kriminalität, Schaden und Betrug nicht ohne
+eine Theorie des Eigentums definiert oder verstanden werden können.
+Die Begründung der bekannten Lehrsätze der Ökonomie die sich
+auf diese Phänomene beziehen ist ebenfalls nicht möglich, ohne einen
+impliziten Begriff des Eigentums und Eigentumsrechte. Die Definition und
+Theorie des Eigentums, muss vor der Definition und Begründung aller
+weiteren Begriffe und Lehrsätze der Ökonomie stehen.
+
+Der einzigartige Beitrag von Rothbard, von 1960 bis zu seinem Tod 1995,
+war die Neuentdeckung des Eigentums und des Eigentumsrechts als die
+gemeinsame Grundlage der Ökonomie und der politischen Philosophie, sowie
+die systematische Rekonstruktion und konzeptionelle Integration der
+modernen Grenznutzenschule der Ökonomie mit der politischen Philosophie
+des Natürlichen Rechts, zu einer einheitlichen modernen Wissenschaft:
+Libertarismus.
+
+Abwege aus Chicago
+------------------
+
+Zur Zeit als Rothbard dabei war, das Konzept des Privateigentums
+in der Ökonomie wiederherzustellen und die Ökonomie wieder in die Ethik
+zu integrieren, fingen andere Ökonomen und Rechtswissenschaftler der
+Universität von Chicago wie Ronald Coase, Harold Demsetz und Richard
+Posner ebenfalls an, wieder professionelle Aufmerksamkeit auf das Thema 
+Eigentum und Eigentumsrecht zu richten.[^11]
+
+[^11]: Siehe Ronald Coase, *The Firm, The Market, and the Law* (Chicago,
+    University of Chicago Press, 1988); Harold Demsetz, *Ownership, 
+    Control, and the Firm* (Oxford: Basil Blackwell, 1988); Richard 
+    Posner, *The Economics of Justice* (Cambridge: Harvard University
+    Press, 1981).
+
+Während Rothbard jedoch Privateigentum und Ethik als Grundlage der
+Ökonomie sah, war das Privateigentum und die Ethik für die Chicago
+Gelehrten, der Ökonomie und ökonomischen Abwägungen untergeordnet.
+Nach Posner war alles gerecht, was den gesellschaftlichen Wohlstand
+fördert.[^12]
+
+[^12]: Posner, *The Economics of Justice*, p. 74: "ungerecht (ist
+    definiert) als das was den Wohlstand einer Gesellschaft verringert."
+
+Der Unterschied zwischen den beiden Ansätzen kann man anhand eines der
+von Coase gegebenen Problemfälle zeigen: Eine Eisenbahn verläuft neben
+ein Acker. Die Lokomotive sprüht Funken und beschädigt das Getreide des
+Bauern. Was soll geschehen?
+
+Aus der klassischen Sicht, müssen wir feststellen ob der Bauer oder die
+Eisenbahn zuerst da war. Wenn der Bauer zuerst da war, kann er die
+Eisenbahn zwingen die Beschädigung zu unterlassen oder einen Ausgleich
+verlangen. Wenn die Eisenbahn zuerst da war, kann sie weiterhin Funken
+sprühen und der Bauer müsste die Eisenbahn bezahlen damit sie ohne
+Funken fährt.
+
+Aus der Sicht von Coase ist die Antwort zweierlei. Als erstes stellt 
+Coase die "positive" Behauptung auf, dass es keine Rolle spielt *wie*
+Eigentumsrechte und Haftpflicht zugeordnet werden, wesentlich ist,
+*dass* sie zugeordnet werden, vorausgesetzt die Transaktionskosten
+sind null (unrealistisch).
+
+Coase behauptet es wäre falsch den Bauern oder die Eisenbahn als im
+"Recht" oder "Unrecht" (haftbar) oder als "Täter" und "Opfer" zu
+betrachten. "Die Frage wird häufig als eine erachtet, in der *A* einen
+Schaden bei *B* verursacht und entschieden werden muss, wie wir *A*
+daran hindern sollen. Das ist jedoch falsch. Es handelt sich um ein
+Frage gegenseitiger Schäden. Würde man den Schaden an *B* verhindern,
+wäre das ein Schaden an *A*. Die wirkliche Frage sollte sein: Sollte es
+*A* erlaubt sein *B* zu schaden oder umgekehrt? Das Problem ist es, den
+größeren Schaden zu vermeiden".[^13]
+
+[^13]: Ronald Coase, "The Problem of Social Cost," in: idem, *The Firm,
+    the Market, and the Law*, p. 96. Die moralische Perversion dieser
+    Behauptung kann man am besten erkennen wenn wir uns den Fall einer
+    Vergewaltigung von *B* durch *A* vorstellen. Nach Coase, sollte *A*
+    nicht aufgehalten werden.. Vielmehr "handelt es sich um eine Frage
+    gegenseitiger Schäden". Wenn wir *A* daran hindern *B* zu
+    vergewaltigen, verursachen wir bei *A* einen Schaden, da er nicht
+    länger nach belieben vergewaltigen kann. Die wirkliche Frage ist:
+    Sollte es *A* erlaubt sein *B* zu vergewaltigen, oder sollte es *B*
+    erlaubt sein *A* daran zu hindern sie/ihn zu vergewaltigen? "Das
+    Problem ist es, den größeren Schaden zu vermeiden".
+
+Angesichts der "gleichen" moralischen Stellung von *A* und *B*, macht
+es für die Zuordnung von wirtschaftlichen Gütern angeblich zunächst
+keinen Unterschied, wem die Eigentumsrechte zugewiesen werden. Stellen
+wir uns vor der Ernteschaden für den Bauern, *A*, beträgt $1000 und die
+Kosten eines Geräts zur Verhinderung von Funken (GVF) beträgt für *B*
+$750. Wenn *B* für den Ernteschaden haftbar gemacht wird, muss *B* ein
+GVF installieren oder seinen Betrieb einstellen. Wenn *B* nicht für den
+Schaden haftbar gemacht wird, muss *A* einen Betrag zwischen $750 und
+$1000 bezahlen, damit *B* ein GVF installiert. In beiden Fällen wird ein
+GVF installiert. Nehmen wir nun an die Zahlen wären umgekehrt: Der
+Ernteschaden beträgt $750 und das GVF kostet $1000. Wenn *B* haftbar
+gemacht wird, wird er $750 an *A* bezahlen jedoch kein GVF
+installieren. Wenn *B* nicht haftbar gemacht wird, kann *A* nicht genug
+an *B* bezahlen um ein GVF zu installieren. Wieder enden beide Fälle mit
+dem gleichen Ergebnis. Es wird *kein* GVF installiert. Es spielt
+nach Coase, Demsetz und Posner deswegen keine Rolle wie die
+Eigentumsrechte am Anfang zugewiesen sind, denn die resultierende 
+Zuteilung von Wirtschaftsgütern bleibt unbetroffen.
+
+Die Zweite und diesmal "normative" Behauptung - und im einzig
+*realistischen* Fall von *positiven* Transaktionskosten - von Coase,
+Demsetz und Posner ist, dass Gerichte den streitenden Parteien
+Eigentumsrechte derart zuweisen sollten, dass "Wohlstand" oder der "Wert
+der Produktion" maximiert wird. Im eben geschilderten Fall wäre die
+Eisenbahn gegenüber dem Bauer haftbar, sofern die Kosten für das GVF
+höher sind als sein Ernteverlust. Im gegenteiligen Fall, sollte das
+Gericht so entscheiden, dass der Bauer an die Eisenbahn einen
+Schadensersatz zahlt. Posner bietet ein weiteres Beispiel an. Eine
+Fabrik verursacht Rauch und verringert dadurch den Eigentumswert der
+umliegenden Grundstücke. Wenn die Grundstücke um $ 3 Million an Wert
+verlieren und die Kosten eines Standortwechsels für die Fabrik $ 2
+Million betragen, sollte die Fabrik haftbar gemacht werden und gezwungen
+werden um zu ziehen. Wenn die Zahlen jedoch umgekehrt sind - die
+Grundstückswerte verlieren $ 2 Million und die Kosten des
+Standortwechsels sind $ 3 Million - darf die Fabrik bleiben und
+weiterhin Rauch abgeben.
+
+Sowohl die positive als auch die normative Behauptung der
+Rechtsgelehrten und Ökonomen aus Chicago müssen abgewiesen werden. Im
+Bezug auf die Behauptung es würde keine Rolle spielen, wem die
+Eigentumsrechte zugewiesen werden folgen drei Antworten. Erstens, wie
+Coase unweigerlich zugibt, macht es für den Bauern und der Eisenbahn
+sehr wohl einen Unterschied, wem die Eigentumsrechte zugewiesen werden.
+Es macht nicht nur ein Unterschied, wie Ressourcen verteilt werden,
+sondern auch wem sie gehören.
+
+[^14]: Siehe auch Walter Block, "Coase and Demsetz on Private Property
+    Rights," *Journal of Libertarian Studies*, Vol.1, no. 2, 1977; idem,
+    "Ethics, Efficiency, Coasian Property Rights, and Psychic Income: A
+    Reply to Harold Demsetz," *Review of Austrian Economics*, Vol. 8,
+    no.  2, 1995; idem, "Private Property Rights, Erroneous
+    Interpretations, Morality and Economics," Quarterly Journal of
+    Austrian Economics, Vol.  3, no. 1, 2000; Gary North, *The Coase
+    Theorem: A Study in Epistemology* (Tyler, Texas: Institute for
+    Christian Economics, 1992); idem, "Undermining Property Rights:
+    Coase and Becker," *Journal of Libertarian Studies*, Vol. 16, no. 4
+    (forthcoming).
+
+Zweitens, und viel wichtiger, es macht für die gesellschaftliche
+Produktion einen fundamentalen Unterschied, wie Eigentumsrechte
+zugewiesen werden. Die Ressourcen die einer produktiven Unternehmung
+zugewiesen werden, sind nicht einfach gegeben. Sie selbst sind das
+Ergebnis früherer Handlungen produktiver Natur oder einer originären
+Aneignung. Diese Handlungen hängen davon ab ob sie sich für die
+Produzierenden und Aneignenden lohnen. Wenn Produzierende und Aneignende
+die absoluten Eigentümer über ihre Güter sind, d.h. wenn sie nicht wegen
+Handlungen eines Nachzüglers Haftbar gemacht werden können, wird der
+Wohlstand maximiert. Wenn andererseits die Produzierenden und
+Aneignenden gegenüber Nachzügler haftbar gemacht werden können, was
+Coase mit der Lehre vom "gegenseitigen Schaden" impliziert, so wird der
+produzierte Wert geringer sein als es sonst der Fall wäre. Die Lehre,
+dass "es keinen Unterschied macht" ist also kontraproduktiv im Bezug auf
+das erklärte Ziel der Maximierung des Wohlstands.
+
+Drittens, die Behauptung von Coase, dass der Einsatz von Ressourcen
+durch die erste Zuweisung von Eigentumsrechte nicht beeinflusst wird ist
+im allgemeinen nicht richtig. Tatsächlich, ist es sehr einfach ein
+Gegenbeispiel aufzustellen. Nehmen wir an der Bauer verliert wegen den
+Funken der Eisenbahn nicht $ 1000 an seiner Ernte, sondern ein
+Blumenbeet, dass ihm $ 1000 wert ist, für jeden anderen aber wertlos
+ist. Wenn das Gericht die Eisenbahn haftbar macht, wird das $ 750 teure
+GVF installiert. Wenn das Gericht die Eisenbahn nicht haftbar macht,
+wird das GVF *nicht* installiert, schlicht und einfach weil der Bauer
+nicht das nötige Geld aufbringen kann, um die Eisenbahn zu überreden ein
+GVF zu installieren. Die Verteilung der Ressourcen ist *unterschiedlich*
+je nachdem wie Eigentumsrechte eingangs bestimmt wurden.
+
+Ähnlich und entgegen der normativen Behauptung der Chicago Rechts- und
+Wirtschaftslehre, dass Gerichte die Rechte am Eigentum zur Maximierung
+des gesellschaftlichen Wohlstands zuweisen sollten, folgen drei
+Antworten. Erstens ist kein zwischenmenschlicher Vergleich vom Nutzen
+möglich. Dennoch müssen Gerichte wohl oder über solche beliebigen
+Vergleiche machen, jedes mal wenn sie eine Kosten-Nutzen-Analyse machen.
+Solche Kosten-Nutzen-Vergleiche sind so willkürlich wie die Annahmen auf
+denen sie beruhen. Sie nehmen z.B. an, dass psychische Kosten
+vernachlässigt werden können und dass der Grenznutzen des Geldes
+konstant und für alle gleich ist.
+
+Zweitens, verdeutlichen die numerischen Beispiele oben, dass sich
+die vom Gericht zugewiesenen Eigentumsrechte ändern, je nachdem wie
+die Marktlage gerade ist. Wenn ein GVF weniger kostet als der
+Ernteschaden, bekommt die Eisenbahn Recht. Unterschiedliche Umstände
+führen also zu einer Umverteilung von Eigentumsrechten. Keiner kann sich
+je seines Eigentums sicher sein.[^15] Es entsteht eine permanent
+unsichere Rechtslage. Das scheint weder gerecht noch wirtschaftlich;
+desweiteren würde wohl keiner mit rechtem Verstand, sich an ein Gericht
+wenden, dass bekanntgibt es wird Eigentumsrechte mit der Zeit neu
+zuweisen, abhängig von der derzeitigen Marktlage.
+
+[^15]: Posner, *The Economics of Justice*, p. 70-71, gibt dies mit
+    ergreifender Offenheit zu: "Absolute Rechte spielen eine wichtige
+    Rolle in der ökonomischen Rechtstheorie. ... Wenn Transaktionskosten
+    zu groß werden, ist die Anerkennung von absoluten Rechten nicht
+    effizient. ... Eigentumsrechte, wenn auch absolut, (sind) abhängig
+    von Transaktionskosten und dienen dem Ziel der Maximierung des
+    Wohlstands bzw. sind ihm untergeordnet".
+
+Zuletzt, muss eine Ethik bei sich ändernde Umstände gleich und stabil
+bleiben; eine Ethik muss einem erlauben Entscheidungen über "Recht oder
+Unrecht" zu treffen *bevor* man handelt und das wofür man haftbar
+gemacht werden könnte, muss unter der eigenen Kontrolle stehen. Das gilt
+für die klassische Ethik des Privateigentums mit dem
+erster-Nutzer-erster-Eigentümer Prinzip. Dieser Ethik zufolge, sind
+gerechte Handlungen solche die umgesetzt werden mit rechtmäßigen Mitteln
+- Mittel aus originärer Aneignung, Produktion oder vertraglichem Handel
+mit dem vorherigen Eigentümer - ohne dabei einen physischen Schaden am
+Eigentum anderer zu verursachen. Jede Person kann eingangs bestimmen ob
+diese Bedingung erfüllt ist oder nicht, und es steht unter seinem
+Einfluss ob seine Handlungen das Eigentum anderer beschädigt. In beider
+Hinsicht ist es bei der Ethik der Maximierung des Wohlstands ganz
+anders. Niemand kann vorher sagen, ob die eigenen Handlungen zu einem
+großeren gesellschaftlichen Wohlstand führen oder nicht. Wenn es
+überhaupt bestimmt werden kann, dann erst im Nachhinein. Es steht auch
+nicht unter der eigenen Kontrolle, ob die eigenen Handlungen zur
+Maximierung des gesellschaftlichen Wohlstands führt. Ob das der Fall ist
+hängt von den Handlungen und Einschätzungen *anderer* Personen ab.
+Wieder müssen wir Fragen, welche Person mit rechtem Verstand, würde sich
+dem Urteil eines Gerichts aussetzen, dass ihm nicht vorher wissen
+lässt wie man sich rechtmäßig verhalten kann und wie man es vermeiden 
+kann widerrechtlich zu handeln. Wer kann sich für ein "Recht"
+aussprechen, dass solche Entscheidungen erst im Nachhinein und mit
+vollendeten Tatsachen trifft?

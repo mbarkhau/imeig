@@ -1,0 +1,4 @@
+\documentclass[12pt,twoside,a5paper]{book}
+\usepackage[mathletters]{ucs}
+\usepackage[utf8]{inputenc}
+\usepackage[inner=18mm,outer=18mm,top=18mm,bottom=8mm,includeheadfoot]{geometry}

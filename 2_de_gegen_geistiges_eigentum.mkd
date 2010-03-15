@@ -1,0 +1,2396 @@
+<!--
+% Gegen Geistiges Eigentum
+% 2001 Stephan Kinsella
+-->
+
+
+Eigentumsrechte: Materiell und Immateriell
+==========================================
+
+Alle Anhänger des Libertarismus sind Befürworter von Eigentumsrechte
+und sind sich einig, dass diese Rechte zumindest für greifbare Objekte
+gelten. Zu diesen Objekten gehört unbewegliches Vermögen, wie ein
+Grundstück oder eine Immobilie, sowie bewegliches Vermögen wie ein
+Stuhl, eine Keule, ein Fahrzeug oder eine Uhr.[^1][^2]
+
+[^1]: Im Englischen bezieht sich de Autor auf Begriffe wie "realty",
+    "personalty" und "tangible" aus dem Common Law; analoge Begriffe
+    aus dem Zivilrecht sind jeweils "immovables", "movables" und
+    "corporeals". In N. Stephan Kinsella "A Civil Law to Common Law
+    Dictionary," *Louisiana Law Review* 54 (1994): 1265–305 werden
+    weitere Unterschiede zwischen den Begriffen im Zivilrecht und dem 
+    Common Law erläutert. Der Begriff "things" (deut. Objekte) ist ein
+    weit gefasstes Konzept aus dem Zivilrecht, dass sich auf alle Arten
+    von Güter bezieht, ob greifbar oder ungreifbar, ob beweglich oder
+    unbeweglich.
+
+[^2]: Die hier verwendete Begriffe sind frei gewählte Übersetzungen und
+    keinesfalls als im rechtlichen Sinne analog zum Englischen zu sehen.
+    Der interessierte Leser sei hier auf den Originaltext "Against
+    Intellectual Property", *Journal of Libertarian Studies* 15 no.2
+    (Spring 2001) verwiesen.
+
+Weiterhin unterstützen alle Libertäre das Eigentumsrecht am eigenen
+Körper.  Mit anderen Worten für das Verfügungsrecht am eigenen Körper,
+dabei sollte man jedoch im Hinterkopf behalten, dass keine Einigkeit im
+Bezug auf die vertragliche Übertragbarkeit von diesem Recht (Analog zu
+dem an andere externe Objekte) herrscht.[^3] Davon mal abgesehen, sind
+sich libertäre einig, dass jedes knappe und greifbare Objekt–ob
+angeeignet oder erschaffen, mobile oder immobil, sogar der eigene
+Körper–Gegenstand von Verfügungsrechte ist bzw. das Eigentum eines
+einzelnen Individuums sein kann.
+
+[^3]: Der Streit über die Übertragbarkeit bezieht sich auf das
+    Vertragsrecht, also ob man seinen Körper verkaufen bzw. das
+    Verfügungsrecht daran übertragen kann im selben Sinne wie wir das
+    Verfügungsrecht an sachliches Eigentum übertragen können. Argumente
+    gegen die Übertragbarkeit werden behandelt in N. Stephan Kinsella "A
+    Theory of Contracts: Binding Promises, Title Transfer, and
+    Inalienability" (vorgestellt auf dem Austrian Scholars Conference,
+    Auburn, Alabama, April 1999) ; sowie "Inalienability and Punishment: A
+    Reply to George Smith," von N. Stephan Kinsella im *Journal of
+    Libertarian Studies* 14, no. 1 (Winter 1998–99): 79–93.
+
+    Argumente für die Übertragbarkeit findet man in Walter Block "Toward
+    a Libertarian Theory of Inalienability: A Critique of Rothbard,
+    Barnett, Gordon, Smith, Kinsella, and Epstein," im *Journal of
+    Libertarian Studies* 17, no. 2 (Spring 2003): 39–85.
+
+Sowie es jedoch um ungreifbare und nicht um greifbare Objekte geht, ist 
+die Lage nicht so klar. Das Recht am eigenen Ruf (Diffamierung) und gegen
+Erpressung, sind Rechte an gänzlich ungreifbare Dinge. Die meisten
+libertäre, wenn auch nicht alle, sprechen sich gegen Gesetze aus, die
+sich auf Erpressung beziehen und viele wenden sich gegen die Vorstellung
+man habe ein Recht am eigenen Ruf.[^4]
+
+[^4]: Argumente gegen Gesetze im Bezug auf Erpressung findet man in Walter
+    Block, "Toward a Libertarian Theory of Blackmail," *Journal of 
+    Libertarian Studies* 15, no. 2 (Spring 2001); Walter Block, "A
+    Libertarian Theory of Blackmail," *Irish Jurist* 33 (1998): 280–310;
+    Walter Block, *Defending the Undefendable* (New York: Fleet Press, 1976),
+    pp. 53–54; Murray N. Rothbard *The Ethics of Liberty* (New York: New
+    York University Press, 1998), pp. 124–26; und Eric Mack "In Defense of
+    Blackmail", *Philosophical Studies* 41 (1982): 274.
+
+    Libertäre Argumente für Gesetze im Bezug auf Erpressung findet man
+    in Robert Nozick *Anarchy, State, and Utopia* (New
+    York: Basic Books, 1974), pp. 85–86; und Richard Epstein, "Blackmail,
+    Inc.," *University of Chicago Law Review* 50 (1983): 553.
+
+    Libertäre Argumente gegen Gesetze im Bezug auf Diffamierung (Rufmord
+    und üble Nachrede) findet man in Block, *Defending the Undefendable*, pp.
+    50–53; und Rothbard, *The Ethics of Liberty* pp. 126–28; für
+    Argumente dafür siehe David Kelley *David Kelley vs. Nat Hentoff:
+    Libel Laws: Pro and Con*, audiotape (Free Press Association, Liberty
+    Audio, 1987)
+
+Das Konzept des geistigen Eigentums ist ebenfalls sehr umstritten. Gibt
+es Rechte an geistige Werke, wie bspw. Erfindungen oder Romane? Sollte
+das Rechtssystem solche Rechte schützen? Zunächst werde ich die 
+derzeitige Rechtslage in den U.S.A. im Bezug auf geistiges Eigentum
+zusammenfassen. Danach behandele ich nacheinander die verschiedenen
+libertären Ansichten und stelle ihnen die, meiner Ansicht nach, richtige
+Auffassung vor.
+
+
+Gesetze zum Geistigen Eigentum
+==============================
+
+
+Die Arten von Geistigem Eigentum
+--------------------------------
+
+Das Konzept des geistigen Eigentums umfasst mehrere gesetzlich geregelte
+Rechte, die sich auf intellektuelle Schöpfungen beziehen oder auf eine
+andere Art mit Ideen zu tun haben.[^5] Rechte an g.E. sind Rechte an
+nicht greifbare Dinge[^6]—also an *Ideen* die man niederschreibt
+(Urheberrecht), oder solche die sich in der Implementierung eines
+praktischen Gegenstands ausdrücken (Patente). Tom Palmer drückt es
+folgendermaßen aus: "Rechte an geistiges Eigentum sind Rechte an
+idealisierte Objekte, die von der Materiellen Welt losgelöst sind worin
+sie ihren Ausdruck finden."[^7] In den heutigen Rechtssystemen umfasst
+geistiges Eigentum mindestens das Urheberrecht, Marktrechte, Patente,
+sowie Geschäftsgeheimnisse.[^8]
+
+[^5]: In manchen Teilen Europas verwendet man auch den Begriff
+    "industrielles Eigentum" anstatt "geistiges Eigentum".
+
+[^6]: 
+    *De La Vergne Refrigerating Mach. Co. v Featherstone*, 147 U.S. 209,
+    222, 13 S.Ct. 283, 285 (1893).
+
+[^7]: Tom G. Palmer, "Are Patents and Copyrights Morally Justified? The 
+    Philosophy of Property Rights and Ideal Objects," in "Symposium:
+    Intellectual Property," *Harvard Journal of Law \& Public Policy* 13, 
+    no. 3 (Summer 1990): 818.
+
+    Es gibt auch die Anmerkung, "eine Auffassung von geistigem Eigentum
+    ist, das Recht an neuen Ideen, die sich in konkreten Produkte geistiger
+    Anstrengung ausdrücken". Dale A. Nance, "Foreword: Owning Ideas," in
+    "Symposium: Intellectual Property," *Harvard Journal of Law \& Public
+    Policy* 13, no. 3 (Summer 1990): 757.
+
+[^8]: Eine nützliche Einführung zum Thema geistiges Eigentum schrieben
+    Arthur R. Miller und Michael H. Davis, *Intellectual Property:
+    Patents, Trademarks, and Copyrights in a Nutshell, 2nd ed.* (St.
+    Paul, Minn.: West Publishing, 1990); siehe auch "Patent, Trademark,
+    and Trade Secret", http://profs.lp.findlaw.com/patents/index.html. 
+
+    Eine gute Einführung zum Patentrecht schrieb Ronald B. Hildreth, 
+    *Patent Law: A Practitioner’s Guide*, 3rd ed. (New York: Practising
+    Law Institute, 1998).
+
+    Eingehendere Behandlungen zur Rechtslage um geistiges Eigentum sind
+    unter anderem Donald S. Chisum, *Chisum on Patents* (New York: 
+    Matthew Bender, 2000); Melville B. Nimmer und David Nimmer, *Nimmer
+    on Copyright* (New York: Matthew Bender, 2000); Paul Goldstein, 
+    *Copyright: Principles, Law, and Practice* (Boston: Little, Brown,
+    1989); J. Thomas McCarthy, *McCarthy on Trademarks and Unfair
+    Competition,* 4th ed. (St. Paul, Minn.: West Group, 1996); und Roger 
+    M.  Milgrim, *Milgrim on Trade Secrets* (New York: Matthew Bender,
+    2000).
+
+    Hilfreiche Information und Broschüre bekommt man auch vom
+    United States Copyright Office, http://lcweb.loc.gov/copyright,
+    sowie vom Patent and Trademark Office of the Department of 
+    Commerce, http://www.uspto.gov. Weitere nützliche Webseiten sind im
+    Anhang und der Bibliographie zu finden.
+
+
+Urheberrecht
+------------
+
+Das Urheberrecht wird den Authoren von "originären Werken" wie
+beispielsweise Bücher, Artikel, Filme oder Quellcode gewährt. Mit
+dem Urheberrecht wird dem Author das exklusive Recht gewährt über die
+Vervielfältigung, die Anfertigung abgeleiteter Werke sowie die 
+Aufführung seiner Werke zu bestimmen.[^9] Das Urheberrecht schützt
+ausschließlich den *Ausdruck* bzw. die *Wiedergabe* von Ideen, nicht 
+die zugrundeliegenden Ideen selbst.[^10]
+
+[^9]: 17 USC §§ 101, 106 et pass.
+
+[^10]: Das Urheberrecht aus dem Common Law, gewährte automatisch mit der
+    Erstellung eines Werks ein Urheberrecht. Es beschränkte sich jedoch
+    im Wesentlichen auf die Gewährung des Rechts an der Erstauflage und 
+    ist weitestgehend vom heutigen Urheberrecht ersetzt worden.
+    Goldstein, *Copyright*, §§ 15.4 et seq.
+
+Man kann sich gewisse rechtliche Vorteile sichern, indem man sein
+Urheberrecht anmeldet, das ist jedoch keine Voraussetzung für das
+Urheberrecht. Das Urheberrecht entsteht vielmehr, sobald das Werk in ein
+"greifbares Medium fixiert wurde" und gilt für die Lebensdauer des
+Autors plus weitere 75 Jahre, bzw. insgesamt 95 Jahre im Fall, dass ein
+Arbeitgeber das Urheberrecht besitzt.[^11]
+
+[^11]: 17 USC § 302. Die Dauer des Urheberrechts wurde kürzlich in 
+    einer Gesetzesänderung um 20 Jahre verlängert worden. siehe HR
+    2589, *Sonny Bono Copyright Term Extension Act/Fairness in Music
+    Licensing Act of 1998*.
+
+
+Patent
+------
+
+Ein Patent ist ein Eigentumsrecht an eine Erfindung, also an ein Gerät
+oder Prozess, dass eine "nützliche" Funktion erfüllt.[^11] Eine
+neue oder verbesserte Mausefalle ist ein Beispiel für ein Gerät worauf
+man ein Patent bekommen kann. Im wesentlichen gewährt ein Patent dem
+Erfinder ein eingeschränktes Monopol im Bezug auf die Fertigung,
+Nutzung sowie dem Verkauf seiner Erfindung. Tatsächlich gewährt ein
+Patent dem Erfinder jedoch nur das Recht andere auszuschließen (er kann
+also andere daran *hindern* die Erfindung zu Nutzen); es erlaubt ihm
+jedoch nicht die Erfindung tatsächlich zu *nutzen*.[^12]
+
+[^11]: 35 USC § 1 et seq.; 37 CFR Part 1.
+
+[^12]: Stellen wir uns vor *A* erfindet eine bessere Mausefalle und
+    lässt sie patentieren. Die Falle verwendet Nitinol (eine 
+    Formgedächtnis-Legierungen) zum besseren zuschnappen. Nun erfindet
+    *B* eine Mausefalle mit einer Nitinol Feder und einem 
+    Antihaft-Überzug, damit sich die Überreste der Mäuse leichter
+    entfernen lassen und das Nitinol getriebene Zuschnappen erhalten
+    bleibt. *B* muss eine Mausefalle mit Nitinol haben um seine
+    Erfindung nutzen zu können, das würde jedoch das Patent von *A*
+    verletzen. *A* kann ebensowenig einen Antihaft-Überzug auf seine
+    Falle implementieren, ohne das Patent von *B* zu verletzen. In solch
+    einem Fall, können die beiden Patentinhaber sich gegenseitig ihre
+    Patente gewähren, sodass *A* die Verbesserung von *B* verwenden kann
+    und *B* seine eigene Erfindung nutzen kann.
+
+Nicht jede Innovation oder Entdeckung kann patentiert werden. Der
+Oberste Gerichtshof der Vereinigten Staaten hat beispielsweise drei
+Bereiche festgemacht, in denen keine Patente gewährt werden können,
+nämlich "natürliche Gesetze, natürliche Phänomene und abstrakte
+Ideen"[^13]. Sofern man abstrakte Ideen auf eine "praktische
+Verwendung", bzw. auf ein "nützliches, konkretes und greifbares
+Ergebnis"[^14] reduziert, können Patente darauf gewährt werden. Seit
+dem 8 Juni 1995 werden U.S. Patente für eine Dauer von 20 Jahren nach
+dem einreichen des Antrags gewährt[^15] (davor galt eine Dauer von 17
+Jahren nach der Gewährung des Patents).
+
+[^13]: 
+    *Diamond v Diehr*, 450 US 175, 185 (1981); siehe auch 35 USC § 101.
+
+[^14]: 
+    *In re Alappat*, 33 F3d 1526, 1544, 31 USPQ2d 1545, 1557 (Fed Cir
+    1994) (in banc). Siehe auch *State Street Bank &amp; Trust Co. v
+    Signature Financial Group*, 149 F3d 1368 (Fed Cir 1998).
+
+[^15]: 35 USC § 154(a)(2).
+
+
+Geschäftsgeheimnis
+------------------
+
+Geschäftsgeheimnisse sind Rezepte, Geräte oder Informationen, die
+ein Vorteil gegenüber der Konkurrenz darstellen, zumindest
+solange sie geheim bleiben.[^16] Das Rezept für Coca-Cola® wäre ein
+Beispiel. Ein Geschäftsgeheimnis kann eine Information sein, dass keinen
+hinreichend großen Fortschritt darstellt, um ein Patent zu rechtfertigen
+oder nicht originär genug ist um durch das Urheberrecht geschützt zu
+werden (bspw. eine Datenbank mit Seismologischen Daten oder eine
+Kundenkartei). Gesetze zum Geschäftsgeheimnis bestehen um die
+"Entwendung" dieser Geheimnisse zu verhindern, bzw. sie Regeln die
+Entschädigung, sollte es doch zur Entwendung kommen.[^17]
+Geschäftsgeheimnisse werden durch die Staaten geschützt, auch
+wenn vor kurzem Gesetze auf Bundesebene erlassen wurden, die den
+Diebstahl von Geschäftsgeheimnissen verhindern sollen.[^18]
+
+[^16]: Siehe z.B. R. Mark Halligan, esq., "Restatement of the Third
+    Law—Unfair Competition: A Brief Summary," §§ 39–45,
+    http://execpc.com/~mhallign/unfair.html; siehe auch *Uniform Trade
+    Secrets Act* (UTSA), http://nsi.org/Library/Espionage/usta.htm.
+
+[^17]: Siehe *Uniform Trade Secrets Act* (UTSA).
+
+[^18]:
+    *Economic Espionage Act of 1996*, 18 USC §§ 1831–39.
+
+Geschäftsgeheimnisse kann man schützen indem man erklärt, dass es
+sich bei den Einzelheiten zu einem Thema um ein Geheimnis handelt.
+Theoretisch kann ein Geschäftsgeheimnis unbeschränkt fortbestehen, auch
+wenn es durch Offenlegung, Nachahmung oder unabhängige Entwicklung 
+zunichte gemacht werden kann. Geschäftsgeheimnisse können geheime
+Informationen und Prozesse schützen, wie bspw. Datensammlungen oder
+Landkarten die nicht durch das Urheberrecht geschützt werden können. Es
+kann auch verwendet werden, um den Quellcode von Software zu schützen,
+dass nicht durch Patente geschützt werden kann. Sich auf den Schutz des
+Geschäftsgeheimnisses zu verlassen hat einen Nachteil, nämlich dass die
+Konkurrenz es eigenständig Entwickeln kann, auf das Gerät oder
+den Prozess ein Patent bekommen kann und den ursprünglichen Erfinder
+(träger des Geschäftsgeheimnisses) daran hindern kann es zu nutzen.
+
+
+Markenzeichen
+-------------
+
+Bei einem Markenzeichen handelt es sich um ein Wort, Ausdruck, Symbol
+oder Design, dass benutzt wird um die Waren und Dienstleistungen eines
+Herstellers zu *identifizieren*, bzw. sie von den Waren und
+Dienstleistungen anderer Hersteller zu unterscheiden. Coca-Cola® hat
+beispielsweise, auf ihren Dosen ein Zeichen und eine Gestaltung um sie
+als Produkte dieses Herstellers zu identifizieren und um sie von der
+Konkurrenz wie Pepsi® zu unterscheiden. Das Markenrecht dient vorrangig
+dazu, Konkurrenten daran zu hindern ein Markenzeichen zu "verletzen",
+also "verwirrend ähnliche" Zeichen zu verwenden um ihre eigenen Produkte
+und Dienstleistungen zu kennzeichnen. Anders als beim Urheber- und
+Patentrecht, können Markenrechte unbeschränkt fortbestehen, solange der
+Besitzer sie weiterhin verwendet. Die Registrierung von einem
+Markenzeichen auf Bundesebene ist 10 Jahre gültig und kann vor Ablauf um
+weitere 10 Jahre verlängert werden.[^19]
+
+[^19]: 15 USC § 1501 *et seq*.; 37 CFR Part 2.
+
+Das Markenrecht umfasst auch den Schutz weiterer verwandter Rechte unter
+anderem zum Schutz vor Verwässerung eines Markenzeichens[^20],
+der Besetzung von Domainnamen[^21], und diverse Ansprüche
+gegen "unfairen Wettbewerb". Geistiges Eigentum umfasst auch relativ
+neue gesetzliche Innovationen wie den Schutz der Masken zur
+Halbleiter Herstellung[^22], ein *sui generis* Recht ähnlich
+dem Urheberrecht. Weitere Beispiele sind der Schutz von Entwürfe für den
+Bau von Schiffen[^23], und das vorgeschlagene *sui generis* Recht
+an Datenbanken, bzw. Sammlungen von Informationen.[^24]
+
+[^20]: 15 USC §§ 1125(c), 1127.
+
+[^21]: 15 USC § 1125(d); *Anticybersquatting Consumer Protection Act*,
+    PL 106–113 (1999); HR 3194, S1948.
+
+[^22]: Siehe 17 USC § 901 et seq.
+
+[^23]: Siehe 17 USC § 1301 et seq.
+
+[^24]: Siehe z.B. HR 354 (introduced 1/19/1999), *Collections of
+    Information Antipiracy Act*. Siehe auch Jane C. Ginsburg, "Copyright,
+    Common Law, and *Sui Generis* Protection of Databases in the United
+    States and Abroad," *University of Cincinnati Law Review* 66 (1997):
+    151.
+
+In den USA werden Urheberrechte und Patente fast ausschließlich auf
+Bundesebene geregelt, da ihre Verfassung dem US Kongress die Macht
+erteilt "den Fortschritt in Wissenschaft und Handwerk zu
+fördern".[^25] Trotz der Grundlage vom Urheber- und Patentrecht auf
+Bundesebene, werden verschiedene Aspekte davon durch Gesetze der
+Bundesstaaten geregelt, wie bspw. die Zuweisung des *Inhabers* von einem
+Patent. Diese Gesetze sind von Staat zu Staat aber trotzdem sehr
+ähnlich[^26]. Im Gegensatz dazu, sind Markenrechte nicht explizit durch
+die Verfassung genehmigt, sondern basieren auf auf dem "Interstate Commerce
+Clause", sodass es nur Waren und Dienstleistungen betrifft die
+zwischen den Bundesstaaten gehandelt werden[^27]. Die Markenrechte der
+einzelnen Bundesstaaten bestehen zwar noch, da sie nicht auf Bundesebene
+aufgehoben wurden, in der Praxis sind die auf Bundesebene erteilten Rechte
+jedoch wichtiger und leichter durchzusetzen. Im Allgemeinen werden
+Geschäftsgeheimnisse durch Gesetze der einzelnen Bundesstaaten geregelt
+und nicht durch den Bund.[^28]
+
+[^25]: U.S. Cons., Art I, § 8; *Kewanee Oil Co. v. Bicron Corp*., 415 US
+    470, 479, 94 S.Ct.  1879, 1885 (1974).
+
+[^26]: Siehe Paul C. van Slyke und Mark M. Friedman, "Employer's Rights to
+    Inventions and Patents of Its Officers, Directors, and Employees,"
+    *AIPLA Quarterly Journal* 18 (1990): 127; sowie *Chisum on Patents*, §
+    22.03; 17 USC §§ 101, 201.
+
+[^27]: U.S. Constitution, art. 1, sec. 8, clause 3; *Wickard v Filburn*,
+    317 US 111, 63 S. Ct. 82 (1942).
+
+[^28]: Siehe *Economic Espionage Act of 1996*, 18 USC §§ 1831–39.
+
+Viele Laien, auch Libertäre, haben oft ein schlechtes Verständnis der
+Konzepte und Gesetze zum g.E. und unterscheiden nicht immer zwischen
+Urheberrecht, Markenrecht und Patentrecht.  Viele sind fälschlicherweise
+der Auffassung, dass im Rechtssystem der U.S.A. derjenige der als erster
+den Pantentantrag im Patentbüro einreicht den Vorzug vor jemand hat, der
+seinen Antrag später einreicht. Tatsächlich werden Patente aber an
+denjenigen vergeben der als erstes die Erfindung gemacht hat, während
+viele andere Länder Patente demjenigen mit dem früheren Antragsdatum
+gewähren.[^29]
+
+[^29]: Ayn Rand nimmt fälschlicherweise an, dass derjenige mit einem
+    früheren Antrag den Vorzug bekommen sollte (und bemüht sich dann
+    solch ein System zu verteidigen). Siehe Ayn Rand, "Patents and
+    Copyrights," in *Capitalism: The Unknown Ideal* (New York: New
+    American Library, 1967), p. 133. 
+
+    Überraschend ist auch ihre Verteidugung der strikten Überwachung 
+    auf Monopolbildung die Patentträger ausgesetzt sind. Da Patente
+    jedoch von Regierungen gewährte Monopole darstellen, ist es durchaus
+    angebracht die Gesetzgebung zur Verhinderung von Monopole anzuwenden
+    um die Ausweitung des
+    Monopols über die vom Patentgesetz beabsichtigten Grenzen hinaus zu
+    verhindern. Das Problem mit der Kartellgesetzgebung ist seine
+    Anwendung auf den normalen, friedlichen Geschäftsbetrieb, nicht die
+    Beschränkung echter–d.h. von Regierungen gewährte Monopole.
+    Ähnlich kann man auch im Bezug auf Bill Gates argumentieren, dessen
+    Reichtum weitestgehend durch ein im Urheberrecht inhärentes Monopol
+    begründet ist, welches von Regierungen gewährt wurde. Darüber hinaus,
+    da Bill Gates kein Libertärer ist und sicherlich nicht an der
+    Legitimität der Kartellgesetzgebung zweifelt, wäre jedes Mitleid
+    über sein selbst herbeigeführtes Schicksal fehl am Platz.
+
+
+Das Verhältnis vom Geistigen zum Greifbaren Eigentum
+----------------------------------------------------
+
+Wie zuvor erwähnt können wir geistiges Eigentum, zumindest was Patente
+und das Urheberrecht anbelangt, als Rechte an ideelle Objekte
+betrachten. Dabei sollte man unbedingt beachten, dass das Eigentum an
+einer Idee, bzw. an einem ideellen Objekt dem Besitzer letztendlich Rechte
+auf *jede* physikalische Verkörperung dieser Idee einräumt. Betrachten wir
+den Fall von einem urheberrechtlich geschützten Buch. Der Urheber *A* hat
+ein Recht an das zugrundeliegende ideelle Objekt, wovon das Buch bloß
+ein Exemplar ist. Das Urheberrecht gibt *A* das Recht an der *Anordnung*
+der Wörter im Buch; woraus folgt, dass *A* das Recht an *jede*
+physikalische Kopie oder Verkörperung des Buches, bzw. zumindest an jedes
+Buch innerhalb der Jurisdiktion die dieses Urheberrecht anerkannt.
+
+Wenn *A* also ein Roman schreibt, hat er das Urheberrecht an diesem
+"Werk". Wenn er eine physikalische Kopie des Romans in der Form eines
+Buches an *B* verkauft, hat *B* bloß diese eine Kopie des Romans
+erworben; *B* hat nicht das "Roman" selbst erworben und hat kein Recht
+eine Kopie davon anzufertigen, selbst wenn er sein eigenes Papier und
+seine eigene Tinte verwendet. Selbst wenn *B* greifbares Eigentum in
+Form von Papier, Tinte und Drucker besitzt, darf er demnach mit seinem
+eigenen Eigentum keine weitere Kopie des Buches von *A* anfertigen.
+Dieses Recht ist dem *Urheber* vorbehalten (deswegen "Urheberrecht").
+
+Analog hat der Besitzer *A* von einem Patent, das Recht dritte daran zu
+hindern die patentierte Erfindung zu nutzen oder auszuüben, selbst wenn
+der Dritte ausschließlich sein eigenes Eigentum verwendet. Auf diese Art
+wird *A* durch das Eigentum an einem ideellen Objekt ein eingeschränktes
+Verfügungsrecht eingeräumt–bzw. wird zum Miteigentümer–an das greifbare
+Eigentum unzähliger anderer. Patente und Urheberrechte führen
+unweigerlich dazu, dass das Eigentum von seinem natürlichen Besitzer an
+Erfinder, Entwickler und Künstler übertragen wird.
+
+
+Geistiges Eigentum im Libertarismus
+===================================
+
+
+Das Spektrum
+------------
+
+Im Libertarismus reichen die Sichten über g.E. von gänzlicher
+Unterstützung in jeder vorstellbaren Form, bis hin zu gänzlicher
+Ablehnung. Die Debatte dreht sich im Wesentlichen um das Patent- und
+Urheberrecht; wie im Weiteren diskutiert wird, sind Gesetze zu
+Markenzeichen und Geschäftsgeheimnisse weit weniger problematisch,
+weshalb sich dieser Artikel hauptsächlich die Rechtmäßigkeit vom Patent-
+und Urheberrecht behandelt.
+
+Die Argumente für geistiges Eigentum, lassen sich in zwei
+Kategorien aufteilen: Naturrecht und Utilitarismus. Die Befürworter
+vom g.E. stützen ihre Rechtfertigung vorwiegend auf Argumente der ersten
+Kategorie.[^30] Zu den Befürwortern aus naturrechtlicher Sicht, oder
+zumindest nicht explizit utilitaristisch, gehören von extrem bis zu
+moderat, Galambos, Schulman und Rand.[^31] Unter den Vorgängern des
+modernen Libertarismus sprachen sich Spooner und Spencer für g.E. aus,
+mit einer moralischen Begründung oder durch eine Begründung im
+Naturrecht.[^32]
+
+[^30]: Klassische Theorien zum g.E. findet man in "Bibliography of
+    General Theories of Intellectual Property," *Encyclopedia of Law and
+    Economics*, http://encyclo.findlaw.com/biblio/1600.htm; sowie Edmund
+    Kitch, "The Nature and Function of the Patent System," *Journal of
+    Law and Economics* 20 (1977): 265.
+
+[^31]: Siehe Andrew J. Galambos, *The Theory of Volition*, vol. 1, ed.
+    Peter N. Sisco (San Diego: Universal Scientific Publications,
+    1999); J.  Neil Schulman, "Informational Property: Logorights,"
+    *Journal of Social and Biological Structures* (1990); sowie Rand,
+    "Patents and Copyrights." 
+
+    Andere aus dem Objektivismus (Ayn Rand) die g.E. befürworten sind
+    George Reisman, *Capitalism: A Treatise on Economics*
+    (Ottawa, Ill.: Jameson Books, 1996), pp. 388–89; David Kelley,
+    "Response to Kinsella," *IOS Journal* 5, no. 2 (June 1995): 13, in
+    response to N. Stephan Kinsella, "Letter on Intellectual Property
+    Rights," *IOS Journal* 5, no. 2 (June 1995): 12–13; Murray I.
+    Franck, "Ayn Rand, Intellectual Property Rights, and Human Liberty,"
+    2 audio tapes, Institute for Objectivist Studies Lecture;
+    Laissez-Faire Books (1991); Murray I.  Franck, "Intellectual
+    Property Rights: Are Intangibles True Property," IOS Journal 5, no.
+    1 (April 1995); und Murray I. Franck, "Intellectual and Personality
+    Property," IOS Journal 5, no. 3 (September 1995): 7, in response to
+    Kinsella, "Letter on Intellectual Property Rights."
+
+    Zu den Ideen von Galambos ist es schwierig Veröffentlichungen zu
+    finden, scheinbar weil seine eigenen Theorien bizarrerweise seine
+    Unterstützer daran hindern sie zu verbreiten. Siehe z.B., Jerome
+    Tuccille, *It Usually Begins with Ayn Rand* (San Francisco: Cobden
+    Press, 1971), pp. 69–71. Verweise auf und Diskussionen zu den
+    Theorien von Galambos findet man jedoch in David Friedman, "In
+    Defense of Private Orderings: Comments on Julie Cohen's ‘Copyright
+    and the Jurisprudence of Self-Help'," *Berkeley Technology Law
+    Journal* 13, no. 3 (Fall 1998): n. 52; und in Stephen Foerster,
+    "The Basics of Economic Government,"
+    http://www.economic.net/articles/ar0001.html.  
+
+[^32]: Lysander Spooner, "The Law of Intellectual Property: or An Essay
+    on the Right of Authors and Inventors to a Perpetual Property in
+    Their Ideas," in *The Collected Works of Lysander Spooner*, vol. 3,
+    ed. Charles Shively (1855; reprint, Weston, Mass.: M&amp;S Press, 1971);
+    Herbert Spencer, *The Principles of Ethics*, vol.  2 (1893; reprint,
+    Indianapolis, Ind.: Liberty Press, 1978), part IV, chap. 13, p.
+    121. Siehe auch Wendy McElroy, "Intellectual Property: Copyright and
+    Patent," http://www.zetetics.com/mac/intpro1.htm und 
+    http://www.zetetics.com/mac /intpro2.htm; and Palmer, "Are Patents
+    and Copyrights Morally Justified?" pp.  818, 825.
+
+Nach der Sicht mancher Libertärer, begründet im Naturrecht, verdienen
+Schöpfungen des Geistes den gleichen Schutz wie greifbares Eigentum.
+Beide sind das Ergebnis der eigenen Arbeit und des eigenen Geistes. Da
+die eigene Arbeit einem gehört, hat man
+
+> ein natürliches Recht an den Früchten der eigenen Arbeit. Aus dieser
+> Sicht hat man ebenso ein Recht an den Ideen die man generiert und an
+> der Kunst die man produziert, wie man auch ein Recht an die eigens
+> angebaute Ernte hat.[^33]
+
+Diese Theorie hängt davon ab, dass der eigene Körper und die eigene
+Arbeit und demnach die damit erzeugten Früchte (also auch geistige
+"Schöpfungen") einem gehören. Ein Individuum kann ein Sonett, ein Lied,
+eine Skulptur erschaffen, indem er seine eigene Arbeit und seinen Körper
+einsetzt. Deshalb hat er ein Anrecht an seine "eigenen" Schöpfungen,
+denn sie sind aus anderen Dingen die ihm "gehören" entstanden.
+
+[^33]: Palmer, *Are Patents and Copyrights Morally Justified?* p. 819.
+
+Es gibt auch utilitaristische Argumente für geistiges Eigentum.
+Bundeststaatlicher Richter Richard Posner ist ein prominenter
+utilitaristischer (jedoch kein libertärer) Befürworter vom g.E.[^34]
+Unter Libertären untersucht der Anarchist David Friedman
+g.E. und befürwortet es mit "rechtliche und wirtschaftliche"
+Argumente[^35], was ein utilitaristisches institutionelles System
+darstellt. Das utilitaristische Argument geht davon aus,
+dass wir Gesetze und Reglungen wählen sollten, die den "Wohlstand" oder
+den "Nutzwert" (engl. utility) maximieren. Im Bezug auf das Urheber- und
+Patentrecht ist der Grundgedanke, dass mehr künstlerische und kreative
+"Innovationen" zu mehr Wohlstand führen oder damit einhergehen.
+Öffentliche Güter und Trittbrettfahrer reduzieren diesen
+Wohlstand auf ein suboptimales Niveau, d.h. niedriger als es wäre wenn
+es keine angemessenen Gesetze zum g.E. gäbe. Demnach wird
+der Wohlstand optimiert oder zumindest vergrößert, wenn man Monopole
+durch das Urheberrecht und Patente gewährt, die Autoren und Erfinder
+dazu ermutigen kreativ zu sein und neues zu entwickeln.[^36]
+
+[^34]: Richard A. Posner, *Economic Analysis of Law*, 4th ed. (Boston:
+    Little, Brown, 1992), § 3.3, pp. 38–45.
+
+[^35]: David D. Friedman, "Standards As Intellectual Property: An
+    Economic Approach," *University of Dayton Law Review* 19, no. 3
+    (Spring 1994): 1109–29; David D. Friedman, *Law's Order: What
+    Economics Has to Do with Law and Why it Matters* (Princeton, N.J.:
+    Princeton University Press, 2000), chap. 11. Ejan Mackaay ist
+    ebenfalls ein Befürworter vom g.E. auf utilitaristischer Grundlage,
+    siehe "Economic Incentives in Markets for Information and
+    Innovation," in "Symposium: Intellectual Property," *Harvard Journal
+    of Law &amp; Public Policy* 13, no. 3, p. 867.
+
+    Frühe utilitaristische Befürwortern sind u.A.  John Stuart Mill und
+    Jeremy Bentham. Siehe Arnold Plant, "The Economic Theory Concerning
+    Patents for Inventions," in *Selected Economic Essays and
+    Addresses* (London: Routledge &amp; Kegan Paul, 1974), p. 44; Roger
+    E. Meiners und Robert J. Staaf, "Patents, Copyrights, and
+    Trademarks: Property or Monopoly?" in "Symposium: Intellectual
+    Property," *Harvard Journal of Law &amp; Public Policy* 13, no. 3,
+    p. 911.
+
+[^36]: Siehe Palmer, "Are Patents and Copyrights Morally Justified?" pp.
+    820–21; Julio H. Cole, "Patents and Copyrights: Do the Benefits
+    Exceed the Costs?"
+    http://www.economia.ufm.edu.gt/Catedraticos/jhcole/Cole%20_MPS_.pdf
+
+Andererseits ist der Widerstand gegen Patente und Urheberrechte eine
+lange Tradition. Moderne Gegner sind u.a. Rothbard, McElroy, Palmer,
+Lepage, Bouckaert, und meine Wenigkeit.[^37] Benjamin Tucker stellte
+sich ebenfalls energisch gegen g.E. in einer Debatte veröffentlicht in
+Liberty[^38], einer durch den Individualistischen Anarchismus geprägt
+Zeitschrift aus dem neunzehnten Jahrhundert. Diese Beobachter weisen auf
+die vielen Probleme der üblichen utilitaristischen und naturrechtlichen
+Argumente hin, die üblicherweise für g.E. gegeben werden. Diese und
+andere Mängel der gängigen Argumente für g.E. untersuchen wir im
+weiteren.
+
+[^37]: Siehe Murray N. Rothbard, *Man, Economy, and State* (Los Angeles:
+    Nash Publishing, 1962), pp. 652–60; Murray N. Rothbard, *The Ethics
+    of Liberty*, pp.  123–24; Wendy McElroy, "Contra Copyright," *The
+    Voluntaryist* (June 1985); McElroy, "Intellectual Property: Copyright
+    and Patent"; Tom G. Palmer, "Intellectual Property: A Non-Posnerian
+    Law and Economics Approach," *Hamline Law Review* 12 (1989): 261;
+    Palmer, "Are Patents and Copyrights Morally Justified?"; zu Lepage,
+    siehe Mackaay, "Economic Incentives," p. 869; Boudewijn Bouckaert,
+    "What is Property?" in "Symposium: Intellectual Property," *Harvard
+    Journal of Law &amp; Public Policy* 13, no. 3, p. 775; N. Stephan
+    Kinsella, "Is Intellectual Property Legitimate?" *Pennsylvania Bar
+    Association Intellectual Property Law Newsletter* 1, no. 2 (Winter
+    1998): 3; Kinsella, "Letter on Intellectual Property Rights," und
+    "In Defense of Napster and Against the Second Homesteading Rule."
+
+    F.A. Hayek scheint sich ebenfalls gegen Patente auszusprechen. Siehe
+    *The Collected Works of F.A. Hayek*, vol. 1, *The Fatal Conceit: The
+    Errors of Socialism*, ed. W.W. Bartley (Chicago: University of
+    Chicago Press, 1989), p. 6; und Meiners und Staaf, "Patents,
+    Copyrights, and Trademarks," p. 911. Cole stellt in "Patents and
+    Copyrights: Do the Benefits Exceed the Costs?" die utilitaristischen
+    Rechtfertigungen für Patente und Urheberrechte in Frage. Siehe auch
+    Fritz Machlup, U.S. Senate Subcommittee On Patents, Trademarks
+    &amp; Copyrights, *An Economic Review of the Patent System*, 85th
+    Cong., 2nd Session, 1958, Study No. 15; Fritz Machlup und Edith
+    Penrose, "The Patent Controversy in the Nineteenth Century,"
+    *Journal of Economic History* 10 (1950): 1; Roderick T. Long, "The
+    Libertarian Case Against Intellectual Property Rights,"
+    *Formulations* 3, no. 1 (Autumn 1995); Stephen Breyer, "The Uneasy
+    Case for Copyright: A Study of Copyright in Books, Photocopies, and
+    Computer Programs," *Harvard Law Review* 84 (1970): 281; Wendy J.
+    Gordon, "An Inquiry into the Merits of Copyright: The Challenges of
+    Consistency, Consent, and Encouragement Theory," *Stanford Law
+    Review* 41 (1989): 1343; und Jesse Walker, "Copy Catfight: How
+    Intellectual Property Laws Stifle Popular Culture," *Reason* (March
+    2000).
+
+[^38]: McElroy, "Intellectual Property: Copyright and Patent". William
+    Leggett, ein Redakteur für die Jacksonian im neunzehnten Jahrhundert
+    war ebenfalls ein vehementer Gegner vom geistigen Eigentum. Siehe
+    Palmer, "Are Patents and Copyrights Morally Justified?" pp. 818,
+    828–29. Ludwig von Mises äußerte keine Meinung zu dem Thema, sondern
+    beschränkte sich darauf die wirtschaftlichen Folgen solcher
+    Gesetzgebung zu untersuchen. Siehe *Human Action*, 3rd rev. ed.
+    (Chicago: Henry Regnery, 1966), chap. 23, section 6, pp. 661–62.
+
+
+Die Utilitaristische Verteidigung
+---------------------------------
+
+Die Rechtfertigung vieler Befürworter für geistiges Eigentum beruht auf
+einer utilitaristischen Grundlage. Utilitaristen behaupten das "Ziel"
+der Anregung von Innovation und Kreativität heiligt die scheinbar
+unmoralischen "Mittel" die Freiheit einzuschränken, also mit dem eigenen
+physischen Eigentum nach eigenem ermessen umzugehen. Es gibt allerdings
+drei grundsätzliche Probleme mit der Rechtfertigung von Recht oder
+Gesetz auf streng utilitaristischer Ebene.
+
+Lasst uns zunächst annehmen, dass der Wohlstand oder Nutzwert in einer
+Gesellschaft durch ein bestimmtes gesetzliches Regelwerk maximiert
+werden könne; der "Kuchen" also vergrößert werden kann. Selbst das zeigt
+noch nicht, dass diese Regeln gerechtfertigt sind. Man könnte
+beispielsweise argumentieren es würde der Nutzwert insgesamt erhöht,
+wenn man die Hälfte vom Wohlstand von ein Prozent der Reichsten auf die
+ärmsten zehn Prozent umverteilt. Aber selbst wenn der Diebstahl von
+einem kleinen Teil des Eigentums von *A* und die Übergabe an *B* den
+Wohlstand von *B* "mehr" erhöht als es den von *A* verringert (sofern
+ein solcher Vergleich überhaupt möglich ist) heißt das noch nicht, dass
+der Diebstahl des Eigentums von *A* gerechtfertigt ist. Der Sinn von
+Gesetze ist nicht die Maximierung des Wohlstands sondern Gerechtigkeit
+walten zu lassen.[^39] Selbst wenn der Wohlstand durch g.E. insgesamt
+erhöht wird, ist das keine Rechtfertigung für die unethische Verletzung
+der Eigentumsrechte eines einzelnen, der als einziger und nach eigenem
+Ermessen über sein Eigentum verfügen darf.
+
+[^39]: Nach Justinian ist "Gerechtigkeit der andauernde und ewige
+    Wunsch, die Rechte aller anzuerkennen und zu respektieren . . . . 
+    Die Grundsätze vom Gesetz sind folgende: Ehrlich zu leben, Niemanden
+    zu verletzen, die Rechte aller zu respektieren". *The Institutes
+    of Justinian: Text, Translation, and Commentary*, trans. J.A.C.
+    Thomas (Amsterdam: North-Holland, 1975).
+
+Zu den ethischen Problemen kommt hinzu, dass der Utilitarismus nicht
+schlüssig ist. Es hat die illegitime Voraussetzung, zwischen Personen
+einen Vergleich ihrer Nutzwerte machen zu können. Es werden Rechnungen
+gemacht, bei dem die "Kosten" des g.E. von seinem "Nutzen" abgezogen
+werden, um zu bestimmen ob solche Gesetze insgesamt etwas bringen.[^40]
+Nicht jeder Wert hat jedoch einen Marktpreis; tatsächlich existieren für
+Werte gar keine Preise. Mises hat gezeigt, dass selbst bei Gütern die
+auf dem Markt einen Preis haben, der Preis nicht als *Maß* für dessen
+Wert dient.[^41]
+
+[^40]: Zu den Mängel vom Utilitarismus und der zwischenmenschlichen
+    Vergleiche vom Nutzwert siehe Murray N. Rothbard, "Praxeology, Value
+    Judgments, and Public Policy," in *The Logic of Action One*
+    (Cheltenham, U.K.: Edward Elgar, 1997), insb. pp. 90–99; Rothbard,
+    "Toward a Reconstruction of Utility and Welfare Economics," in *The
+    Logic of Action One*; Anthony de Jasay, *Against Politics: On
+    Government, Anarchy, and Order* (London: Routledge, 1997), pp.
+    81–82, 92, 98, 144, 149–51.
+
+    Zum Scientismus und Empirismus siehe Rothbard, "The Mantle of
+    Science," in *The Logic of Action One*; Hans-Hermann Hoppe, "In
+    Defense of Extreme Rationalism: Thoughts on Donald McCloskey's *The
+    Rhetoric of Economics*", *Review of Austrian Economics* 3 (1989): 179.
+
+    Zum erkenntnistheoretischen Dualismus siehe Ludwig von Mises, *The
+    Ultimate Foundation of Economic Science: An Essay on Method*, 2nd
+    ed. (Kansas City: Sheed Andrews and McMeel, 1962); Ludwig von
+    Mises, *Epistemological Problems of Economics*, trans.  George
+    Reisman (New York: New York University Press, 1981); Hans-Hermann
+    Hoppe, *Economic Science and the Austrian Method* (Auburn, Ala.:
+    Ludwig von Mises Institute, 1995); und Hoppe, "In Defense of Extreme
+    Rationalism."
+
+[^41]: Mises stellt fest: "Obwohl man gemeinhin von Geld als Maß für den
+    Wert oder Preis spricht, ist diese Vorstellung zutiefst
+    Fehlerbehaftet. Solange die subjektive Werttheorie angenommen wird,
+    kann sich diese Frage nicht stellen." "On the Measurement of Value," in
+    *The Theory of Money and Credit*, trans. H.E. Batson (1912; reprint,
+    Indianapolis, Ind.: Liberty Fund, 1980), p. 51. Desweiteren: "Geld
+    ist weder ein Zollstock für den Wert oder den Preis. Geld misst
+    weder einen Wert noch werden Preise in Geld gemessen: Sie sind
+    Mengen von Geld." Ludwig von Mises, *Socialism: An Economic and
+    Sociological Analysis*, 3rd rev. ed., trans.  J. Kahane
+    (Indianapolis, Ind.: Liberty Press, 1981), p. 99; siehe auch Mises,
+    *Human Action*, pp. 96, 122, 204, 210, 217, and 289.
+
+Zuletzt, selbst wenn wir die Probleme mit dem zwischenmenschlichen
+Vergleich vom Nutzwert und die Frage der Rechtmäßigkeit bei der
+Umverteilung außen vor lassen, selbst wenn wir unbeirrt weiterfahren und
+die üblichen utilitaristischen Messungen benutzen ist es ganz und gar
+nicht klar, dass Gesetze zum geistigen Eigentum zu irgendeiner Änderung
+im allgemeinen Wohlstand führen–sei es eine Erhöhung oder
+Verringerung.[^42] Es ist fraglich ob das Urheberrecht oder Patente
+wirklich nötig sind für die Produktion kreativer Werke und Erfindungen,
+oder dass die stetigen Gewinne durch Innovation die immensen Kosten
+eines Systems für g.E. übersteigen. Ökonometrische Untersuchungen zeigen
+keine schlüssige Erhöhung des Wohlstands. Möglicherweise gäbe es sogar
+*mehr* Innovationen wenn es kein Patentrecht gäbe; vielleicht gäbe es
+mehr Geld für Forschung und Entwicklung wenn man es nicht für die
+Anmeldung von Patente und für Gerichtsverfahren ausgeben müsste. Es ist
+möglich, dass Unternehmen einen noch größeren Anreiz hätten Innovationen
+zu produzieren wenn sie sich nicht auf ein fast zwanzig jähriges
+Monopol ausruhen könnten.[^43]
+
+[^42]: Eine hervorragende Übersicht und Kritik an der Kosten-Nutzen
+    Rechtfertigung für das Patent- und Urheberrecht gibt Cole in 
+    "Patents and Copyrights: Do the Benefits Exceed the Costs?". Für
+    nützliche Diskussionen der Beweislage hierzu, siehe Palmer
+    "Intellectual Property: A Non-Posnerian Law and Economics Approach,"
+    pp. 300–2; Palmer, "Are Patents and Copyrights Morally Justified?"
+    pp. 820–21, 850–51; Bouckaert, "What is Property?" pp. 812–13;
+    Leonard Prusak, "Does the Patent System Have Measurable Economic
+    Value?" *AIPLA Quarterly Journal* 10 (1982): 50–59; und Leonard
+    Prusak, "The Economic Theory Concerning Patents and Inventions,"
+    *Economica* 1 (1934): 30–51.
+
+[^43]: Siehe Cole, "Patents and Copyrights: Do the Benefits Exceed the
+    Costs?" für weitere Beispiele der kosten der Gesetzgebung zum
+    Patent- und Urheberrecht.
+
+Ein Patentsystem ist zweifelsohne mit Kosten verbunden. Wie bereits
+angemerkt, können Patente nur für die "praktische" Anwendung einer Idee
+gewährt werden, nicht jedoch für abstrakte oder theoretische Ideen. Das
+verschiebt den Einsatz von Ressourcen weg von theoretischer Forschung
+und Entwicklung.[^44] Es ist nicht klar, dass es unserer Gesellschaft
+besser geht wenn vergleichsweise mehr praktische und vergleichsweise
+weniger theoretische Forschung und Entwicklung betrieben wird.
+Desweiteren werden viele Erfindungen nur zum Schutz patentiert, was die
+Gehälter von Patentanwälten und die Gebühren vom Patentamt begründet.
+Diese wesentlichen Unkosten wären nicht nötig wenn es keine Patente
+gäbe. Ohne Patentgesetze müssten Firmen z.B. kein Geld zum Schutz vor
+solch unsinnige Patente ausgeben wie sie im Anhang aufgelistet sind. Es
+ist ganz einfach nicht gezeigt worden, dass g.E. zu größerem Wohlstand
+führt. Müsste die Beweislast aber nicht eigentlich bei denen liegen, die
+sich dafür aussprechen Gewalttätig über das Eigentum anderer zu verfügen?
+
+[^44]: Plant, "The Economic Theory Concerning Patents for Inventions,"
+    p. 43. 
+
+    Siehe auch Rothbard, *Man, Economy, and State*, pp. 658–59:
+
+    > Es ist keineswegs offensichtlich, dass Patente die absolute Menge
+    > an Ausgaben für Forschung erhöhen. Sicher ist jedoch, dass Patente
+    > für eine Verzerrung der *Art* von Ausgaben für Forschung sorgen. .
+    > . . Ausgaben für Forschung werden in den Anfangsphasen
+    > entsprechend *übermäßig gefördert* da noch keiner ein Patent
+    > bekommen hat, und sie werden in den Phasen nachdem ein Patent
+    > gewährt wurde *übermäßig eingeschränkt*. Darüber hinaus, werden
+    > nur auf bestimmte Erfindungen Patente gewährt und auf andere
+    > nicht. Das Patentsystem hat demnach die weitere Folge, dass die
+    > Ausgaben für *patentierbare* Bereiche übermäßig gefördert werden,
+    > während die Forschung in *nicht patentierbare* Bereiche künstlich
+    > eingeschränkt wird.
+
+Wir sollten uns darüber im klaren sein wenn wir uns für bestimmte Rechte
+und Gesetze aussprechen oder ihre Legitimität hinterfragen, es sich um
+eine ethische Frage handelt, nämlich nach dem legitimen Einsatz von
+*Gewalt*. Die Frage ob ein Gesetz in Kraft treten oder existieren soll
+ist die Frage: Ist es angemessen Gewalt gegen bestimmte Personen unter
+bestimmten Umständen einzusetzen? Es ist nicht weiter verwunderlich,
+dass diese Frage bei der Analyse der Maximierung des Wohlstands nicht
+wirklich angesprochen wird. Die utilitaristische Analyse ist gänzlich
+verwirrt und bankrott: Von einer Vergrößerung des Kuchens zu sprechen
+ist methodisch Defekt; es gibt keinen klaren Beweis, dass sich der
+Kuchen durch Rechte am g.E. vergrößert. Weiterhin, wäre eine
+Vergrößerung des Kuchens keine Rechtfertigung für den Einsatz von Gewalt
+gegen das ansonsten legitime Eigentum anderer. Aus diesen Gründen ist
+die utilitaristische Verteidigung vom g.E. nicht überzeugend.
+
+
+Die Naturrechtliche Verteidigung
+--------------------------------
+
+Andere libertäre Befürworter vom geistigen Eigentum argumentieren, dass
+bestimmte Ideen als Eigentum geschützt werden müssen, da sie
+*erschaffen* wurden. Rand meinte Patente und Urheberrechte wären "die
+gesetzliche Umsetzung der Grundlage für alle Eigentumsrechte: Das Recht
+einer Person an dem Produkt seiner Gedanken".[^45] Für Rand waren diese
+Rechte im gewissen Sinne die Belohnung für produktives Schaffen. Es ist
+nur gerecht, dass ein Schaffender belohnt wird wenn andere sein Werk
+benutzen. Aus diesem Grund sprach sie sich teils gegen *ewige*
+bestehende Patente und Urheberrechte aus–da zukünftige, ungeborene
+Nachkommen eines Urhebers nicht selbst für die Werke ihrer Vorfahren
+verantwortlich sind.
+
+[^45]: Rand, "Patents and Copyrights," p. 130.
+
+Geistiges Eigentum mit der Erschaffung eines Werks zu begründen, führt
+fast zwangsläufig zu dem Problem, dass es nur *bestimmte Arten* von
+Werke schützt–es sei denn, jede einzelne nützliche Idee auf die man
+kommt als Eigentum geschützt werden kann (mehr dazu weiter unten). Diese
+Unterscheidung ob etwas geschützt werden soll oder nicht ist jedoch
+willkürlich. Philosophische, mathematische oder wissenschaftliche
+Wahrheiten kann man z.B. unter der heutigen Gesetzgebung nicht schützen,
+was mit dem Vorwand begründet wird, dass der Handel und das
+gesellschaftliche Leben zum Stillstand kommen würde, sollte man jede neue
+Redewendung, philosophische Wahrheit und dergleichen als das exklusive
+Eigentum des Urhebers betrachten. Aus diesem Grund können Patente nur
+auf sogenannte "praktische Anwendungen" von Ideen gewährt werden, jedoch
+nicht auf abstrakte oder theoretische Ideen. Rand akzeptiert diesen
+unterschiedlichen Umgang wenn sie versucht zwischen nicht patentierbare
+*Entdeckungen* und patentierbare *Erfindungen* zu unterscheiden. Ihr
+Argument ist, dass eine "wissenschaftliche oder philosophische
+Entdeckung, die Beschreibung von einem Naturgesetz sowie zuvor
+unbekannte Prinzipien oder Tatsachen der Realen Welt", nicht vom
+Entdecker *erschaffen* wurden.
+
+Die Unterscheidung zwischen *Erschaffung* und *Entdeckung* ist jedoch
+nicht ganz eindeutig oder rigoros.[^46] Es ist auch nicht klar warum
+solch eine Unterscheidung, selbst wenn sie eindeutig ist, für die
+Verteidigung von Eigentumsrechte ethisch relevant wäre. Niemand kann
+*Materie* wirklich erschaffen, sondern nur manipulieren und innerhalb
+der durch die Physik gegebenen Grenzen umformen. In diesem Sinne wird
+absolut *nichts* von irgendjemand wirklich erschaffen. Sie ändern bloß
+die Anordnung oder das Muster der Materie. Ein Ingenieur der eine neue
+Mausefalle erfindet, hat existierende Teile neu angeordnet, sodass sie
+eine neue Funktion erfüllen. Andere die von dieser neuen Anordnung
+erfahren, können nun ebenfalls eine verbesserte Mausefalle bauen. Die
+Mausefalle verhält sich jedoch nur nach den Regeln der Physik. Der
+Erfinder hat weder die Materie woraus die Falle besteht erfunden, noch
+die *Tatsachen* oder Gesetze wonach sie funktioniert.
+
+[^46]: Plant hat Recht mit seiner Aussage, "die Aufgabe eine
+    Wissenschaftliche Entdeckung von seiner praktischen Anwendung zu
+    unterscheiden, was patentierbar sein könnte . . . ist oftmals selbst
+    für einen scharfsinnigen Rechtsanwalt verblüffend".  "The Economic
+    Theory Concerning Patents for Inventions," pp. 49–50. In diesem
+    Zusammenhang, hat das Oberste Gericht der U.S.A festgestellt, dass
+    "die Spezifikation und Ansprüche in einem Patent . . . eines der am
+    schwersten mit Genauigkeit auszulegenden gesetzlichen Regelungen
+    darstellt". *Topliff v Topliff*, 145 US 156, 171, 12 S.Ct. 825
+    (1892). Vielleicht liegt das daran, dass das Patentrecht nicht an
+    objektive Grenzen von echtem greifbarem Eigentum festgemacht ist und
+    dementsprechend von Natur aus vage, formlos, mehrdeutig und subjektiv
+    ist. Man sollte alleine wegen dem letzten Grund meinen, dass
+    Anhänger des Objektivismus–leidenschaftliche, selbst-ernannte
+    Verteidiger vom Objektiven und Gegner des Subjektiven–sich gegen das
+    Patent- und Urheberrecht stellen würden.
+
+Auf ähnliche Art, ist es durch die "Entdeckung" der Relation E=mc² durch
+Einstein möglich Materie auf eine effizientere Art zu manipulieren. Ohne
+die Anstrengungen von Einstein oder dem Erfinder, *wüßten* andere gar
+nicht über bestimmte Zusammenhänge, bestimmte Arten wie Materie
+manipuliert und ausgenutzt werden kann. Der Erfinder bemüht sich ebenso
+wie der theoretische Wissenschaftler neue und nützliche Ideen mit seinem
+Geist zu produzieren. Einer von ihnen wird belohnt, der andere jedoch
+nicht. Vor kurzem gab es einen Fall, indem der Erfinder eine neue
+Möglichkeit gefunden hat ein Zahl zu berechnen, die den kürzesten Pfad
+zwischen Zwei Punkten repräsentierte–ein äußerst nützliches
+Verfahren–jedoch kein Patent gewährt wurde, weil es sich dabei "bloß" um
+einen mathematischen Algorithmus handelte.[^47] Es ist jedoch
+willkürlich und ungerecht die praktischeren Erfinder und
+Unterhaltungskünstler, wie Ingenieure oder Musiker zu belohnen, und die
+theoretischen oder mathematischen Forscher leer ausgehen zu lassen. Die
+Unterscheidung ist von Natur aus vage, willkürlich und ungerecht.
+
+[^47]: 
+    *In re Trovato*, 33 USPQ2d 1194 (Fed Cir 1994). Neuerlich wurden
+    Arten der mathematischen und Software Algorithmen die patentierbar
+    sind, durch Rechtssprechung ausgeweitet.  Siehe bspw. *State
+    Street Bank &amp; Trust Co. v Signature Financial Group*, 149 F3d 1368
+    (Fed Cir 1998). Das Patentrecht muss jedoch unabhängig davon wo man
+    die Line zieht zwischen nicht patentierbare "Naturgesetze" oder
+    "abstrakte Ideen" und patentierbare "praktische Anwendungen"
+    notwendigerweise eine solche Unterscheidung machen.
+
+Desweiteren, bringt die Verabschiedung befristeter Rechte am g.E.,
+zwangsläufig willkürliche Regeln mit sich. Patente haben beispielsweise
+eine Dauer von zwanzig Jahre ab dem Datum der Einreichung, während das
+Urheberrecht, im Falle einzelner Autoren, bis zu siebzig Jahre nach
+seinem Lebensende andauert. Man kann ebensowenig ernsthaft behaupten,
+dass neunzehn Jahre für ein Patent zu kurz und ein-und-zwanzig Jahre zu
+lang wären, wie man objektiv sagen kann ob der derzeitige Preis für
+einen Liter Milch zu hoch oder zu niedrig ist.
+
+Ein Problem mit dem naturrechtlichen Ansatz ist also, dass es
+zwangsläufig zu willkürlichen Unterscheidungen führt, sei es im Bezug
+darauf was als Schützenswert gilt und was nicht, oder im Bezug auf die
+Dauer von diesem Schutz.
+
+Eine Möglichkeit diese Schwierigkeit zu vermeiden ist natürlich zu
+behaupten, dass *alles* als g.E. auf unbeschränkte Zeit geschützt werden
+kann. Spooner[^48] sprach sich beispielsweise für unbefristete Patente
+und Urheberrechte aus. Schulman ist ein Fürsprecher für einen viel
+weiteren Begriff von Ideen und Werke als g.E.. Er befürwortet
+Eigentumsrechte die er "Logorechte" nennt, also Rechte an irgend einem
+"Logos" von dem man der Urheber ist. Das Logos ist die "materielle
+Identität" oder Identitätsmuster erschaffener Dinge. Der Eigentümer
+eines Logos wäre der Besitzer der Anordnung oder des Musters das sich in
+Materie manifestiert ist, bzw. darin beobachtet wird.
+
+[^48]: Spooner, "The Law of Intellectual Property"; McElroy,
+    "Intellectual Property: Copyright and Patent"; Palmer, "Are Patents
+    and Copyrights Morally Justified?" pp. 818, 825.
+
+Der radikalste aller Befürworter vom g.E. ist Andrew Joseph Galambos,
+dessen Ideen, soweit ich sie verstehe, ans Absurde grenzen.[^49]
+Galambos glaubte, dass man Rechte am eigenen Leben (ursprüngliches
+Eigentum) und an alle "nicht zeugungsfähige Ableitungen des eigenen
+Lebens" hat.[^50] Da die "ersten Ableitungen" eines Menschen seine
+Gedanken und Ideen sind, sind sie sein "primäres Eigentum". Da
+Handlungen auf primäres Eigentum (Ideen) beruht, ist man ebenfalls
+Eigentümer seiner Handlungen; dies wird als "Freiheit" bezeichnet.
+Sekundäre Ableitungen wie Land, Fernseher und andere greifbare Güter
+entstehen durch Ideen und Handlungen. Eigentumsrechte sind demnach zu
+einen niederen sekundären Rang degradiert, unterhalb des "primären"
+Rangs der Eigentumsrechte an Ideen. (Selbst Rand hat einmal Patente über
+das bloße Eigentumsrecht an greifbare Güter gestellt als sie
+behauptete, "Patente sind der Kern vom Eigentumsrecht".[^51] Sollen wir
+wirklich glauben, dass Eigentumsrechte nicht respektiert wurden, bevor
+Patente im neunzehnten Jahrhundert eingeführt wurden?)
+
+[^49]: Siehe Galambos, *The Theory of Volition*, vol. 1. Evan R. Soulé, Jr.,
+    "What Is Volitional Science?"
+    http://www.tuspco.com/html/what_is_v-50_.html. Ich habe nur Umrisse
+    der Theorien von Galambos gelesen. Ich bin auch vor ein paar Jahren
+    zu meiner Überraschung einem echten, lebenden Galambosianer einmal
+    begegnet (Ich hatte angenommen sie wären eine fiktive Erfindung von
+    Tuccille [*It Usually Begins with Ayn Rand*, pp. 69–71]), auf einer
+    Konferenz vom Mises Institute. Meine folgende Kritik an den Ideen
+    von Galambos ist nur soweit gültig wie ich seine Ansichten richtig
+    beschreibe.
+
+[^50]: Friedman, "In Defense of Private Orderings," n. 52; Foerster,
+    "The Basics of Economic Government."
+
+[^51]: Rand, "Patents and Copyrights," p. 133.
+
+Galambos trieb seine Ideen angeblich bis ins Absurde. Er beanspruchte ein
+Eigentumsrecht an seine eigenen Ideen und forderte von seinen Studenten
+sie nicht zu wiederholen;[^52] er legte bei jedem Ausspruch des Wortes
+"liberty" 5 cent zur Seite, als Honorar an die Nachfahren von Thomas Paine,
+der angeblich dieses Wort "erfunden" hat; er nannte sich um von Joseph
+Andrew Galambos nach Andrew Joseph Galambos um nicht die Rechte seines
+gleichnamigen Vaters zu verletzen.[^53]
+
+[^52]: Friedman, *In Defense of Private Orderings,* n. 52.
+
+[^53]: Tuccille, *It Usually Begins with Ayn Rand*, p. 70. Freilich darf
+    man vermuten, dass jeder Galambosianer außer Galambos selbst, der
+    sich in einer ähnlich mißlichen Lage befindet, zur Lösung des
+    Problems sein Name nach diesem Schema nicht umändern dürfte, denn
+    diese Lösung ist eine unveräußerliche "absolute" Idee von Galambos.
+
+Indem man das g.E. ausweitet und seine Dauer verlängert um solch
+beliebige Unterscheidungen wie die von Rand zu vermeiden, wird
+offensichtlich wie Absurd und ungerecht g.E. ist (anschaulich am
+Beispiel von Galambos). Wenn man weiter geht und die Frist für Patente
+und Urheberrechte ins unendliche setzt, wären nachfolgende Generationen
+immer mehr Einschränkungen unterworfen, im Bezug auf den Einsatz von
+ihrem Eigentum. Niemand könnte eine Glühbirne herstellen–oder gar
+benutzen–ohne das Einverständnis der Nachfahren von Edison zu bekommen.
+Ohne die Erlaubnis der Nachfahren des ersten Urmenschen der seine Höhle
+verließ um eine Hütte zu bauen, könnte niemand auch nur ein Haus bauen.
+Niemand könnte ein ganze Palette von lebensrettenden Methoden,
+Chemikalien, oder Behandlungen benutzen, ohne die Genehmigung von
+verschiedenen reichen Nachfahren die etwas Glück hatten. Niemand könnte
+Wasser kochen um es zu reinigen oder Essen einlegen um es
+aufzubewahren, es sei denn er hat vom Urheber (oder seinen fernen
+Nachkommen) für diese Techniken eine Lizenz erhalten.
+
+Solch unbeschränkte Rechte an Ideen wären eine ernste Gefahr für Rechte
+an greifbarem Eigentum und könnten sie überwältigen. Jeder denkbare
+Einsatz von Eigentum, jede Handlung müsste zwangsläufig mit einem der
+mit der Zeit angehäuften Millionen von Rechten an geistiges Eigentum in
+Konflikt stehen, und würde somit zum Aussterben der Menschheit führen.
+Wie Rand jedoch anmerkte sind Menschen keine Geister; wir haben ein
+spirituelles aber auch ein physisches Dasein.[^54] Jedes System, dass
+die Rechte an Ideen derart ausweitet, dass es die Rechte am greifbaren
+Eigentum unterdrückt, kann kein ethisches System für lebende, atmende
+Menschen sein. Kein lebender Mensch kann sich tatsächlich an solch eine
+unbeschränkte Sicht vom g.E. halten. Die übrigen Befürworter schränken
+ihre Sicht vom g.E. im Bezug auf Umfang und/oder Dauer ein und greifen
+damit die oben geschilderte ethisch willkürliche Unterscheidungen auf.
+
+[^54]: Harry Binswanger, ed., *The Ayn Rand Lexicon: Objectivism from A
+    to Z* (New York: New American Library, 1986), pp. 326–27, 467.
+
+Ein tieferes Problem für die naturrechtliche Position liegt in ihrer
+übertriebenen Betonung der "Erschaffung" an Stelle der Knappheit als
+rechtfertigende Grundlage, worauf wir im weiteren eingehen.
+
+
+Geistiges Eigentum und Eigentumsrechte
+======================================
+
+Eigentum und Knappheit
+----------------------
+
+Lasst uns einen Schritt zurücktreten und einen frischen Blick auf das
+Eigentumsrecht werfen. Libertäre glauben an Eigentumsrechte für
+greifbare Güter (Ressourcen). Warum? Welche Eigenschaft haben greifbare
+Güter, welches sie zum Gegenstand von Eigentumsrechte macht? Warum sind
+greifbare Güter Eigentum?
+
+Wenn man kurz darüber nachdenkt, ist es die *Knappheit*–die Tatsache, dass
+im Bezug auf diese Güter mehrere Personen in ein Konflikt geraten können.
+Alleine schon die Möglichkeit, dass über Ressourcen Streit herrschen
+kann, macht es notwendig Regeln aufzustellen die ihre Nutzung bestimmen.
+Die grundsätzliche soziale und ethische Funktion von Eigentumsrechte ist
+die Verhinderung zwischenmenschlicher Konflikte über knappe
+Ressourcen.[^55] So Hoppe:
+
+> Nur wegen der Knappheit sind wir überhaupt mit dem Problem
+> konfrontiert, moralische Gesetze zu formulieren; sofern Güter im
+> Überfluss vorhanden ("frei" Güter) sind, kann es keinen Konflikt über
+> diese Güter geben und es ist nicht notwendig zwischenmenschliche
+> Handlungen zu koordinieren. Daraus folgt, dass jede korrekt erdachte
+> Ethik, als Theorie über Eigentum formuliert sein muss, also als Theorie
+> über die Zuweisung von Rechte die besagen wer exklusiv über knappe
+> Mittel verfügen darf. Nur so wird es möglich, ansonsten unvermeidliche 
+> und unlösbare Konflikte zu vermeiden.[^56]
+
+Viele andere haben ebenfalls die Bedeutung der Knappheit für die
+Definition von Eigentumsrechte erkannt, darunter Plant, Hume, Palmer,
+Rothbard und Tucker.[^57]
+
+[^55]: Die grundsätzliche ökonomische oder katallaktische Rolle für
+    Rechte an Privateigentum, zusammen mit Geldpreise die aus dem Handel
+    mit Eigentum entstehen, ist *ökonomische Kalkulation* möglich zu
+    machen. Siehe N. Stephan Kinsella, "Knowledge, Calculation,
+    Conflict, and Law: Review Essay of Randy E. Barnett, *The Structure
+    of Liberty: Justice and the Rule of Law," Quarterly Journal of
+    Austrian Economics* 2, no. 4 (Winter 1999): 49–71.
+
+[^56]: Hans-Hermann Hoppe, *A Theory of Socialism and Capitalism* 
+    (Boston: Kluwer Academic Publishers, 1989), p. 235 n. 9.
+
+[^57]: Plant, "The Economic Theory Concerning Patents for Inventions,"
+    pp. 35–36; David Hume, *An Inquiry Concerning the Principles of
+    Morals: With a Supplement: A Dialogue* (1751; Neuauflage, New York:
+    Liberal Arts Press, 1957); Palmer, "Intellectual Property: A
+    Non-Posnerian Law and Economics Approach," pp. 261–66 und n. 50
+    (welches zwischen "statischer" und "dynamischer" Knappheit
+    unterscheidet), auch pp. 279–80; Palmer, "Are Patents and
+    Copyrights Morally Justified?" pp.  860–61, 864–65; and Rothbard,
+    "Justice and Property Rights," in *The Logic of Action One*, p. 274;
+    on Tucker, see McElroy, "Intellectual Property: Copyright and
+    Patent."
+
+Die Natur enthält also Objekte die aus ökonomischer Sicht knapp sind.
+Wenn ich ein solches Objekt benutzen möchte, steht das im *Konflikt* mit
+der Nutzung durch andere, bzw. schließt die Nutzung durch andere aus und
+umgekehrt. Der Sinn von Eigentumsrechte ist die Vermeidung
+zwischenmenschlicher Konflikte über knappe Ressourcen, indem man die
+Ressourcen zum exklusiven Eigentum bestimmter Personen (Eigentümer)
+macht.  Damit sie diese Funktion erfüllen können, müssen sie sowohl
+*sichtbar* als auch *gerecht* sein. Es ist klar, dass man die Verletzung
+von Eigentumsrechte nur verhindern kann, wenn die Grenzen des Eigentums
+und ihre Zuweisung objektiv (intersubjektiv erfassbar) sind; sie müssen
+*sichtbar* sein.[^58] Aus diesem Grund müssen Eigentumsrechte objektiv
+und eindeutig sein. Mit anderen Worten, "gute Zäune schaffen gute
+Nachbarn".[^59]
+
+[^58]: Hoppe, *A Theory of Socialism and Capitalism*, pp. 140–41. Es ist
+    nicht meine Absicht Rechte auf die besagten zu beschränken; der
+    Begriff "Sichtbar" bedeutet beobachtbar und erkennbar. Diese
+    Klarstellung verdanke ich Gene Callahan.
+
+[^59]: Robert Frost, "The Mending Wall," in North of Boston, 2nd ed.
+    (New York: Henry Holt, 1915), pp. 11–13. (Bitte senden Sie mir im
+    Bezug hierauf keine e-mail. Es ist mir egal was Frost mit diesem
+    Gedicht "wirklich" meinte. Mir gefällt einfach nur die Redewendung.)
+
+Eigentumsrechte müssen sowohl nachweislich *gerecht* als auch sichtbar
+sein, da sie sonst nicht ihre Funktion erfüllen können. Wenn die
+betroffenen Parteien sie nicht als gerecht akzeptieren können, werden
+weiterhin Konflikte entstehen.[^60] Ungerecht zugewiesene
+Eigentumsrechte, oder gewaltsame Aneignung ist gleichbedeutend mit der
+Abschaffung des Eigentumsrechts; es ist die Reduzierung auf die Macht
+des Stärkeren, also auf die Situation vor dem bestehen der
+Eigentumsrechte. Libertäre sehen jedoch wie Locke, dass nur der *erste
+Besetzer*, bzw. Nutzer von Eigentum sein natürlicher Eigentümer sein
+kann. Nur die Regel des originär aneignenden ersten–Besetzers bietet
+eine objektive, ethische und nicht willkürliche Zuweisung von Besitzer
+zu knappen Ressourcen.[^61]
+
+[^60]: Hoppe, *A Theory of Socialism and Capitalism*, p. 138.
+
+[^61]: Über den Richtigen Ansatz zur originären Aneignung und der Regel
+    des ersten Nutzers, schreibt Hoppen in, *A Theory of Socialism
+    and Capitalism*, pp. 141–44; Hoppe, *The Economics and Ethics of
+    Private Property* (Boston: Kluwer Academic Publishers, 1993), pp.
+    191–93; Jeffrey M. Herbener, "The Pareto Rule and Welfare
+    Economics," *Review of Austrian Economics* 10, no. 1 (1997): 105:
+    "Nachdem ein Objekt zum Besitz des ersten Nutzers wird ist es für 
+    andere nicht mehr Möglich der erste Nutzer zu sein; demnach haben
+    ihre Wünsche zu dem Zeitpunkt keinen Einfluss auf den nach dem
+    Pareto-Kriterium überlegenen Anspruch des ersten Nutzers"; und
+    de Jasay, *Against Politics*, pp. 172–79. Über die ethische
+    Rechtfertigung von solch einem System des Eigentumsrechts schreibt
+    Hoppe in *A Theory of Socialism and Capitalism*, chap. 7;
+    Hoppe, *The Economics and Ethics of Private Property*; Rothbard, The
+    Ethics of Liberty; Rothbard, "Justice and Property Rights," in *The
+    Logic of Action One*; N. Stephan Kinsella, "A Libertarian Theory of
+    Punishment and Rights" *Loyola of Los Angeles Law Review* 30 (Spring
+    1996): 607; N. Stephan Kinsella, "New Rationalist Directions in
+    Libertarian Rights Theory," *Journal of Libertarian Studies* 12, no.
+    2 (Fall 1996): 313–26.
+
+Wenn Eigentumsrechte an knappe Mittel entsprechend den Regeln der
+originären Aneignung zugewiesen werden, sind die Grenzen des Eigentums
+sichtbar und die Zuweisung ist nachweislich gerecht. Konflikte können mit
+dieser Art von Eigentumsrechten vermieden werden, da Dritte die Grenzen
+sehen, ihre Verletzung damit vermeiden können und dazu auch motiviert
+sein werden da die Zuweisung gerecht ist.
+
+In Anbetracht des Ursprungs, der Rechtfertigung und der Funktion von
+Eigentumsrechten, muss es jedoch klar sein, dass sie nur auf *knappe*
+Güter anwendbar sind. Wären wir im Garten Eden wo Land und andere Güter
+in unbegrenzter Fülle vorliegen, gäbe es keine Knappheit und demnach
+auch kein Grund für Regeln über Eigentum; das Konzept des Eigentums wäre
+bedeutungslos. Konflikte und Rechte sind Ideen die nicht aufkommen
+würden. Wenn jemand meinen Rasenmäher beispielsweise wegnimmt, wäre ich
+deswegen nicht ärmer, da ich im nächsten Augenblick einen neuen
+herzaubern könnte. Die Wegnahme des Rasenmähers wäre unter diesen
+Umständen kein "Diebstahl". Ein unendlich vorhandenes Gut ist nicht
+Gegenstand des Eigentumsrechts, da Konflikt darüber nicht entstehen
+können.
+
+Demnach, müssen Eigentumsrechte objektive, erkennbare Grenzen haben und
+müssen entsprechend den Regeln der originären Aneignung zugewiesen
+werden. Desweiteren können Eigentumsrechte nur auf knappe Ressourcen
+angewandt werden. Das Problem des geistigen Eigentums ist, dass die
+idealen Objekte die durch ihn geschützt werden nicht knapp sind und
+darüber hinaus, nicht nach den Regeln der originären Aneignung zugewiesen
+werden können, was wir im weiteren sehen werden.
+
+
+Knappheit und Ideen
+-------------------
+
+Wie der durch Zauber reproduzierbare Rasenmäher, sind Ideen nicht knapp.
+Wenn ich eine Technik erfinde um Baumwolle zu ernten, könnte ein Anderer
+auf diese Art Baumwolle ernten, ohne mir etwas wegzunehmen. Ich habe
+nach wie vor die Technik (ebenso wie die Baumwolle). Die Nutzung durch
+Andere schließt meine Nutzung nicht aus; wir können beide die Technik
+nutzen um Baumwolle zu ernten. Es herrscht keine wirtschaftliche
+Knappheit und keine Möglichkeit für ein Konflikt über ein knappes Gut.
+Deshalb auch gibt es auch kein Grund andere von der Nutzung abzuhalten.
+
+In gleicher Weise, wenn jemand ein von mir geschriebenes Buch kopiert,
+habe ich noch das ursprüngliche (greifbare) Buch, und "habe" demnach
+auch noch das Muster der Wörter die das Buch ausmachen. Geschriebene
+werke sind folglich knapp im selben Sinne wie ein Stück Land oder ein
+Auto.  Wenn mir mein Auto weggenommen wird, habe ich es nicht mehr. Wenn
+man mir jedoch das Muster aus dem Buch "nimmt", und es zur Herstellung
+einer physischen Kopie verwendet, habe ich trotzdem noch meine Kopie.
+Das gleiche gilt für Erfindungen, und sogar für alle "Muster" oder
+Informationen, die man generiert oder hat. Wie Thomas Jefferson – selbst
+ein Erfinder und der erste Patentprüfer in den U.S.A. – schrieb, "Wer
+von mir eine Idee bekommt, erhält die Anleitung für sich selbst ohne
+meins zu mindern; wie einer der seine Kerze an meiner anzündet, erhält
+er Licht, ohne dass ich im Dunkeln stehe".[^62] Da man die Idee eines
+Anderen nutzen kann ohne ihm das gleiche zu verweigern, kann darüber
+kein Konflikt aufkommen; Ideen sind deshalb nicht Gegenstand von
+Eigentumsrechte. Selbst Rand räumte ein, dass "geistiges Eigentum nicht
+verbraucht werden kann".[^63]
+
+[^62]: Thomas Jefferson to Isaac McPherson, Monticello, August 13, 1813,
+    letter, in *The Writings of Thomas Jefferson*, vol. 13, ed. A.A.
+    Lipscomb and A.E. Bergh (Washington, D.C.: Thomas Jefferson Memorial
+    Association, 1904), pp.  326–38. Jefferson recognized that because
+    ideas are not scarce, patent and copyright are not natural rights,
+    and can be justified only, if at all, on the utilitarian grounds of
+    promoting useful inventions and literary works (and, even then, they
+    must be created by statute, since they are not natural rights). See
+    Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," p. 278 n. 53. Yet this does not mean that Jefferson
+    supported patents, even on utilitarian grounds. Patent historian
+    Edward C. Walterscheid explains that "throughout his life,
+    [Jefferson] retained a healthy skepticism about the value of the
+    patents system." "Thomas Jefferson and the Patent Act of 1793,"
+    *Essays in History* 40 (1998).
+
+[^63]: Rand, "Patents and Copyrights," p. 131. Mises, in *Human Action*,
+    p. 661, recognizes that there is no need to economize in the
+    employment of "formulas," "because their serviceableness cannot be
+    exhausted." On p. 128, he points out: A thing rendering such
+    unlimited services is, for instance, the knowledge of the causal
+    relation implied. The formula, the recipe that teaches us how to
+    prepare coffee, provided it is known, renders unlimited services. It
+    does not lose anything from its capacity to produce however often it
+    is used; its productive power is inexhaustible; it is therefore not
+    an economic good. Acting man is never faced with a situation in
+    which he must choose between the use-value of a known formula and
+    any other useful thing.  See also p. 364.
+
+Ideen sind nicht von Natur aus knapp. Indem man jedoch das Recht an einem
+ideellen Objekt anerkennt, wird Knappheit *erzeugt* wo vorher keine war.
+Wie Arnold Plant es ausdrückt:
+
+> Es ist eine Eigenheit von Eigentum in Form von Patente (und
+> Urheberrechte), dass es nicht wegen der Knappheit der betroffenen
+> Objekte entsteht. Sie sind nicht die *Folge* von Knappheit. Sie sind
+> vorsätzlich durch Gesetze erschaffen, und während Privateigentum im
+> allgemeinen zur Erhaltung von knappen Gütern führt; uns dazu bring "das
+> Meiste aus ihnen zu machen", machen Patent- und Urheberrechte die
+> Erzeugung von Knappheit an Gütern möglich, die ansonsten nicht
+> aufrecht erhalten werden könnte.[^64]
+
+[^64]: Plant, "The Economic Theory Concerning Patents for Inventions,"
+    p. 36. Auch Mises, Human Action, p. 364: "Solche Rezepte sind in der
+    Regel freie Güter, da sie unbegrenzt eingesetzt werden können um
+    etwas umzusetzen. Sie können nur dann wirtschaftliche Güter werden,
+    wenn ein Monopol auf ihnen gewährt wird und ihre Nutzung eingeschränkt
+    wird. Jeder Preis der für einen durch das Rezept geleisteten Dienst
+    gezahlt wird ist ein Monopolpreis. Ob die Einschränkung der Nutzung
+    von einem Rezept durch institutionelle Umstände zustandekommt – wie
+    etwa Patent- oder Urheberrechtsgesetze – oder indem es geheim gehalten
+    wird und andere nicht von alleine darauf kommen ist dabei
+    unwesentlich."
+
+Bouckaert argumentiert ebenfalls, dass es die Knappheit ist, die
+Eigentumsrechte notwendig machen, und dass Gesetze zum g.E.  eine
+künstliche, nicht zu rechtfertigende Knappheit erzeugen. Seine Anmerkung
+dazu:
+
+> Natürlich aufkommende Knappheit ist die Folge der Beziehung zwischen
+> Mensch und Natur. Knappheit ist etwas natürliches wenn man es sich
+> ohne irgend eine menschliche, institutionelle, oder vertragliche
+> Vereinbarung vorstellen kann. Dem steht die künstliche Knappheit
+> entgegen, die das Ergebnis solcher Vereinbarungen ist. Künstliche
+> Knappheit kann schwerlich die Rechtfertigung für einen gesetzlichen
+> Rahmen sein, der eben diese Knappheit erzeugt. Das wäre ein vollkommen
+> zyklisches Argument. Im Gegenteil, die künstliche Knappheit selbst
+> muss gerechtfertigt werden.[^65]
+
+[^65]: Bouckaert, "What is Property?" p. 793; siehe auch pp. 797–99.
+
+Nach Bouckaert, sind "einzig und allein, natürlich knappe Entitäten die
+physisch kontrolliert werden können, Knadidaten für" den Schutz durch
+echte Eigentumsrechte.[^66] Der einzig mögliche Schutz für ideale
+Objekte wäre durch *persönliche* Rechte, also Verträge (mehr dazu
+unten).[^67]
+
+[^66]: Bouckaert, "What is Property?" pp. 799, 803.
+
+[^67]: Man könnte auch für den Schutz ideeller Objekten auf der
+    Grundlage argumentieren, dass es sich dabei um "öffentliche Güter"
+    handelt, d.h. Aufgrund negativer externer Effekte die ohne Gesetze
+    zum g.E. entstehen würden. Das Konzept öffentlicher Güter ist jedoch
+    weder schlüssig noch zu rechtfertigen. Siehe Palmer "Intellectual
+    Property: A Non-Posnerian Law and Economics Approach," pp. 279–80,
+    283–87; Hans-Hermann Hoppe, "Fallacies of the Public Goods Theory 
+    and the Production of Security," *Journal of Libertarian Studies* 9,
+    no. 1 (Winter 1989): 27; auch Hoppe, *The Economics and Ethics of
+    Private Property*, chap. 1.
+
+    So Palmer:
+
+    > Die Produktionskosten für irgend eine Ware oder Dienstleistung
+    > beinhalten nicht nur die Arbeits-, Kapital-, Werbungs- und andere
+    > Kosten, sondern auch Kosten zum Ausschluss unerwünschter Nutzung.
+    > Filmtheater haben z.B. Kosten in Form von Schalter zum Verkauf von
+    > Eintrittskarten, Wände sowie Pförtner die alle dazu dienen Personen
+    > davon abzuhalten ihre Dienste ohne Bezahlung zu nutzen. Die
+    > Filmeigentümer könnten ihre Filme natürlich auch auf öffentliche
+    > Parkanlangen zeigen und dann versuchen Passanten daran zu hindern
+    > sie zu schauen, oder sie könnten die Regierung darum bitten jeden
+    > der nicht Bezahlt hat dazu zu zwingen eine Brille zu tragen, durch
+    > der sie den Film nicht schauen könnten. Ein Autokino sieht sich
+    > mit dem Problem von Trittbrettfahrer konfrontiert, die über die
+    > Mauer schauen und muss desshalb individuelle Lautsprecher für
+    > jedes Auto – und mit erheblichen Kosten – installieren, sodass der
+    > öffentlich sichtbare Teil des Films von geringem Nutzen ist. . . .
+    > Kosten zum Ausschluss von Trittbrettfahrer sind mit praktisch
+    > jedem denkbaren Gut verbunden. Es gibt keine überzeugende
+    > Rechtfertigung bestimmte Güter gesondert zu behandeln und darauf
+    > zu bestehen, dass der Staat ihre Produktionskosten durch einen vom
+    > Staat genehmigten kollektiven Eingriff subventioniert, einfach nur
+    > wegen einer Entscheidung dieses Gut allgemein verfügbar zu
+    > machen.
+
+    Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," pp. 284–85. Es kann nicht eindeutig gezeigt werden, dass
+    Ideen ohne Frage öffentliche Güter sind. Selbst darüber hinaus ist
+    es nicht klar, dass Eigentumsrechte gelten würden wenn sie
+    tatsächlich öffentliche Güter wären, denn wie es oben behandelt
+    wurde, sind Maßnahmen die den Wohlstand steigern nicht unbedingt
+    gerechtfertigt.
+
+Nur greifbare, knappe Ressourcen können das Objekt zwischenmenschlicher
+Konflikte sein, also sind Regeln zum Eigentum nur auf sie anwendbar.
+Deshalb sind Patente und Urheberrechte nicht rechtfertigbare staatliche
+gewährte Monopole. Es ist nicht weiter verwunderlich, wie Palmer es
+anmerkt, dass "Monopole und Zensur die historische Wurzel vom Patent und
+Urheberrecht sind".[^68] Es sind diese Monopole, die künstliche Knappheit
+erzeugen wo vorher keine war.
+
+[^68]: Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," p. 264.
+
+Erinnern wir uns, dass Rechte am g.E. dem Erzeuger von einem Muster
+einen Teil der Verfügungsgewalt – des Eigentumsrechts – über das
+greifbare Eigentum aller anderen Personen gewährt. Der Muster–Erzeuger
+ist durch sein Recht am g.E., Miteigentümer am Eigentum einer anderen
+Person, da er ihn daran hindern kann auf bestimmte Art *mit seinem
+eigenen Eigentum* umzugehen. Author *X*, kann beispielsweise einen
+Dritten, *Y*, daran hindern Wörter in einem bestimmten Muster auf die
+eigenen leeren Blätter von *Y*, mit der eigenen Tinte von *Y* zu
+schreiben.
+
+Indem er also lediglich der Urheber einer originellen Idee ist, indem er
+bloß ein neues informationelles Muster ausdenkt und aufzeichnet, oder
+indem er eine neue Möglichkeit findet sein Eigentum zu nutzen (Rezept),
+wird der Erzeuger von g.E. auf magische Art zum Miteigentümer am
+Eigentum aller anderen. Er kann z.T. bestimmen, wie Dritte ihr Eigentum
+nutzen können. Das g.E. ändert den *Status Quo* indem es Eigentum von
+einer Grupp (Besitzer von greifbarem Eigentum) wegnimmt und es
+Einzelpersonen einer anderen Gruppe (Autoren und Erfinder) überträgt.
+Auf den ersten Blick bedeuten Gesetze zum g.E. eine Verletzung der
+Rechte von Besitzer, bzw. sie "nehmen" das Eigentum der Besitzer
+greifbaren Eigentums und übertragen einen Teil der Eigentumsrechte an
+Autoren und Erfinder. Es ist diese Übertretung und Übertragung von
+Eigentum die gerechtfertigt werden muss, damit g.E. berechtigt sein
+kann. Wir sehen demnach, dass die utilitaristischen Verteidigungen nicht
+ausreichen. Im weiteren untersuchen wir die Probleme mit der
+naturrechtlichen Verteidigung.
+
+
+Erschaffung kontra Knappheit
+----------------------------
+
+Auf einige Widersprüche und Probleme mit den naturrechtlichen Theorien
+des geistigen Eigentums haben wir oben hingewiesen. Dieser Abschnitt
+behandelt weitere Probleme mit diesen Argumenten, vor dem Hintergrund
+der obigen Diskussion über die Bedeutung von Knappheit.
+
+Wir haben zuvor auf einige Befürworter vom g.E., wie Rand hingewiesen,
+die meinen, dass *Erschaffung* die Begründung für Eigentumsrechte
+sind.[^69] Solch eine Begründung bringt jedoch Natur vom Eigentumsrecht
+durcheinander, die in dem nicht zu leugnenden Umstand der Knappheit
+liegt. *Weil* Knappheit und die zugehörige Möglichkeit für Konflikte
+über die Nutzung von Ressourcen existieren, werden durch die Zuweisung
+von Eigentumsrechte an solche Ressourcen Konflikte vermieden, sowie
+Frieden und Zusammenarbeit ermöglicht. Der Sinn von Eigentumsrechte
+bestimme die Natur dieser Regeln. Wenn die Regeln für die Zuweisung von
+Eigentumsrechte objektive und für alle Einsichtig sein sollen, dürfen
+sie nicht voreingenommen oder beliebig sein.[^70] Aus diesem Grund
+werden naturgegebene Güter zum Besitz – durch originäre Aneignung – von
+ihrem *ersten* Nutzer.[^71]
+
+[^69]: Siehe Rand, "Patents and Copyrights"; Kelley, "Response to
+    Kinsella"; Franck, "Intellectual and Personality Property" and
+    "Intellectual Property Rights: Are Intangibles True Property?"
+
+[^70]: Siehe Hoppe, *A Theory of Socialism and Capitalism*, chap. 7, esp. p.
+    138.
+
+[^71]: Hoppe, *A Theory of Socialism and Capitalism*, p. 142; de Jasay,
+    *Against Politics*, pp. 172–79; und Herbener, "The Pareto Rule and
+    Welfare Economics," p. 105.
+
+Die allgemeine Regel ist, dass der Eigentümer einer bestimmten knappen
+Ressource bestimmt werden kann, indem man herausfindet wer es zuerst
+benutzt hat. Es gibt verschiedene Arten eine Ressource zu besitzen oder
+zu besetzen und verschiedene Arten den Besitzer kenntlich zu machen oder
+zu beweisen, je nachdem um was für eine Ressource es sich handelt und
+auf welche Art es zum Einsatz kommt. So kann ich einen Apfel pflücken
+und es mir so aneignen, oder ich kann ein Stück Land umzäunen um einen
+Bauernhof aufzubauen. Manchmal redet man auch davon, dass durch eine
+Beschäftigung etwas "erschaffen" oder "kreiert" werden kann.[^72] Ich
+kann z.B. eine Statue aus einem Block aus Marmor hauen, oder ein Schwert
+aus rohem Metall schmieden, oder gar ein Bauernhof auf einem Stück Land
+"erschaffen".
+
+[^72]: Die Besetzung oder Inbesitznahme "kann drei Formen annehmen: (1)
+    indem man es direkt greift, (2) indem man es umformt, und (3) indem
+    man es lediglich als Eigentum markiert." Palmer, "Are Patents and
+    Copyrights Morally Justified?" p. 838.
+
+Diese Beispiele zeigen uns, dass die Erschaffung wesentlich bei der
+Frage nach dem Eigentümer einer "erschaffenen" Ressource ist, sei es
+eine Statue, ein Schwert oder ein Bauernhof, aber nur zu dem Grad, dass
+der Vorgang etwas zu erschaffen gleichzeitig eine Besetzung darstellt,
+bzw. einen Beweis für die erstmalige Nutzung darstellt. Es ist jedoch
+nicht die "Erschaffung" selbst, die als Rechtfertigung von Eigentum
+dient; es ist weder notwendig noch ausreichend. Man kann eine
+umstrittenen knappe Ressource nicht *erschaffen* ohne vorher Rohstoffe
+für seine Erschaffung zu nutzen. Diese Rohstoffe sind jedoch knapp und
+sind entweder mein Eigentum oder nicht. Wenn nicht, dann gehört mir auch
+nicht das resultierende Produkt. Wenn mir die Rohstoffe gehören dann
+gehört mir, auf der Grundlage des Eigentumsrechts, auch das
+resultierende Produkt worin ich es umgewandelt habe.
+
+Betrachten wir das Schmieden von einem Schwert. Wenn ich der Besitzer
+von rohem Metall bin (weil ich es aus meinem eigenen Grundstück
+gefördert habe), dann gehört mir das Metall nachdem ich es in ein
+Schwert verwandelt habe. Ich muss mich nicht auf die Erschaffung
+berufen um das Schwert zu besitzen, sondern nur auf mein Eigentum an
+den Produktionsgütern die zur Herstellung des Schwertes dienten.[^73]
+Erschaffung ist auch nicht notwendig um die Produktionsgüter zu
+besitzen, da ich sie einfach originär aneignen kann indem ich sie aus
+dem Boden fördere und dadurch zum ersten Eigentümer werde. Wenn ich
+andererseits ein Schwert aus dem Metall eines *Anderen* schmiede, gehört
+mir das resultierende Schwert *nicht*. Tatsächlich könnte ich sogar für
+Schäden haftbar gemacht werden.
+
+[^73]: Ich verlasse mich auch nicht auf "Eigentum" an meiner
+    Arbeitskraft; streng genommen, kann Arbeit nicht Eigentum sein und
+    Eigentum an Arbeit ist nicht notwendig um zu zeigen, dass ich
+    weiterhin Eigentümer bleibe wenn ich es umforme.
+
+Erschaffung ist demnach weder notwendig noch ausreichend um Eigentum zu
+begründen. Sich auf den Vorgang der Erschaffung zu konzentrieren lenkt
+von der entscheidenden Rolle der ersten Nutzung ab um mit dem
+grundsätzlichen Problem der Knappheit umzugehen. Die erste Nutzung,
+nicht die Erschaffung oder Arbeit, ist sowohl notwendig als auch
+ausreichend um nicht angeeignete knappe Ressourcen originär anzueignen.
+
+Ein Grund für die übertriebene Betonung der Erschaffung als Grundlage
+für Eigentumsrechte könnte sein, dass manche sich auf die *Arbeit* als
+Mittel zur originären Aneignung konzentrieren. Diese Sicht offenbart
+sich in dem Argument, dass man nicht angeeignetes Eigentum in Besitz
+nehmen kann wenn man seine Arbeit damit vermischt *weil* die eigene
+Arbeit einem "gehört". Palmer weist jedoch richtigerweise darauf hin,
+dass externe Güter "*nicht durch Arbeit sondern durch Nutzung* zum
+Eigentum werden".[^74] Indem man sich auf die erste Nutzung konzentriert
+und nicht auf die Arbeit, wie Anhänger vom Objektivismus es tun, muss
+man Kreation nicht als wesentlich für die originäre Aneignung ansehen.
+Statt dessen müssen die Eigentumsrechte der ersten Nutzer (oder deren
+Vertragspartner) anerkannt werden um das allgegenwärtige Problem
+möglicher Konflikte über knappe Ressourcen zu vermeiden. Die Kreation
+selbst ist weder nötig noch ausreichten um Eigentumsrechte an freie
+Güter zu erlangen. Desweiteren, muss man nicht die merkwürdige
+Auffassung vertreten, dass man der "Eigentümer" der eigenen Arbeit ist,
+damit einem die Güter gehören die man als erster benutzt. Arbeit ist
+eine Handlung und man kann eine Handlung nicht besitzen; vielmehr ist es
+die Art wie manche greifbare Objekte (z.B. Körper) in der Welt handeln.
+
+[^74]: Palmer, "Are Patents and Copyrights Morally Justified?" p. 838
+    (emphasis added), citing Georg W.F. Hegel, *Hegel's Philosophy of
+    Right*, trans. T.M. Knox.  (1821; reprint, London: Oxford University
+    Press, 1967), pp. 45–46.
+
+Das Problem mit der naturrechtlichen Verteidigung des g.E. ist demnach
+das Argument, dass ein Autor/Erfinder der Berechtigte Eigentümer eines
+"Objekts" ist, "weil" er es "erschaffen" hat. Das Argument geht jedoch
+bereits davon aus, dass man ideelle Objekte besitzen kann; nachdem man
+das akzeptiert hat scheint es selbstverständlich, dass der "Schöpfer"
+von solch einem Objekt der natürliche und rechtmäßige Eigentümer ist.
+Ideelle Objekte kann man jedoch nicht besitzen.
+
+Nach dem libertären Ansatz, kann man den Eigentümer von einem Objekt
+bestimmen, indem man seinen ersten Nutzer findet, *sofern* es eine
+knappe Ressource ist. Im Falle von "erschaffenen" Gütern (wie
+Skulpturen, Bauernhöfe, usw.) können wir manchmal annehmen, dass der
+Schöpfer auch der erste Nutzer ist, aufgrund der Arbeit um die Rohstoffe
+zu sammeln und die damit verbundene schöpfende Handlung (die Umformung
+der Materie und die Einprägung eines Musters sodass ein Produkt
+entsteht). Es ist jedoch nicht die Schöpfung selbst die zum Eigentum
+führt, wie wir oben gezeigt haben.[^75] Mit einer ähnlichen Begründung
+ist die Idee der "Vermischung mit Arbeit" von Locke nur deswegen
+relevant, weil es *andeutet*, dass der Nutzer das Eigentum in Besitz
+genommen hat (denn um Eigentum bearbeiten zu können, muss jemand die
+Verfügungsgewalt darüber haben, also der *Besitzer* sein). Nicht etwa
+weil Arbeit belohnt werden muss oder weil die eigene Arbeit einem
+"gehört" und "demnach" auch die Früchte der eigenen Arbeit. Mit anderen
+Worten, Schöpfung und Vermischung von Arbeit sind eine *Andeutung* wer
+freie und knappe Güter benutzt hat–und dadurch originär angeeignet
+hat.[^76]
+
+[^75]: Sogar solche Befürworter vom g.E. wie Rand behaupten nicht, dass
+    die Schöpfung an sich ausreicht um ein Rechtsanspruch zu begründen
+    oder dass sie auch nur notwendig ist. Es ist nicht notwendig, da
+    nicht angeeignete Güter einfach nur durch Besetzung angeeignet
+    werden können, was nicht mit "Schöpfung" verbunden ist, es sei
+    denn man weitet diesen Begriff übermäßig aus. Schöpfung ist auch
+    nicht ausreichend, denn Rand würde sicherlich nicht behaupten,
+    dass die Schöpfung von einem Gegenstand durch Nutzung von
+    Rohstoffe eines *anderen* den Dieb–Schöpfer zum Eigentümer des
+    Objekts macht. Die Sicht von Rand impliziert sogar, dass Rechte,
+    auch Eigentumsrechte erst dann entstehen wenn Konflikte entstehen
+    können. Rand sieht z.B., dass Rechte erst als gesellschaftliches
+    Konzept entstehen, sobald es mehr als eine Person gibt. Siehe
+    Rand, "Man's Rights," in *Capitalism: The Unknown Ideal*, p.  321:
+    "Ein 'Recht' ist ein moralisches Prinzip, welches die Freiheit
+    einer Person innerhalb einer Gesellschaft definiert und begrenzt."
+    Tatsächlich argumentiert Rand sogar, "Die Rechte eines Menschen
+    können nur durch physische Gewalt verletzt werden," d.h., ein
+    Konflikt über eine knappe Ressource. "The Nature of Government,"
+    in *Capitalism: The Unknown Ideal*, p. 330. Auf p. 334, versucht
+    Rand (erfolglos) die Regierung als Agent zur Durchsetzung von
+    Rechte zu Rechtfertigen, auf der Grundlage der Tatsache, dass es
+    "ehrliche Meinungsverschiedenheiten" – d.h. Konflikte – auch
+    zwischen "völlig Rationale und tadellos moralische" Menschen geben
+    kann. Demnach meint Rand nach ihrer Theorie, ebenso wie wir auch, dass
+    Schöpfung an und für sich weder nötig noch ausreichend ist, um die hier
+    vertretene Theorie des Eigentums zu rechtfertigen.
+
+[^76]: Aus diesen Gründen lehne ich den auf die Schöpfung begründeten
+    Ansatz der Objektivisten David Kelley und Murray Frank ab. Laut
+    Frank, "Intellectual and Personality Property," p. 7, "auch wenn
+    Eigentumsrechte dabei helfen Knappheit zu 'rationieren', ist Knappheit
+    nicht die Grundlage für Eigentumsrechte. Die Ansicht, dass es das
+    ist, scheint Ursache und Wirkung zu vertauschen, indem es Rechte
+    als eine notwendige Funktion der Gesellschaft ansieht, anstatt als
+    dem Individuum innewohnend der wiederum in einer Gesellschaft
+    leben muss."
+
+    Ich bin mir nicht sicher inwiefern Rechte einem Menschen
+    "innewohnen" oder die "Funktion" von irgendwas sind, schließlich
+    sind sie zwischenmenschliche Konzepte die nur innerhalb von einer
+    Gesellschaft Anwendung finden. Ersteres grenzt an Positivismus
+    (indem es einen "Ursprung" von Rechte impliziert, wie etwa durch
+    Gott oder den Staat), und letzteres grenzt an Scientismus (indem
+    es die präzise mathematische und naturwissenschaftliche
+    Vorstellung einer "Funktion" verwendet). Das Argument für
+    Eigentumsrechte beruht weiterhin nicht auf die Notwendigkeit
+    knappe Mittel zu "rationieren", sondern sie existieren vielmehr
+    damit Menschen die knappe Mittel benutzen um ihre Ziele zu
+    erreichen, zwischenmenschliche Konflikte über solche Mittel
+    vermeiden können. Knappheit ist demnach nicht die "Grundlage" für
+    Eigentumsrechte, sondern eine notwendige Bedingung damit sie
+    entstehen oder Sinn machen können; Konflikte können nur im Bezug
+    auf knappe Ressourcen entstehen, nicht auf unbegrenzt vorhandene.
+    (In der vorherigen Fußnote haben wir darauf hingewiesen, dass auch
+    im Objektivismus die Möglichkeit für Konflikte eben solche eine
+    notwendige Bedingung für Eigentumsrechte darstellt.)
+
+    Desweiteren, ist das hier verwendete durch Knappheit begründete
+    Argument ebensowenig eine "notwendige Funktion der Gesellschaft"
+    wie der objektivistische Ansatz von Frank. Frank glaubt, dass
+    Menschen Sachen erschaffen können "müssen", damit sie in einer
+    Gesellschaft überleben können, in der es andere Menschen gibt mit
+    denen man in Konflikt geraten kann. "Deshalb" sollte das Gesetz
+    die Rechte an diese Schöpfungen schützen. Das durch Knappheit
+    begründete Argument würdigt jedoch, dass Menschen knappe Mittel
+    einsetzen "müssen", was die Vermeidung von Konflikte über diese
+    voraussetzt; deshalb sollte das Gesetz Eigentumsrechte an knappe
+    Ressourcen schützen. Welche Vorzüge die auf Schöpfung beruhende
+    und die auf Knappheit beruhende Positionen relativ zu einander
+    auch haben mögen, ist das Argument der Knappheit nicht
+    kollektivistischer als das Argument der Schöpfung, und das
+    Argument der Schöpfung ist auch nicht individualistischer als das
+    Argument der Knappheit.
+
+    > Kelley schreibt in "Response to Kinsella," p. 13: 
+    >
+    > Eigentumsrechte sind notwendig da der Mensch seine Vernunft
+    > einsetzen muss um sein Leben zu erhalten. Die vorrangige Aufgabe
+    > im Bezug hierauf ist der Aufbau von Werte die menschliche
+    > Bedürfnisse erfüllen und sich nicht wie Tiere auf das zu verlassen
+    > was wir in der Natur vorfinden. . . . Die wesentliche Grundlage
+    > des Eigentumsrechts liegt demnach in der Wertschöpfung. . . .
+    > Knappheit wird zum relevanten Thema wenn wir die Nutzung
+    > natürlicher Ressourcen bedenken, wie Land, die als Rohstoffe zur
+    > Wertschöpfung dienen.  Ich würde als allgemeine Regel sagen, dass
+    > es zwei Bedingungen gibt damit natürliche Ressourcen angeeignet
+    > werden können: (1) man muss sie produktiv einsetzen, und (2)
+    > dieser produktive Einsatz muss eine exklusive Verfügung über die
+    > Ressourcen erfordern, d.h.  das Recht die Nutzung durch andere
+    > auszuschließen. . . . Die zweite Bedingung gilt nur wenn eine
+    > Ressource knapp ist. Für dinge die man jedoch erschaffen hat, wie
+    > ein neues Produkt, stellt der Schöpfungsakt jedoch die Begründung
+    > von einem Recht dar, unabhängig von der Knappheit." (Hervorhebung
+    > wurde hinzugefügt)
+
+    Die Gründe für meine Meinungsverschiedenheit mit Kelley sollten
+    hier offensichtlich sein, lasst mich jedoch darauf hinweisen, dass
+    "Wertschöpfung" wie jede menschliche Handlung auch, den Einsatz
+    knapper Ressourcen voraussetzt, d.h. weltlicher, materieller
+    Güter.  Bei jeder Schöpfung werden Objekte aus bereits
+    existierende Atome eingesetzt; weder diese Tatsache noch seine
+    Anerkennung ist in irgend einer weise im schlechten Sinne
+    animalisch. Das der Mensch im Gegensatz zum Tier den Wünsch hat
+    höhere Werte zu erschaffen ändert nichts an dieser Analyse.
+    Zweitens, vertritt Kelley zwei separate Regeln zur originären
+    Aneignung knapper Ressourcen: Durch erstmalige Nutzung der
+    Ressource, und durch Erschaffung eines neuen, nützlichen oder
+    künstlerischen Musters durch Einsatz des eigenen Eigentums, womit
+    der Schöpfende das Recht erlangt alle anderen davon abzuhalten ein
+    ähnliches Muster zu verwenden, selbst mit ihrem eigenen Eigentum.
+    Wie wir es im weiteren behandeln, sind diese beiden Regeln nicht
+    miteinander vereinbar und nur die erste kann gerechtfertigt
+    werden. Zuletzt behauptet Kelley, dass ein neues Produkt seinem
+    Schöpfer unabhängig von jeder Knappheit gehört, da er es
+    erschaffen hat. Wenn Kelley damit ein greifbares Produkt meint,
+    wie eine Mausefalle, dann ist solch ein Gut ein echtes, knappes
+    und greifbares Objekt. Vermutlich gehörten dem Schöpfenden die
+    knappen Rohstoffe die er in das finale Produkt umgewandelt hat. Er
+    braucht jedoch kein Recht an das ideelle Objekt, der Idee oder dem
+    Muster einer Mausefalle zu haben, damit ihm das Produkt gehört;
+    ihm gehören bereits die Rohstoffe und sie gehören ihm auch noch
+    nachdem er sie umgeformt hat. Wenn Kelley jedoch damit meint, dass
+    er durch die Kreierung von einem Muster oder einer Idee
+    gleichzeitig ein Recht erwirbt über die knappen Ressourcen aller
+    anderen zu verfügen, dann befürwortet er eine neuen Regel zur
+    originären Aneignung, die ich im weiteren kritisieren werde.
+
+Die Befürworter von g.E. indem sie sich auf Schöpfung und Arbeit
+Konzentrieren und nicht auf die erste Nutzung knapper Güter als
+Prüfstein für Eigentumsrechte, werden dazu verleitet ein übertriebenes
+Gewicht auf die "Belohnung" für die Arbeit des Schaffenden zu legen.
+Dieses Denkmuster führte Adam Smith zu seiner fehlerbehafteten
+Arbeitswerttheorie, was Marx mit dem Kommunismus zu durch-und-durch
+falsche Sichten über Ausbeutung führte.[^77] Wie oben bereits erwähnt,
+sind Rechte an g.E. im gewissen Sinne die Belohnung für produktive
+Arbeit. Die Sicht von Rand und andere naturrechtliche Befürworter des
+g.E., dass jemand der Zeit und Anstrengung aufbringt für seine Mühe
+belohnt werden sollte, hat sowohl naturrechtliche wie auch
+utilitaristische Aspekte (Rand sprach sich z.B. gegen ewig andauernde
+Patent- und Urheberrechte, da entfernte Verwandte nicht die Werke ihrer
+Vorfahren erschaffen haben und deshalb auch keine Belohnung verdient
+haben).[^78]
+
+[^77]: Siehe z.B. Murray N. Rothbard, *Economic Thought Before Adam
+    Smith: An Austrian Perspective on the History of Economic
+    Thought*, vol.  1 (Brookfield, Vt.: Edward Elgar, 1995), p. 453:
+    "Es war tatsächlich Adam Smith der fast als einziger für die
+    Einführung der Arbeitswerttheorie in die Wirtschaftswissenschaft
+    verantwortlich war.  Dementsprechend kann Smith mit Recht für die
+    Entstehung und für die bedeutenden Folgen von Marx verantwortlich
+    gemacht werden." Selbst Denker die ansonsten gründlich sind, legen
+    einen übergebührlichen Wert auf Arbeit und der Möglichkeit sie zu
+    "besitzen als Wesentlich für den Akt der originären Aneignung an.
+    Sogar Rothbard impliziert z.B., dass ein Individuum "Eigentümer
+    seiner selbst ist und demnach auch *seiner eigenen Arbeit*."
+    Rothbard, "Justice and Property Rights," p. 284, Hervorhebung
+    wurde hinzugefügt; siehe auch Rothbard, *The Ethics of Liberty*,
+    p. 49. Es ist eine irreführende Metapher davon zu sprechen, dass
+    man "Eigentümer der eigenen Arbeit" (oder des eigenen Lebens oder
+    der eigenen Ideen) ist. Das Recht die eigene Arbeit zu nutzen oder
+    davon zu profitieren ist lediglich eine *Folge* der
+    Verfügungsgewalt über den eigenen Körper, ebenso ist das Recht auf
+    "Redefreiheit" lediglich eine Folge, bzw. eine Ableitung von dem
+    Recht an Privateigentum, was Rothbard in *The Ethics of
+    Liberty*, insb. kap. 15 auch anerkannt hat.
+
+[^78]: Siehe auch Reisman, *Capitalism*, pp. 388–89.
+
+Desweiteren impliziert die Beigabe der utilitaristischen zu der
+naturrechtlichen Denkart, dass etwas Eigentum sein kann wenn es einen
+*Wert* hat. Wie Hoppe jedoch energisch gezeigt hat, hat man kein Anrecht
+auf den *Wert* von seinem Eigentum, sondern lediglich an seiner
+physischen Integrität.[^79] Weiterhin, können viele beliebig definierte
+"Sachen" einen wirtschaftlichen Wert bekommen, wenn Regierungen über die
+Nutzung dieser Sachen ein Monopol gewähren, selbst wenn diese Sachen
+ansonsten keine knappe Ressource sind (z.B. das Monopol des U.S.
+Postamts über die Eilzustellung von Briefen).
+
+[^79]: Hoppe, *A Theory of Socialism and Capitalism*, pp. 139–41, 237 
+    n. 17.
+
+Weil diese Ideen nicht in dem Sinne knapp sind, dass über ihre Nutzung
+ein physischer Konflikt entstehen könnte, sind sie nicht Gegenstand vom
+Eigentumsrecht, welches nur für solche Konflikte erdacht wurde.
+
+
+Zwei Arten der Originären Aneignung
+-----------------------------------
+
+Was ist jedoch so schlimm daran "neue" Eigentumsrechte anzuerkennen?
+Neue Ideen, künstlerische Schöpfungen und Erfindungen sind für uns
+schließlich eine ständige Bereicherung, worin liegt der Schaden sich mit
+der Zeit zu bewegen und die neue Form von Eigentum anzuerkennen? Das
+Problem bei der Anerkennung von Eigentumsrechte an nicht knappe
+Ressourcen ist, dass dies zwangsläufig zur Einschränkung der
+Eigentumsrechte an greifbare Ressourcen führt. Wir können nur auf eine
+Art Rechte an ideelle Objekte anerkennen, nämlich indem wir Rechte an
+knappe Gütern zuweisen. Wenn mein Patent – das Recht an einer Idee oder
+einem Muster, nicht an einem knappen Gut – gültig sein soll, muss ich
+zum Teil die Verfügungsgewalt über die knappen Ressourcen aller anderen
+haben.
+
+Wir sehen sogar, dass Rechte an g.E. tatsächlich eine neue Regel für die
+originäre Aneignung knapper Ressourcen darstellt, welches die libertäre
+Regel der originären Aneignung untergräbt. Denn nach der libertären
+Regel von Locke, wird der *erste Nutzer* zum Eigentümer einer bis dahin
+freien knappen Ressource. Ein Nachzügler der einen Teil oder die
+vollständige Verfügungsgewalt über derart angeeignetes Eigentum erlangt,
+ist ganz einfach ein Dieb, denn es ist bereits das Eigentum eines
+anderen. Der Dieb schlägt im Wesentlichen eine neue, beliebige und
+eigensinnige Regel zur originären Aneignung vor, womit die Regel des
+ersten Nutzers ersetzt werden soll und die wie folgt lautet: "Ich werde
+zum Besitzer von Eigentum, wenn ich es von dir gewaltsam wegnehme".
+Solch eine Regel ist freilich gar keine Regel und ist eindeutig der
+Regel des ersten Nutzers unterlegen. Die Regel des Diebes ist nicht
+universell sondern eigensinnig; sie ist nicht gerecht und ganz sicher
+nicht erdacht um Konflikte zu vermeiden.
+
+Befürworter von g.E. müssen sich auch für eine neue Regel zur originären
+Aneignung aussprechen, welche die Regel des ersten Nutzers ergänzt, wenn
+nicht sogar ersetzt. Sie müssen behaupten, dass es eine *zweite* Art
+gibt wodurch man zum Besitzer von greifbarem Eigentum werden kann.  D.h.
+der Befürworter von g.E. muss eine Regel zur originären Aneignung
+ähnlich der Folgenden vorschlagen: "Eine Person die eine kreative oder
+nützliche Idee ausdenkt, welches einen Handelnden bei der *Nutzung*
+seines greifbaren Eigentums leiten oder lenken kann, erlangt dadurch mit
+sofortiger Wirkung das Recht jedes andere greifbare Eigentum der Welt zu
+kontrollieren, soweit es eine ähnliche Nutzung des Eigentums betrifft".
+Diese neue Art originärer Aneignung ist derart mächtig, dass es dem
+Schöpfer Rechte an Eigentum gibt welches sich *bereits im Besitz* von
+dritten befindet.
+
+Indem jemand z.B. eine neue Art erfindet einen Brunnen zu graben, kann
+er als Erfinder *alle anderen* auf der ganzen Welt daran hindern, auf
+diese Art Brunnen zu graben, *selbst auf ihrem eigenen Eigentum*. Ein
+weiteres Beispiel ist die Vorstellung einer Zeit als Menschen noch in
+Höhlen lebten. Ein kluger Junge–nennen wir ihn Galt-Magnon–entschließt
+sich eine Holzhütte auf ein offenes Feld in der Nähe von seinem Acker zu
+bauen. Das ist sicherlich eine gute Idee und die anderen sehen es. Sie
+ahmen Galt-Magnon nach und fangen an ihre eigenen Hütten zu bauen. Der
+erste Mensch der das Haus erfunden hat, hat laut den Befürwortern des
+g.E., das Recht die anderen daran zu hindern auf ihrem eigenen Land
+mit ihrem eigenen Holz Häuser zu bauen, oder eine Abgabe von ihnen zu
+verlangen sollten sie doch eins bauen. Es ist offensichtlich, dass der
+Erfinder in diesen Beispielen zum *Miteigentümer* von greifbarem
+Eigentum der anderen wird (d.h. von Land und Holz), und zwar *nicht*
+aufgrund seiner erstmaligen Nutzung des Eigentums (denn es ist bereits
+im Besitz), sondern aufgrund seiner *Schöpfung einer Idee*. Es ist klar,
+dass diese Regel gegen die des ersten Nutzers verstößt. Es untergräbt
+beliebig und grundlos die grundlegende Regel allen Eigentums.
+
+Tatsächlich gibt es keinen Grund, warum es ausreichen sollte bloß etwas
+zu erfinden, damit der Erfinder zum Miteigentümer am Eigentum aller
+anderen werden sollte. Nur weil eine Regel vorgeschlagen werden kann
+bedeutet es nicht, dass die funktionieren kann oder gerecht ist. Es gibt
+viele beliebige Regeln die man sich zur Zuweisung von Eigentum ausdenken
+könnte. Ein Rassist könnte beispielsweise vorschlagen, dass jeder Weiße
+das Eigentum von einem Schwarzen aneignen kann. Es könnte auch der
+*dritte* Nutzer einer knappen Ressource zum Besitzer gemacht werden.
+Der Staat könnte alle Kapitalgüter aneignen, selbst wenn Individuen sie
+vorher angeeignet haben. Der Staat könnte per Edikt, also durch
+Besteuerung, sich einen Teil des Eigentums privater Individuen aneignen.
+Jede solche willkürliche Regelung zur Aneignung, inklusive der Regel,
+dass die Schöpfer von g.E. einen Teil der Kontrolle über das greifbare
+Eigentum von jedem anderen erlangen können, sind nicht zu rechtfertigen.
+Alle stehen im Konflikt mit der einzigen Regel zur Aneignung die
+gerechtfertigt werden kann, die des *ersten Nutzers*. Keine der Regeln
+ist fair, objektiv oder verhindert zwischenmenschliche Konflikte über
+knappe Ressourcen. Die Debatte über den Schutz von Rechte an "Ideen",
+"Kreationen" oder "Sachen mit einem Wert" dient nur zur Verschleierung
+der Tatsache, dass die Befürworter von g.E. Gegner des uneingeschränkten
+Rechts sind sich Privateigentum originären Anzueignen.
+
+
+G.E. als Vertrag
+================
+
+Die Grenzen von Verträge
+------------------------
+
+Das Gesetz sollte also die Rechte von Individuen an ihre Körper und an
+legitim angeeignete knappe Ressourcen (Eigentum) schützen. Es gibt kein
+natürliches Recht an ideelle Objekte–an eigene intellektuelle
+Erfindungen oder Schöpfungen–sondern nur an knappe Güter. Viele Gegner
+vom g.E. unterstützen lediglich *vertragliche* Vereinbarungen um Ideen
+und Erfindungen zu schützen–private Vereinbarungen zwischen
+Eigentümer.[^80] Stellen wir uns beispielsweise vor, dass *A* ein Buch
+schreibt und physische Kopien an diverse Käufer *B*₁, *B*₂ . . . *B*n
+verkauft, unter der vertraglichen Bedingung, dass jeder Käufer *B*
+verpflichtet ist keine Kopien des Texts herzustellen oder zu verkaufen.
+Nach jeder Theorie über das Vertragsrecht können die Käufer *B*
+gegenüber *A* haftbar gemacht werden, sollte er diese Bedingungen
+verletzen.[^81]
+
+[^80]: Siehe McElroy, "Intellectual Property: Copyright and Patent"; Roy
+    Halliday, "Ideas as Property," *Formulations* 4, no. 4 (Summer 1997);
+    Bouckaert, "What is Property?" pp. 804–5; Palmer, "Intellectual
+    Property: A Non-Posnerian Law and Economics Approach," pp. 280,
+    291–95; Palmer, "Are Patents and Copyrights Morally Justified?" pp.
+    821 n. 8, 851–55, 864; und Richard O. Hammer, "Intellectual Property
+    Rights Viewed as Contracts," *Formulations* 3, no. 2 (Winter 1995–96).
+
+[^81]: Siehe z.B. Kinsella, "A Theory of Contracts"; Rothbard, *The
+    Ethics of Liberty*, chap. 19; Williamson M. Evers, "Toward a
+    Reformulation of the Law of Contracts," *Journal of Libertarian
+    Studies* 1, no. 1 (Winter 1977): 3–13; und Randy E.  Barnett, "A
+    Consent Theory of Contract," *Columbia Law Review* 86 (1986):
+    269–321.
+
+Die Befürworter vom vertraglichen Ansatz zum geistigen Eigentum täuschen
+sich jedoch wenn sie glauben, dass Verträge dazu benutzt werden können
+den gleichen Schutz wie derzeitige Gesetze zum g.E.  nachzubilden.
+Patent und Urheberrechte sind gültig gegenüber *jede* Person, unabhängig
+von der Zustimmung zu einem Vertrag. Sie sind *echte* Rechte an die
+jeder im selben Sinne gebunden ist, wie mein Recht an ein Stück Land
+*jeden* dazu verpflichtet es als mein Eigentum zu respektieren–selbst
+wenn sie mit mir keine vertragliche Vereinbarung haben. Ein Vertrag
+bindet jedoch *ausschließlich* die Parteien die ihm zustimmen. Es ist
+wie ein privates Gesetz zwischen den Parteien.[^82] Es bindet keine
+dritten Parteien, da sie keine Vereinbarung mit den ursprünglichen
+Parteien getroffen haben.[^83]
+
+[^82]: Nach internationaler Übereinkunft *pacta sunt servanda* (Verträge
+    sind zu erfüllen), entstehen "Gesetzt der Übereinkunft" durch 
+    Verträge zwischen Souveräne (Staaten im Sinne des internationalen
+    Rechts). Siehe Paul E. Comeaux und N. Stephan Kinsella, *Protecting
+    Foreign Investment Under International Law: Legal Aspects of 
+    Political Risk* (Dobbs Ferry, N.Y.: Oceana Publications, 1997), 
+    chaps. 2, 5.
+
+[^83]: Eine Definition für "Vertragsbeziehung" (engl. privity of
+    Contract) findet man in *Black's Law Dictionary*, 6th ed. (St.
+    Paul, Minn.: West Publishing, 1990), p.  1199. Siehe im Rahmen des
+    g.E. auch Bouckaert, "What is Property?" pp. 795, 805.
+
+Wenn der Käufer *B* mit einer dritten Partei *T* über die Handlung in
+dem Buch spricht, ist diese Partei *T* im Allgemeinen nicht an den
+Vertrag zwischen *A* und *B* gebunden. Wenn ich herausfinde wie ich
+einen Vergaser anpassen kann sodass er mit doppelter Effizienz arbeitet,
+wenn ich ein Gedicht lerne oder die Handlungen in einem Film die von
+anderen geschrieben wurde erfahre, warum sollte ich so tun also ob ich
+nichts über diese Dinge wüsste und entgegen dem erlangten Wissen
+handeln? Ich habe keine vertragliche Vereinbarung mit den Autoren
+getroffen. Ich bestreite nicht, dass vertragliche Vereinbarungen auch
+implizit oder stillschweigend gemacht werden können, aber in den
+Situationen ist selbst solch ein Vertrag nicht zustandegekommen.
+
+Man kann auch nicht sagen, dass ich die Information durch Diebstahl oder
+Betrug erlangt habe, denn es gibt viele legitime arten wodurch
+Individuen Informationen erlangen können. Kunstwerke werden von Natur
+aus typischerweise der Öffentlichkeit gezeigt. Über eine
+wissenschaftliche Entdeckungen können mehr Personen erfahren, als
+diejenigen die sich zum Stillschweigen verpflichtet haben. Es kann
+sicherlich nicht gesagt werden, dass ich das physische Eigentum von
+einem Urheber beschädige, sollte ich einen Vergaser verwenden oder ein
+Roman mit der gleichen Handlung schreiben. Es hindert den Urheber noch
+nicht einmal daran seine eigene Idee für den Vergaser, zur Verbesserung
+anderer Fahrzeuge zu verwenden oder seine Geschichte zu verwenden.
+
+Die Anpassung von meinem Vergaser stellt also keine Vertragsverletzung
+dar; es ist kein Diebstahl; es ist auch kein physischer Eingriff in das
+greifbare Eigentum des Erfinders. An meinem Vergaser herumzuspielen
+verletzt nicht die Rechte des Erfinders. Man kann höchstens sagen, dass
+es den *Wert* für den Erfinder mindert, da es seine Möglichkeiten
+einschränkt es durch ein Monopol auszubeuten. Wie wir jedoch gesehen
+haben, kann man kein Recht an dem Wert seines Eigentums haben, sondern
+nur an seiner physischen Integrität.[^84]
+
+[^84]: Hoppe, *A Theory of Socialism and Capitalism*, pp. 139–41, 237 n.
+    17.
+
+Verträge sind also nur von beschränktem Nutzen. Der Verleger von einem
+Buch kann seine Käufer dazu verpflichten das Buch nicht zu kopieren,
+aber er kann dritte nicht daran hindern es zu veröffentlichen und zu
+verlegen, es sein denn eine andere vertragliche Vereinbarung hindert sie
+daran.
+
+
+Vertrag kontra Vorbehaltene Rechte
+----------------------------------
+
+Dritte die keine Parteien in einem Vertrag sind oder an eines der
+Parteien vertraglich gebunden sind, müssen dem Vertrag dementsprechend
+keine Beachtung schenken. Es folgt, dass ein Erfinder zwar ein Vertrag
+nutzen kann um bestimmte Individuen daran zu hindern seine Ideen
+frei zu nutzen; es ist jedoch schwierig das gebräuchliche Vertragsrecht
+zu verwenden um Dritte daran zu hindern die Ideen zu nutzen von denen
+sie erfahren. Möglicherweise mit einer Ahnung über dieses Problem,
+wechseln Befürworter von einem rein vertraglichen Schutz für g.E. zu dem
+Ansatz der "Reservierung von Rechte" in dem Eigentumsrechte an greifbare
+Ressourcen als eine teilbare Menge von Rechte aufgefasst werden.
+
+Ein Grundstücksbesitzer kann entsprechend der üblichen Sicht, dass
+Rechte gebündelt sind, das Recht an unterirdisches Öl an eine Firma
+verkaufen und noch die Rechte an der Oberfläche behalten. Davon
+ausgeschlossen wäre die Dienstbarkeit gegenüber dem Nachbar, der ein
+Wegerecht hat und die Rechte seiner Mutter, die an der Oberfläche ein
+Wohn- und Nutzungsrecht hat. Entsprechend dem Gedanken über eine Menge
+von Rechte, entsteht der Ansatz sich "Rechte vor zu behalten". Nach
+diesem Ansatz kann g.E. im privaten nachgebildet werden, indem man das
+Recht einen greifbaren Gegenstand zu reproduzieren nicht zusammen mit
+dem Gegenstand verkauft. Rothbard argumentiert beispielsweise, dass man
+eine anderen Person bedingt zum "Eigentümer" (von "Wissen") machen kann,
+dabei jedoch "das Recht vorbehalten kann das Wissen über die Erfindung
+weiter zu verbreiten". Braun, der Erfinder einer verbesserten
+Mausefalle, kann darauf "Urheberrechtlich Geschützt" stempeln und
+dadurch alle Rechte daran verkaufen *abgesehen* von dem Recht es zu
+reproduzieren. Wie das heute gesetzlich geregelte g.E. sind vorgeblich
+alle Personen an solche "Vorbehalte" gebunden, nicht nur diejenigen die
+mit dem ursprünglichen Verkäufer einen Vertrag haben. Somit kann ein
+Dritter der vom Kauf eines Gegenstands erfährt, es erwirbt, oder
+anderweitig zum Besitzer davon wird, ebensowenig eine Reproduktion
+anfertigen – *nicht* wegen einem Vertrag mit Braun, sonder weil "niemand
+mehr Rechte an etwas haben kann als derjenige dem ursprünglich etwas
+verkauft wurde". Mit anderen Worten, die dritte Partei erwirbt das
+Eigentumsrecht an der greifbaren Sache – z.B. ein Buch oder eine
+Mausefalle – nicht jedoch das "Recht es zu kopieren", dass
+"normalerweise" zu den Rechten gehören würde. Anders ausgedrückt, die
+dritte Partei wird zum "Besitzer" der Information durch jemand der kein
+Recht hatte diese weiterzugeben.[^85]
+
+[^85]: Rothbard, *The Ethics of Liberty*, p. 123.
+
+Hierbei haben wir doch sicherlich etwas übersehen. Stellen wir uns vor,
+dass *A* ein Roman schreibt und eine erste Kopie, BUCH₁, ohne
+Beschränkungen (d.h. ohne Einschränkung der Rechte) an *B*₁ verkauft;
+und eine zweite Kopie BUCH₂ an B₂ verkauft – jedoch ohne das "Recht es
+zu kopieren". Die beiden Bücher BUCH₁ und BUCH₂, sind von außen
+betrachtet identisch. Das sind sie jedoch nicht: Eines ist
+unvollständig; das andere enthält mehr von der mystischen "Essenz des
+Rechts". Nehmen wir an *B*₁ und *B*₂ lassen diese Bücher auf einer
+Parkbank liegen, wo ein Dritter *T* sie auffindet. Nach der Auffassung
+von Rothbard "fehlt" dem BUCH₂ das "Recht es zu kopieren", ähnlich wie
+ein elektrisches Spielzeug ohne Batterien verkauft wird. Es ist so als
+ob ein unsichtbarer, mystischer Faden aus dem "Recht zur Reproduktion"
+zwischen dem echten Besitzer *A* und dem Buch gespannt ist, wo immer es
+auch sein mag. Sollte *T* das verlassene BUCH₂ finden und sich aneignen,
+hat er kein Recht es zu kopieren, da es schlicht und einfach kein
+solches Recht "in sich" trägt. Dieses Recht wird fortwährend durch ein
+Wurmloch der Rechte abgesaugt, dass den Besitzer *A* und sein Buch
+verbindet. So kann *T* durch Aneignung des Buchs lediglich das Buch
+selbst bekommen, jedoch ohne das "Eingebaute" Recht es zu kopieren und
+er kann dementsprechend keine Kopie vom BUCH₂ anfertigen. Gleiches gilt
+für darauffolgende Dritte die Besitzer des Buchs werden.
+
+Ist solch eine Ansicht wirklich haltbar? Können wir uns Eigentumsrechte
+vorstellen die so funktionieren? Selbst wenn es möglich ist, würde es
+wirklich zum erwünschten Ergebnis führen–andere daran zu hindern
+geschützte Ideen zu benutzen? Man kann schwerlich behaupten, dass Rechte
+auf diese Art vorbehalten werden können. Eine Funktion von
+Eigentumsrechte ist ja schließlich die Verhinderung von Konflikte und
+Dritte auf die Grenzen des Eigentums hinzuweisen. Man muss diese Grenzen
+unbedingt objektiv und unabhängig feststellen können; sie müssen
+*sichtbar* sein. Grenzen können nur respektiert werden und
+Eigentumsrechte damit ihren Zweck der Konfliktvermeidung erfüllen, wenn
+sie sichtbar sind. Nur wenn diese Grenzen sowohl sichtbar, also auch
+objektiv gerecht sind (im Diskurs gerechtfertigt werden können) *kann*
+man erwarten, dass sie adoptiert und eingehalten werden. Betrachten wir
+jedoch an die beiden Bücher, BUCH₁ und BUCH₂. Welchen Unterschied kann
+man zwischen beide feststellen? Wie kann man den Rechte-Faden an dem
+einen Buch jedoch nicht an dem anderen feststellen? Wie kann man von
+Dritten erwarten eine amorphe, unsichtbare, mystische, gespenstige,
+möglicherweise überhaupt nicht feststellbare Grenze zu respektieren?
+
+Die Implikationen solch einer Sicht sind beunruhigend. Palmer schreibt:
+
+> Die Trennung und Beschränkung des Rechts eine Kopie zu erstellen von
+> dem Recht, dass wir Eigentum nennen ist problematisch. Könnte man z.B.
+> das Recht vorbehalten sich an etwas zu erinnern? Mal angenommen ich
+> schreibe ein Buch und ich biete es Ihnen zur Lektüre an. Dabei behalte
+> ich mir jedoch ein Recht vor: Das Recht sich daran zu erinnern. Wäre es
+> gerechtfertigt Sie zu verklagen, sollte ich beweisen könnte, dass Sie
+> sich an den Namen der Hauptfigur im Buch erinnern können?[^86]
+
+[^86]: Palmer, "Are Patents and Copyrights Morally Justified?" p. 853.
+    Palmer zitiert auch die folgenden aufschlussreiche Passagen.
+    Hegel argumentierte:
+
+    > Das Substantielle des Rechts des Schriftstellers und Erfinders ist
+    > zunächst nicht darin zu suchen, daß er bei der Entäußerung des
+    > einzelnen Exemplars es willkürlich zur Bedingung macht, daß die
+    > damit in den Besitz des anderen kommende Möglichkeit, solche
+    > Produkte nunmehr als Sachen gleichfalls hervorzubringen, nicht
+    > Eigentum des anderen werde, sondern Eigentum des Erfinders bleibe.
+    > Die erste Frage ist, ob eine solche Trennung des Eigentums der
+    > Sache von der mit ihr gegebenen Möglichkeit, sie gleichfalls zu
+    > produzieren, im Begriffe zulässig ist und das volle, freie
+    > Eigentum nicht aufhebt, – worauf es erst in die Willkür des
+    > ersten geistigen Produzenten kommt, diese Möglichkeit für sich zu
+    > behalten oder als einen Wert zu veräußern oder für sich keinen
+    > Wert darauf zu legen und mit der einzelnen Sache auch sie
+    > preiszugeben. (*Grundlinien der Philosophie des Rechts* § 69,
+    > zitiert in "Are Patents and Copyrights Morally Justified?" p. 853
+    > n. 138)
+
+    Anmerkung von Kant:
+
+    > Diejenigen, welche den Verlag eines Buchs als den Gebrauch des
+    > Eigenthums an einem Exemplare [...] ansehen und alsdann doch durch
+    > den Vorbehalt gewisser Rechte, es sei des Verfassers, oder des von
+    > ihm eingesetzten Verlegers, den Gebrauch noch dahin einschränken
+    > wollen, da es unerlaubt sei, es nachzudrucken, - können damit
+    > niemals zum Zwecke kommen. Denn das Eigenthum des Verfassers an
+    > seinen Gedanken (wenn man gleich einräumt, dass ein solches nach
+    > äußern Rechten statt finde) bleibt ihm ungeachtet des Nachdrucks;
+    > und da nicht einmal füglich eine ausdrückliche Einwilligung der
+    > Käufer eines Buchs zu einer solchen Einschränkung ihres Eigenthums
+    > statt finden kann, wie viel weniger wird eine bloß präsumirte zur
+    > Verbindlichkeit derselben zureichen? (Immanuel Kant, *Von der
+    > Unrechtmäßigkeit des Büchernachdrucks*, in 2 "Copyrights and
+    > Patents for Inventions" 580 (R. MacFie ed. 1888). zitiert in Palmer,
+    > "Are Patents and Copyrights Morally Justified?" p. 853 n. 138)
+
+Dritte Parteien stellen für diese Theorie jedoch immer noch ein Problem
+dar. Selbst wenn der Verkäufer irgendwie bestimmte Rechte an dem
+verkauften Objekt "vorbehalten" könnte, warum sollte das Dritte daran
+hindern die offenbarten oder übertragenen *Informationen* aus diesem
+Objekt zu nutzen? Die Befürworter vorbehaltener Rechte behaupten *nicht
+nur*, dass der direkte Käufer *B*₁ kein Recht hat das Buch zu
+reproduzieren; denn das könnte auch mit einen impliziten *Vertrag*
+zwischen dem Verkäufer *A* und dem Käufer *B*₁ erreicht werden. Bedenken
+wir der dritten Partei *T*₁, die das verlassene Buch findet, ließt und
+somit von den Informationen darin *erfährt*. Vergleichen wir die
+Situation von *T*₂, der niemals im Besitz des Buches ist oder es auch
+nur sieht; er erfährt die Informationen lediglich durch Hörensagen,
+Graffiti, ungebeten E-Mail, usw. Weder *T*₁ noch *T*₂ haben einen
+Vertrag mit *A* aber beide haben jetzt bestimmtes Wissen. Selbst wenn
+das Buch irgendwie kein "Recht zur Reproduktion" beinhaltet, wie kann
+das *T*₁ oder *T*₂ daran hindern ihr Wissen zu benutzen? Wenn wir soweit
+gehen zu sagen, dass *T*₁ irgendwie an ein vertragliches Urheberrecht
+gebunden ist, gekennzeichnet durch ein auf dem Buch gedruckten Verweis
+(eine unhaltbare Sicht des Vertragsrechts), wie kann *T*₂ an irgend
+einem Vertrag oder an vorbehaltenes Recht gebunden sein?
+
+Rothbard versucht dieses Argument folgendermaßen anzugehen:
+
+> Ein häufiger Einwand ist dieser: Also gut, es wäre ein Verbrechen wenn
+> *Grün* [der Käufer] die Mausefalle von Braun produziert oder verkauft;
+> was ist jedoch wenn ein anderer, Schwarz, der keinen Vertrag mit Braun
+> abgeschlossen hat, zufällig die Mausefalle von Grün sieht und sich
+> aufmacht um eine Kopie zu produzieren und zu verkaufen? Warum sollte
+> man *ihn* verklagen? Die Antwort ist, dass . . . niemand Eigentum in
+> *größerem* Umfang an etwas erlangen kann, als ein anderer der es
+> bekommen oder erworben hat. Grün hatte entsprechend seinem Vertrag mit
+> Braun, kein vollständiges Eigentumsrecht an der Mausefalle – er hat
+> alle Rechte *außer* das Recht . . . eine Kopie zu verkaufen. Deshalb
+> können die Rechte von Schwarz an der Mausefalle, das Eigentum an den
+> Ideen im Kopf von Schwarz, keinen größeren Umfang haben als die Rechte
+> von Grün. Er würde deswegen durch das Kopieren die Eigentumsrechte von
+> Braun verletzen, auch wenn er selbst keine vertragliche Vereinbarung
+> eingegangen ist.[^87]
+
+[^87]: Rothbard, *The Ethics of Liberty*, p. 123.
+
+Es gibt mehrere Probleme mit dieser Denkart. Zunächst müssen wir
+feststellen, das Schwarz lediglich die Mausefalle von Grün *sieht*. Er
+hat weder Einsicht in die Gedanken von Grün, noch muss er diesen Zugang
+haben um die offensichtlichen Eigenschaften der Mausefalle nachzubauen.
+
+Im übrigen ist man ebensowenig der Besitzer von Ideen im eigenen Kopf
+wie man der Besitzer der eigenen Arbeit ist. Nur knappe Ressourcen
+können Besitz sein. Indem man die Knappheit als wesentlich für die
+originäre Aneignung aus dem Blick verliert, sowie die Regel des ersten
+Nutzers um knappe Ressourcen in Besitz zu nehmen, sind Rothbard und
+andere zu der falschen Ansicht gekommen, dass man Eigentum an Ideen und
+Arbeit haben kann. Sobald wir erkennen, dass Ideen kein Eigentum sein
+können (sie sind keine knappen Ressourcen), dass Schöpfung von Ideen
+weder nötig noch ausreichend ist um Eigentümer zu werden (die erste
+Nutzer Regel ist es), und dass man Arbeit nicht "besitzen" muss um etwas
+originär aneignen zu können, verschwinden die durch diese Verwirrung
+verursachten Schwierigkeiten.
+
+Wenn Schwarz *irgendwie* an die Ideen gelangt die implizit in dem von
+Braun erfundenen Gegenstand vorhanden sind (im Beispiel von Rothbard,
+"sie zufällig sieht"), so ist es *irrelevant* ob die Mausefalle ein
+"Recht zum kopieren" mit sich trägt oder nicht. Denn Schwarz braucht
+keine solche Erlaubnis um sein eigenes Eigentum nach eigenem Ermessen
+einzusetzen. Inwiefern verletzt Schwarz die Rechte von Braun wenn er
+"zufällig die Mausefalle sieht"?
+
+Alle Handlungen, auch solche die angeeignete knappe Mittel (Eigentum)
+einsetzen, bedürfen dem Gebrauch von technischem Wissen.[^88] Einen Teil
+von diesem Wissen kann man durch Beobachtung unserer Umwelt erlangen,
+inklusive dem Eigentum von anderen. Zu unseren Rechten muss kein "Recht
+zum kopieren" gehören, damit wir ein bekanntes Muster oder eine Form auf
+ein uns gehörendes Objekt anwenden können. Wir haben vielmehr das Recht
+mit unserem eigenen Eigentum *beliebig und nach eigenem Ermessen
+umzugehen*, mit der *einzigen* Beschränkung, dass wir die Grenzen des
+Eigentums eines Anderen nicht übertreten dürfen. Wir dürfen diese
+wesentliche libertäre Einsicht nicht aus den Augen verlieren. Wenn ich
+im Besitz von 100 Hektar Land bin, kann ich darauf nackig herumhüpfen,
+*nicht* weil dem Land irgend ein "Recht-zum-nackigen-herumhüpfen"
+innewohnt, sondern weil es mein *Eigentum* ist und diese Handlung nicht
+(unbedingt) die Eigentumsrechte anderer verletzt.
+
+[^88]: Kinsella, "Knowledge, Calculation, Conflict, and Law"; Jörg Guido
+    Hülsmann, "Knowledge, Judgment, and the Use of Property," *Review of
+    Austrian Economics* 10, no. 1 (1997), p. 44.
+
+Gleichermaßen, habe ich das Recht mit meinem Eigentum anzustellen was
+ich möchte – sei es mein Auto, mein Papier, meine
+Textverarbeitungsprogramm – ob ich den Vergaser in mein Auto verbessern
+möchte oder meine Tinte benutzen möchte um Wörter auf mein Papier zu
+drucken. *Es sei denn* ich habe mich vertraglich gegenüber jemand dazu
+verpflichtet, meine Handlungen im Bezug auf solches Wissen
+einzuschränken. Ich muss nicht vorher ein bestimmtes Recht für jede
+erdenklich Nutzungsart meines Eigentums haben, denn *abgesehen* von
+Handlungen die eine Verletzung vom Eigentum eines Anderen zur Folge
+haben, sind alle Handlungen in dem *Nutzungsrecht* an meinem Eigentum
+inbegriffen. Nach dem Libertarismus liegen unserem Leben keine
+Genehmigungen zugrunde sondern Rechte. Wir brauchen nicht um Erlaubnis
+bitten wenn wir etwas mit unserem Eigentum tun möchten. Entgegen der
+Praxis in einer totalitären Gesellschaft ist alles erlaubt was nicht
+verboten ist. Die Ansicht man könnte Rechte vorbehalten wäre die
+Umkehrung davon, denn jeder Einsatz von Eigentum wäre nur erlaubt wenn
+das Recht es auf diese bestimmte Art zu nutzen irgendwie oder irgendwo
+in dem Eigentum gefunden werden könnte.
+
+Betrachten die folgende Analogie. Hans der Bauer entdeckt Öl unter
+seinem Land. Kein anderer in der Nähe weiß etwas über das schwarze Gold.
+Hans plant die Grundstücke seiner Nachbarn für 'nen Appel und 'n Ei
+aufzukaufen; den Preis kriegt er auch, denn die Verkäufer wissen nichts
+über den eigentlichen Wert. Der laute Nachbar Paul, schöpft angesichts
+der guten Stimmung von Hans verdacht, schleicht mitten in der Nacht auf
+das Grundstück von Hans und entdeckt das Geheimnis. Am nächsten Morgen
+in dem Herrensalon von Peter, gibt Paul seinen Kumpels über die
+Nachricht Bescheid. Einer von ihnen macht sich gleich auf zur
+Telefonzelle und gibt die Nachricht an einem Reporter vom *Handelsblatt*
+weiter (der zufällig sein Neffe ist). Schon bald ist jedem klar, dass Öl
+in der Umgebung ist. Die Nachbarn verlangen nun maßlose Preise für ihr
+Land und verderben damit die Pläne von Hans.
+
+Es ist denke ich einsichtig, dass Paul wegen Einbruch und daraus
+folgende Schäden haftbar gemacht werden kann. Die Frage ist, können die
+Nachbarn von Hans daran gehindert werden unter Berücksichtigung von
+ihrem neuen Wissen zu handeln? D.h. kann man sie zwingen so *zu tun als
+ob* sie nichts über das Öl wüssten und ihr Land an Hans für den Preis zu
+verkaufen, den sie "sonst" verlangt hätten? Sicherlich ist solch ein
+Zwang nicht möglich. Sie sind die Eigentümer von ihrem Land und sie
+haben das Recht zu bestimmen was damit geschehen soll. Anders als
+greifbares Eigentum, kann man Informationen nicht besitzen; es ist kein
+Eigentum. Wer eine Uhr gestohlen hat, muss es möglicherweise
+zurückgeben; so lange jemand der Wissen erlangt, dieses Wissen nicht
+durch einen Rechts- oder Vertragsbruch bekommt, kann er frei danach
+handeln.
+
+Dabei ist zu beachten, dass nach der Sicht über vorbehaltene Rechte, es
+den Nachbarn nicht erlaubt wäre ihr Wissen zu benutzen, da sie es
+letztendlich durch Paul erfahren haben, einem Einbrecher der kein
+"Eigentümer" von dem Wissen war. Sie konnten also nicht "mehr Rechte" an
+dem Wissen haben als Paul selbst. Es ist auch zu beachten, dass
+geologische Kundschafter, die nach Öl suchen, dieses Wissen nicht auf
+ihre Karten verzeichnen dürfen. Sie müssen Ahnungslosigkeit vortäuschen
+bis Hans ihnen die Erlaubnis erteilt. Dieses auferlegte Unwissen läuft
+Hand in Hand mit der durch g.E. erschaffenen unnatürlichen Knappheit.
+Offensichtlich gibt es keine Rechtfertigung für die Sicht, dass Dritte
+durch vorbehaltenen Rechte irgendwie daran gehindert werden können, das
+von ihnen erlangte Wissen einzusetzen.
+
+Es ist schlicht und einfach nicht legitim einen Eigentümer daran zu
+hindern sein Eigentum nach eigenem Ermessen einzusetzen, es sei denn er
+hat sich vertraglich dazu verpflichtet oder er hat die Rechte der Person
+verletzt der die Informationen ursprünglich hatte. Gerede über das Recht
+zum Kopieren, versucht lediglich darüber hinwegzutäuschen, dass ein
+Vertrag lediglich die beteiligten Parteien bindet.[^89]
+
+[^89]: Im Anarchokapitalismus ist es freilich schwer vorher zu sagen
+    welche weit reichenden Vertraglichen Reglungen, Netzwerke und
+    Institutionen aufkommen werden. Verschiedene Gemeinschaften könnten
+    sehr wohl ihre Kunden, Patrone, oder Bürger verpflichten sich an
+    bestimmte Regeln, ähnlich dem g.E., zu halten.
+
+    Zum Anarchokapitalismus siehe z.B. Hans-Hermann Hoppe, "The Private
+    Production of Defense," *Journal of Libertarian Studies* 14, no. 1
+    (Winter 1998–1999): 27–52.
+
+Demnach können Käufer im Allgemeinen durch Verträge mit Verkäufer daran
+gebunden sein, das Erkaufte nicht zu kopieren oder auch nur weiter zu
+verkaufen. Sobald dritte Parteien von den Ideen erfahren, die der
+Erfindung oder dem literarischen Werk zugrundeliegen, verletzen ihre
+Handlungen im Allgemeinen nicht die Eigentumsrechte des Verkäufers.
+Angesichts dieser Sicht von Knappheit, Eigentum und Verträge, lasst uns
+untersuchen ob die üblichen Formen vom g.E. legitim sind.
+
+
+Urheberrecht und Patente
+------------------------
+
+Es sollte offensichtlich sein, dass Urheberrechte und Patente die
+Eigentümer von greifbarem Eigentum – knappe Ressourcen – an der Nutzung
+ihres eigenen Eigentums hindern. Das Patentrecht verbietet es ihnen
+z.B., mit ihrem eigenen Eigentum patentierte Methoden zu praktizieren,
+oder ihr Eigentum in patentierte Geräte zu verwandeln, selbst wenn sie
+die Methode oder das Gerät unabhängig erfunden haben. Nach dem
+Urheberrecht, werden Dritte, auch ohne vertragliche Vereinbarung mit dem
+Autor, daran gehindert das Werk des Autors zu kopieren oder davon zu
+profitieren. Verkäufer neuer Gerätschaften oder literarischer Werke
+können sicherlich Verträge mit ihren Käufern abschließen, sodass sie das
+Erworbene nicht reproduzieren oder auch nur weiterverkaufen dürfen.
+Diese vertraglichen Netze können ausgefeilt sein; der Autor von einem
+Roman kann seine Geschichte an ein Filmstudio lizenzieren, unter der
+Bedingung, dass das Studio jedes Kino dazu verpflichtet, alle
+Kinobesucher dazu zu verpflichten das sie den Inhalt des Films nicht
+reproduzieren, usw.
+
+Dennoch, sobald dritte Parteien, die nicht an ein Vertrag gebunden sind,
+diese Information erlangen, können sie es nach eigenem ermessen
+benutzen. Die Theorie vorbehaltener Rechte ändert daran auch nichts.
+Somit wäre es wahrscheinlich schwierig etwas ähnliches wie unser
+heutiges Patent- oder Urheberrecht alleine durch Verträge nachzubilden.
+
+
+Geschäftsgeheimnisse
+--------------------
+
+Geschäftsgeheimnisse kann man leichter rechtfertigen als Patente oder
+das Urheberrecht. Palmer argumentiert, dass sie aus den Gesetzen des
+Common Law "erscheinen" und demnach legitim sind.[^90] Gesetze über
+Geschäftsgeheimnisse erlauben eine einstweilige Verfügung um die
+"Entwendung" von einem Geschäftsgeheimnis zu verhindern oder falls
+geschehen dafür Schadensersatz zu bekommen. Diese Gesetze gelten für
+Personen die auf unzulässige Art an ein Geschäftsgeheimnis gekommen sind
+oder sie entgegen vertragliche Vereinbarungen veröffentlichen, sowie für
+Personen die wissen, dass sie die Informationen von solch einer Person
+erhalten.[^91]
+
+[^90]: Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," pp. 280, 292–93; and Palmer, "Are Patents and Copyrights
+    Morally Justified?" pp. 854–55.
+
+[^91]: UTSA, § 1; Halligan, "Restatement of the Third Law—Unfair
+    Competition: A Brief Summary," § 40, comment d.
+
+Nehmen wir an ein Angestellter *A* der Firma *X* hat Einsicht in die
+Geschäftsgeheimnisse der Firma, z.B. zu der Formel von einem
+Erfrischungsgetränk. Er ist gebunden an eine vertragliche Vereinbarung
+im Rahmen seiner Anstellung, dass ihn verpflichtet die Formel geheim zu
+halten. Nun wechselt er zum Konkurrenten *Y*. *Y* möchte die Formel von
+*A* erfahren und mit *A* im Wettbewerb stehen. Nach den heutigen
+Gesetzen, kann *X* eine einstweilige Verfügung gegen *A* erwirken,
+sofern die Formel noch nicht an die Öffentlichkeit geraten ist. Wenn *A*
+das Geheimnis bereits an *Y* verraten hat, kann *X* ebenfalls eine
+einstweilige Verfügung gegen *Y* erwirken und daran hindern die Formel zu
+nutzen oder zu veröffentlichen.
+
+Es ist klar, dass die Verfügung und der Schadensersatz gegen *A*
+gerechtfertigt sind, da er seinen Vertrag mit *X* gebrochen hat.
+Fragwürdiger ist hingegen die Verfügung gegen *Y*, denn *Y* hat keinen
+Vertrag mit *X*. In dem Kontext der Situationen die üblicherweise
+auftreten, ist sich der Konkurrent *Y* meistens darüber im klaren, dass
+der übergelaufenen Angestellten *A* einen Vertragsbruch begeht wenn er 
+das Geschäftsgeheimnis verrät. Es kann demnach argumentiert werden, dass
+*Y* ein Komplize von *A* ist und mit ihm konspiriert um die
+Geschäftsgeheimnisse von *X* zu erlangen und damit die (vertraglichen)
+Rechte von *X* zu verletzen. Das liegt daran, dass *A* erst mit der
+Bekanntgabe des Geschäftsgeheimnisses an *Y* sein Vertrag gebrochen hat.
+Wenn *A* von *Y* aktiv umworben wurde, dann ist *Y* ein Komplize und
+verletzt die Rechte von *X*. Analog zu dem Fahrer von einem
+Fluchtfahrzeug in einem Banküberfall oder dem Anführer einer Mafia der
+einen Mord beauftragt und zurecht für die aggressiven Handlungen anderer
+haftbar gemacht wird, können dritte unter bestimmten Umständen daran
+gehindert werden die Geschäftsgeheimnisse zu Nutzen, die sie
+unrechtmäßig erhalten haben.[^92]
+
+[^92]: Zu der Verantwortung für Handlungen eines Anderen oder zu
+    Verschwörungen, siehe z.B.  Texas Penal Code, §§ 7.02 
+    (Criminal Responsibility for Conduct of Another), und 15.02 
+    (criminal conspiracy). Definitionen für "abet," "accessory,"
+    "accomplice," "aid and abet," "concert," und "conspiracy," findet
+    man in *Black's Law Dictionary*.
+
+
+Markenzeichen
+-------------
+
+Palmer argumentiert auch, dass Gesetze zu Markenzeichen legitim
+sind.[^93] Stellen wir und vor, ein Lachmanninan ändert den Namen seiner
+schlecht laufenden Brauerei von "Lachmannian Bier" nach "Rothbard Bier",
+den Namen einer anderen bereits laufenden Brauerei. Ich, als Konsument
+möchte gerne einen Bier vom Rothbard. Ich sehe eine gefälschte Flasche
+vom Lachmanninan und kaufe sie mir. Nach heutigem Gesetz, kann Rothbard,
+als "Eigentümer" der Marke "Rothbard Bier", Lachmanninan an der Nutzung
+seiner Marke auf der Grundlage hindern, dass es seiner Marke "verwirrend
+ähnlich" ist. Er führt demnach seine Kunden über den wahren Ursprung der
+Güter in die Irre. Das Gesetz gibt dem Inhaber der Marke also ein Recht
+gegenüber dem fälschenden.
+
+[^93]: Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," p. 280.
+
+Meiner Ansicht nach, sind es die *Kunden* dessen Rechte verletzt werden,
+nicht die vom Inhaber der Marke. In dem vorherigen Beispiel, dachte ich
+(der Kunde), dass ich ein Rothbard Bier gekauft hatte, bekam aber statt
+dessen einen läppisch Lachmann Bier mit seinem abgestandenen Geschmack.
+Ich sollte das Recht haben gegen Lachmanninan wegen Betrug und
+Vertragsbruch zu klagen (ganz zu schweigen von dem vorsätzlich zugefügten
+emotionalen Schaden und Falschdarstellung praxeologischer Wahrheiten).
+Es ist jedoch schwierig zu sehen, inwiefern der Betrug *mir* gegenüber
+die Rechte von *Rothbard* verletzt hat. Lachmanninan hat nichts
+unternommen um das Eigentum von Rothbard physisch zu verletzen. Er hat
+noch nicht einmal andere dazu bewegt das zu tun; man kann höchstens
+sagen, er hat andere dazu bewegt Bier von Lachmanninan anstatt von
+Rothbard zu kaufen. Es scheint demnach, aus libertärer Sicht, dass
+Markengesetze dem *Kunden*, und nicht dem *Nutzer* einer Marke, das Recht
+geben sollte gegen Fälscher zu klagen.
+
+Weiterhin können neue Ausweitungen der Markengesetze, wie das Recht
+gegen die Verwässerung einer Marke oder gegen bestimmte Formen von
+Domänenbesetzung nicht gerechtfertigt werden. Ebenso wie der Nutzende
+kein Recht an seiner Marke hat, hat er auch kein Recht gegen die
+Verwässerung seiner Marke vorzugehen. Das Gesetz gegen Domänenbesetzung
+beruht auf die ökonomisch unkundige Opposition gegenüber Arbitrage. Es
+ist freilich nichts falsch daran eine Domaine als erster zu nehmen und
+es danach an den Höchstbietenden zu verkaufen.
+
+
+Schlussfolgerung
+================
+
+Wir sehen also, dass ein System von Eigentumsrechte über "ideelle
+Objekte" zwangsläufig die Eigentumsrechte anderer verletzt, da diese
+nicht länger ihr Eigentum nach eigenem Ermessen einsetzen können.[^94]
+Ein solches System bedarf einer neune Regel über originäre Aneignung,
+welches die Regel des ersten Nutzers untergräbt. Geistiges Eigentum,
+zumindest in der Form des Patent- und Urheberrechts, ist nicht Rechtens.
+
+[^94]: Siehe Palmer, "Intellectual Property: A Non-Posnerian Law and
+    Economics Approach," p. 281; und Palmer, "Are Patents and Copyrights
+    Morally Justified?" pp. 831, 862, 864–65.  60 — Against Intellectual
+    Property
+
+Es ist nicht weiter verwunderlich, dass Patenanwälte, Künstler und
+Erfinder die Rechtmäßigkeit des g.E. als gegeben ansehen.  Wer Freiheit,
+Wahrheit und Recht als wichtiger ansieht, sollte die
+institutionalisierte Gewalt zur Durchsetzung der Gesetze zum g.E. nicht
+als gegeben ansehen. Wir haben als Individuen Rechte an unsere eigenen
+Körper und originär angeeignete knappe Ressourcen und sollten den
+Vorrang dieser Rechte wieder geltend machen.
+
+
+ANHANG
+======
+
+
+EINIGE FRAGLICHE BEISPIELE ZUM PATENT- UND URHEBERRECHT
+-------------------------------------------------------
+
+Beispiele zum U.S Patentrecht [^95]
+*  "Christmas Tree Stand Watering System," U.S.  Pat. No. 4,993,176, Feb.
+19, 1991 (Christmas tree watering stand shaped like Santa Claus);
+
+*  "Initiation Apparatus," U.S. Pat. No. 819,814, May 8, 1906 ("harmless"
+way of initiating a candidate into a fraternity by shocking him with
+electrodes);
+
+*  "Method of Exercising a Cat," U.S. Pat. No.  5,443,036, Aug. 22, 1995
+(shining a laser light onto the floor to fascinate a cat and cause it
+to chase the light);
+
+*  "Pat on the Back Apparatus," U.S. Pat. No.  4,608,967, Sep. 2, 1986
+(apparatus with simulated human hand to pat the user on the back);
+
+*  "Hyper-Light-Speed Antenna," U.S. Pat. No.  6,025,810, Feb. 15, 2000
+(poking hole in another "dimension" to transmit RF waves at
+faster-than-light speed, incidentally accelerating plant growth);
+
+*  "Force-Sensitive, Sound-Playing Condom," U.S.  Pat. No. 5,163,447,
+Nov. 17, 1992 (self-explanatory; for example, it could play "Dixie");
+
+*  "Method and System for Placing a Purchase Order via a Communications
+Network," U.S.  Pat. No. 5,960,411, Sep. 28, 1999 (Amazon.com's
+"one-click" method for purchasing an item on the world wide web by
+single mouse-click);
+
+*  "Financial Certificates, System and Process," U.S.  Pat. No.
+6,017,063, Jan. 25, 2000 (inflationindexed gift certificate or mutual
+fund share);
+
+*  "Method and System for Measuring Leadership Effectiveness," U.S. Pat.
+No. 6,007,340, Dec.  28, 1999 (assigned to Electronic Data Systems
+Corporation);
+
+*  "Sanitary Appliance for Birds," U.S. Pat. No.  2,882,858, April 21,
+1959 (bird diaper);
+
+*  "Religious Soap," U.S. Pat. No. 3,936,384, Feb.  3, 1976 (bar of soap
+with religious design on one side and prayer on the other); and
+
+*  "Method of Preserving the Dead," U.S. Pat. No.  748,284, Dec. 29, 1903
+   (preserving dead person's head in block of glass).
+
+[^95]: Diese und weitere Patente kann man auf folgende seiten einsehen
+    http://www.delphion.com, http://www.uspto.gov/patft/index.html, or
+    http://www.patentgopher.com. Siehe auch "Wacky Patent of the Month,"
+    http://colitz.com/site/wacky.htm; IBM, "Gallery of Obscure Patents,"
+    http://www.patents.ibm.com/gallery; und Greg Aharonian,
+    "Bustpatents," http://www.bustpatents.com.
+
+Das Urheberrecht hat zwar nicht zu solch eindeutig absurde Anwendungen
+geführt, ist jedoch durch Gerichte übermäßig ausgeweitet worden.
+Ursprünglich sollte es literarische Werke abdecken, ist aber nun auf
+solche "Werke" wie Computerprogramme ausgeweitet worden, und sogar auf
+Machinencode oder Objektcode, welches eher Analog zu einem Teil einer
+Machine wie eine Nocke zu sehen ist, als zu einem literarischen
+Werk.[^96]
+
+[^96]: 
+    *Final Report, National Commission on New Technological Uses
+    (CONTU) of Copyright Works*, July 31, 1978 (Washington, D.C.:
+    Library of Congress, 1979); *Apple Computer, Inc. v Franklin
+    Computer Corporation*, 714 F2d 1240 (3d Cir 1983); *NEC Corp. and
+    NEC Electronics, Inc. v Intel Corp*., 1989 Copr.L.Dec. ¶ 26,379,
+    1989 WL 67434 (ND Cal 1989).
+

@@ -1,0 +1,766 @@
+<!--
+% Ethiks and Economics of Private Property
+% 2004 Hans-Hermann Hoppe
+-->
+ 
+
+I. The Problem of Social Order
+------------------------------
+
+Alone on his island, Robinson Crusoe can do whatever he pleases. For
+him, the question concerning rules of orderly human conduct - social
+cooperation - simply does not arise. Naturally, this question can only
+arise once a second person, Friday, arrives on the island. Yet even
+then, the question remains largely irrelevant so long as no *scarcity*
+exists. Suppose the island is the Garden of Eden; all external goods are
+available in superabundance. They are "free goods," just as the air that
+we breathe is normally a "free" good. Whatever Crusoe does with these
+goods, his actions have repercussions *neither* with respect to his own
+future supply of such goods *nor* regarding the present or future supply
+of the same goods for Friday (and *vice versa*). Hence, it is impossible
+that there could ever be a conflict between Crusoe and Friday concerning
+the use of such goods. A conflict is only possible if goods are scarce.
+Only then will there arise the need to formulate rules that make orderly
+- conflict-free - social cooperation possible.
+
+In the Garden of Eden only two scarce goods exist: the physical body of
+a person and its standing room. Crusoe and Friday each have only one
+body and can stand only at one place at a time. Hence, even in the
+Garden of Eden conflicts between Crusoe and Friday can arise: Crusoe and
+Friday cannot occupy the same standing room simultaneously without
+coming thereby into physical conflict with each other.  Accordingly,
+even in the Garden of Eden rules of orderly social conduct must exist -
+rules regarding the proper location and movement of human bodies. And
+outside the Garden of Eden, in the realm of *scarcity*, there must be
+rules that regulate not only the use of personal bodies but also of
+*everything* scarce so that *all* possible conflicts can be ruled out.
+This is the problem of social order.
+
+
+II. The Solution: Private Property and Original Appropriation
+-------------------------------------------------------------
+
+In the history of social and political thought, various proposals have
+been advanced as a solution to the problem of social order, and this
+variety of mutually inconsistent proposals has contributed to the fact
+that today's search for a single "correct" solution is frequently deemed
+illusory. Yet as I will try to demonstrate, a correct solution exists;
+hence, there is no reason to succumb to moral relativism. The solution
+has been known for hundreds of years, if not for much longer.[^1] In
+modern times this old and simple solution was formulated most clearly
+and convincingly by Murray N. Rothbard.[^2]
+
+[^1]: See section V below.
+
+[^2]: See Murray N. Rothbard, *Man, Economy, and State* (Auburn, Al.:
+    Mises Institute, 1993 [1962]); idem, *Power and Market* (Kansas City:
+    Sheed Andrews & McMeel, 1977 [1970]); idem, *The Ethics of Liberty*
+    (New York: New York University Press, 1998 [1982]); idem,
+    *Egalitarianism as a Revolt against Nature and other Essays* (Auburn,
+    Al.: Mises Institute, 2000 [1974]); idem, *The Logic of Action*, 2
+    vols.  (Cheltenham, UK: Edward Elgar, 1997).
+
+Let me begin by formulating the solution - first for the special case
+represented by the Garden of Eden and subsequently for the general case
+represented by the "real" world of all-around scarcity - and then
+proceed to the explanation of why this solution, and no other, is
+correct.  In the Garden of Eden, the solution is provided by the simple
+rule stipulating that everyone may place or move his own body wherever
+he pleases, *provided only that no one else is **already** standing there
+and occupying the same space*. And outside of the Garden of Eden, in the
+realm of all-around scarcity the solution is provided by this rule:
+Everyone is the proper owner of his own physical body as well as of all
+places and nature-given goods that he occupies and puts to use by means
+of his body, *provided that no one else has **already** occupied or used the
+same places and goods before him*. This ownership of "originally
+appropriated" places and goods by a person implies his right to use and
+transform these places and goods in any way he sees fit, *provided that
+he does not thereby forcibly change the physical integrity of places and
+goods originally appropriated by another person*. In particular, once a
+place or good has been first appropriated, in John Locke's words, by
+"mixing one's labor" with it, ownership in such places and goods can be
+acquired only by means of a voluntary - contractual - transfer of its
+property title from a previous to a later owner.
+
+In light of wide-spread moral relativism, it is worth pointing out that
+this idea of original appropriation and private property as a solution
+to the problem of social order is in complete accordance with our moral
+"intuition." Is it not simply absurd to claim that a person should *not*
+be the proper owner of his body and the places and goods that he
+originally, i.e., *prior* to anyone else, appropriates, uses and/or
+produces by means of his body? For who else, if not he, should be their
+owner? And is it not also obvious that the overwhelming majority of
+people – including children and primitives – in fact act according to
+these rules, and do so as a matter of course?
+
+Moral intuition, as important as it is, is not proof. However, there
+also exists proof of the veracity of our moral intuition.
+
+The proof is two-fold. On the one hand, the consequences that follow if
+one were to deny the validity of the institution of original
+appropriation and private property are spelled out: If person *A* were
+*not* the owner of his own body and the places and goods originally
+appropriated and/or produced with this body as well as of the goods
+voluntarily (contractually) acquired from another previous owner, then
+only two alternatives would exist. Either *another* person, *B*, must be
+recognized as the owner of *A*'s body as well as the places and goods
+appropriated, produced or acquired by *A*, or *both* persons, *A* *and*
+*B*, must be considered equal co-owners of all bodies, places and
+goods.
+
+In the first case, *A* would be reduced to the rank of *B*'s slave and
+object of exploitation. *B* would be the owner of *A*'s body and all
+places and goods appropriated, produced and acquired by *A*, but *A* in
+turn would not be the owner of *B*'s body and the places and goods
+appropriated, produced and acquired by *B*. Hence, under this ruling two
+categorically distinct classes of persons would be constituted -
+*Untermenschen* such as *A* and *Uebermenschen* such as *B* - to whom
+different "laws" apply.  Accordingly, such ruling must be discarded as a
+human ethic equally applicable to everyone *qua* human being (rational
+animal). From the very outset, any such ruling is recognized as not
+universally acceptable and thus cannot claim to represent law. For a
+rule to aspire to the rank of a law - a *just* rule - it is necessary
+that such a rule apply equally and universally to everyone.
+
+Alternatively, in the second case of universal and equal co-ownership,
+the requirement of equal law for everyone would be fulfilled. However,
+this alternative would suffer from an even more severe deficiency,
+because if it were applied, all of mankind would instantly perish.
+(Since every human ethic must permit the survival of mankind, this
+alternative must also be rejected.) Every action of a person requires
+the use of some scarce means (at least of the person's body and its
+standing room), but if all goods were co-owned by everyone, then no one,
+at no time and no place, would be allowed to do anything unless he had
+previously secured every other co-owner's consent to do so. Yet how
+could anyone grant such consent were he not the exclusive owner of his
+own body (including his vocal chords) by which means his consent must be
+expressed? Indeed, he would first need another's consent in order to be
+allowed to express his own, but these others could not give their
+consent without having first his, and so it would go on.
+
+This insight into the praxeological impossibility of "universal
+communism," as Rothbard referred to this proposal, brings me immediately
+to an alternative way of demonstrating the idea of original
+appropriation and private property as the only correct solution to the
+problem of social order.[^3] Whether or not persons have any rights and, 
+if so, which ones, can only be decided in the course of argumentation
+(propositional exchange). Justification - proof, conjecture, refutation
+- is *argumentative* justification.  Anyone who denied this proposition
+would become involved in a performative contradiction because his denial
+would itself constitute an argument. Even an ethical relativist would
+have to accept this first proposition, which is referred to accordingly
+as the *apriori of argumentation*.
+
+[^3]: See also Hans-Hermann Hoppe, *A Theory of Socialism and
+    Capitalism* (Boston: Kluwer Academic Publishers, 1989); idem, *The
+    Economics and Ethics of Private Property* (Boston: Kluwer Academic
+    Publishers, 1993).
+
+From the undeniable acceptance - the axiomatic status - of this apriori
+of argumentation, two equally necessary conclusions follow. First, it
+follows from the apriori of argumentation when there is *no* rational
+solution to the problem of conflict arising from the existence of
+scarcity. Suppose in my earlier scenario of Crusoe and Friday that
+Friday were not the name of a man but of a gorilla. Obviously, just as
+Crusoe could face conflict regarding his body and its standing room with
+Friday the man, so might he with Friday the gorilla. The gorilla might
+want to occupy the same space that Crusoe already occupied. In this
+case, at least if the gorilla were the sort of entity that we know
+gorillas to be, there would be no rational solution to their conflict.
+Either the gorilla would push aside, crush, or devour Crusoe - that
+would be the gorilla's solution to the problem - or Crusoe would tame,
+chase, beat, or kill the gorilla - that would be Crusoe's solution. In
+this situation, one might indeed speak of moral relativism. However, it
+would be more appropriate to refer to this situation as one in which the
+question of justice and rationality simply would not arise; that is, it
+would be considered an extra-moral situation. The existence of Friday
+the gorilla would pose a technical, not a moral, problem for Crusoe. He
+would have no other choice than to learn how to successfully manage and
+control the movements of the gorilla just as he would have to learn to
+manage and control other inanimate objects of his environment.
+
+By implication, only if both parties in a conflict are capable of
+engaging in argumentation with one another, can one speak of a moral
+problem and is the question of whether or not there exists a solution to
+it a meaningful question. Only if Friday, regardless of his physical
+appearance, is capable of argumentation (even if he has shown himself to
+be capable only once), can he be deemed rational and does the question
+whether or not a correct solution to the problem of social order exists
+make sense. No one can be expected to give *any* answer to someone who has
+never raised a question or, more to the point, who has never stated his
+own relativistic viewpoint in the form of an argument. In that case,
+this "other" cannot but be regarded and treated as an animal or plant,
+i.e., as an extra-moral entity. Only if this other entity can pause in
+his activity, whatever it might be, step back, and say "yes" or "no" to
+something one has said, do we owe this entity an answer and,
+accordingly, can we possibly claim that our answer is the correct one
+for both parties involved in a conflict.
+
+Moreover, it follows from the apriori of argumentation that everything
+that must be presupposed in the course of an argumentation as the
+logical and praxeological precondition of argumentation cannot in turn
+be argumentatively disputed as regards its validity without becoming
+thereby entangled in an internal (performative) contradiction.
+
+Now, propositional exchanges are not made up of free-floating
+propositions, but rather constitute a specific human activity.
+Argumentation between Crusoe and Friday requires that both have, and
+mutually recognize each other as having, exclusive control over their
+respective bodies (their brain, vocal chords, etc.) as well as the
+standing room occupied by their bodies. No one could propose anything
+and expect the other party to convince himself of the validity of this
+proposition or deny it and propose something else unless his and his
+opponent's right to exclusive control over their respective bodies and
+standing rooms were presupposed. In fact, it is precisely this mutual
+recognition of the proponent's as well as the opponent's property in his
+own body and standing room which constitutes the *characteristicum
+specificum* of all propositional disputes: that while one may not agree
+regarding the validity of a specific proposition, one can agree
+nonetheless on the fact that one disagrees. Moreover, this right to
+property in one's own body and its standing room must be considered
+*apriori* (or indisputably) justified by proponent and opponent alike.
+Anyone who claimed any proposition as valid vis-à-vis an opponent would
+already presuppose his and his opponent's exclusive control over their
+respective body and standing room simply in order to say "I claim such
+and such to be true, and I challenge you to prove me wrong."
+
+Furthermore, it would be equally impossible to engage in argumentation
+and rely on the propositional force of one's arguments if one were not
+allowed to own (exclusively control) other scarce means (besides one's
+body and its standing room). If one did not have such a right, then we
+would all immediately perish and the problem of justifying rules - as
+well as any other human problem - would simply not exist. Hence, by
+virtue of the fact of being alive property rights to other things must
+be presupposed as valid, too. No one who is alive can possibly argue
+otherwise.
+
+Furthermore, if a person were not permitted to acquire property in these
+goods and spaces by means of an act of original appropriation, i.e., by
+establishing an objective (intersubjectively ascertainable) link between
+himself and a particular good and/or space prior to anyone else, and if
+instead property in such goods or spaces were granted to late- comers,
+then no one would ever be permitted to begin using any good unless he
+had previously secured such a late-comer's consent. Yet how can a
+late-comer consent to the actions of an early-comer? Moreover, every
+late-comer would in turn need the consent of other and later
+later-comers, and so on. That is, neither we, our forefathers, nor our
+progeny would have been or would be able to survive if one followed this
+rule. However, in order for any person - past, present or future - to
+argue anything, survival must be possible; and in order to do just this
+property rights cannot be conceived of as being timeless and unspecific
+with respect to the number of persons concerned. Rather, property rights
+must necessarily be conceived of as originating by means of action at
+definite points in time and space by definite individuals. Otherwise, it
+would be impossible for anyone to ever say anything at a definite point
+in time and space and for someone else to be able to reply. Simply
+saying, then, that the first-user-first-owner rule of the ethics of
+private property can be ignored or is unjustified implies a performative
+contradiction, as one's being able to say so must presuppose one's
+existence as an independent decision-making unit at a given point in
+time and space.[^4]
+
+[^4]: Note the "natural law" character of the proposed solution to the
+    problem of social order - that private property and its acquisition
+    through acts of original appropriation are not mere conventions but
+    necessary institutions (in accordance with man's nature as a
+    rational animal). A convention serves a *purpose*, and an
+    *alternative* to a convention exists. For instance, the Latin
+    alphabet serves the purpose of written communication. It has an
+    alternative, the Cyrillic alphabet.  Hence, we call it a convention.
+    What is the purpose of norms? The avoidance of conflict regarding
+    the use of scarce physical things.  Conflict- generating norms
+    contradict the very purpose of norms. Yet with regard to the purpose
+    of conflict avoidance, no alternative to private property and
+    original appropriation exists. In the absence of prestabilized
+    harmony among actors, conflict can only be prevented if all goods
+    are always in the private ownership of specific individuals and it
+    is always clear who owns what and who does not. Also, conflicts can
+    only be avoided from the very beginning of mankind if private
+    property is acquired by acts of original appropriation (instead of
+    by mere declarations or words of late-comers).  
+
+III. Misconceptions and Clarifications
+--------------------------------------
+
+According to this understanding of private property, property ownership
+means the exclusive control of a particular person over specific
+*physical* objects and spaces.  Conversely, property rights invasion means
+the uninvited *physical* damage or diminution of things and territories
+owned by other persons. In contrast, a widely held view holds that the
+damage or diminution of the *value* (or price) of someone's property also
+constitutes a punishable offense.
+
+As far as the (in)compatibility of both positions is concerned, it is
+easy to recognize that nearly every action of an individual can alter
+the *value* (price) of someone else's property. For example, when person A
+enters the labor or the marriage market, this may change the value of B
+in these markets. And when A changes his relative valuations of beer and
+bread, or if A himself decides to become a brewer or baker, this changes
+the value of the property of other brewers and bakers. According to the
+view that *value* damage constitutes a rights violation, A would be
+committing a punishable offense vis-à- vis brewers or bakers. If A is
+*guilty*, then B and the brewers and bakers must have the right to
+*defend* themselves against A's actions, and their defensive actions can
+only consist of physical invasions of A and his property. B must be
+permitted to physically prohibit A from entering the labor or marriage
+market; the brewers and bakers must be permitted to physically prevent A
+from spending his money as he sees fit. However, in this case the
+physical damage or diminution of the property of others cannot be viewed
+as a punishable offense. Since physical invasion and diminution are
+defensive actions, they are legitimate. Conversely, if physical damage
+and diminution constitute a rights violation, then B or the brewers and
+bakers do not have the right to defend themselves against A's actions,
+for his actions - his entering of the labor and marriage market, his
+altered evaluation of beer and bread, or his opening of a brewery or
+bakery - do not affect B's bodily integrity or the physical integrity of
+the property of brewers or bakers. If they physically defend themselves
+nonetheless, then the right to defense would lie with A. In that case,
+however, it can not be regarded as a punishable offense if one alters
+the value of other people's property. A third possibility does not
+exist.
+
+Both ideas of property rights are not only incompatible, however. The
+alternative view - that one could be the owner of the value or price of
+scarce goods - is indefensible.  While a person has control over whether
+or not his actions will change the *physical* properties of another's
+property, he has no control over whether or not his actions affect the
+*value* (or price) of another's property. This is determined by *other*
+individuals and their evaluations. Consequently, it would be impossible
+to know in advance whether or not one's planned actions were legitimate.
+The entire population would have to be interrogated to assure that one's
+actions would not damage the value of someone else's property, and one
+could not begin to act until a universal consensus had been reached.
+Mankind would die out long before this assumption could ever be
+fulfilled.
+
+Moreover, the assertion that one has a property right in the value of
+things involves a contradiction, for in order to claim this proposition
+to be valid - universally agreeable - it would have to be assumed that
+it is permissible to act *before* agreement is reached. Otherwise, it
+would be impossible to ever propose anything. However, if one is
+permitted to assert a proposition - and no one could deny this without
+running into contradictions - then this is only possible because
+*physical* property borders exist, i.e., borders which everyone can
+recognize and ascertain independently and in complete ignorance of
+others' subjective valuations.[^5]
+
+[^5]: While *no one* could act if *everyone* owned the value of his
+    property, it *is* practically possible that *one* person or group,
+    A, owns the value of his property and can determine what *another*
+    person or group, B, may or may not do with the things under their
+    control. This, however, means that B "owns" *neither* the value
+    *nor* the physical integrity of the things under his control; that
+    is, B and his property are actually owned by A. This rule can be 
+    implemented, but it does not qualify as a human ethic. Instead, it
+    is a two- class system of exploiting Uebermensch and exploited
+    Untermensch.
+
+Another, equally common misunderstanding of the idea of private property
+concerns the classification of actions as permissible or impermissible
+based *exclusively* on their physical effects, i.e., without taking into
+account that every property right has a *history* (temporal genesis).
+
+If A currently physically damages the property of B (for example by air
+pollution or noise), the situation must be judged differently depending
+on whose property right was established *earlier*. If A's property was
+founded first, and if he had performed the questionable activities
+before the neighboring property of B was founded, then A may continue
+with his activities. A has established an easement. From the outset, B
+had acquired dirty or loud property, and if B wants to have his property
+clean and quiet he must pay A for this advantage. Conversely, if B's
+property was founded first, then A must stop his activities; and if he
+does not want to do this, he must pay B for this advantage.  Any other
+ruling is impossible and indefensible because as long as a person is
+alive and awake, he cannot *not* act. An early-comer cannot, even if he
+wished otherwise, wait for a late-comer and his agreement before he
+begins acting. He must be permitted to act immediately. And if no other
+property besides one's own exists (because a late-comer has not yet
+arrived), then one's range of action can be deemed limited only by laws
+of nature.  A late-comer can only challenge the legitimacy of an
+early-comer if *he* is the owner of the goods affected by the
+early-comer's actions. However, this implies that one can be the owner
+of un-appropriated things; i.e., that one can be the owner of things one
+has not yet discovered or appropriated through physical action. This
+means that no one is permitted become the first user of a previously
+undiscovered and unappropriated physical entity.
+
+IV. The Economics of Private Property
+-------------------------------------
+
+The idea of private property not only agrees with our moral intuitions
+and is the sole just solution to the problem of social order; the
+institution of private property is also the basis of economic prosperity
+and of "social welfare." As long as people act in accordance with the
+rules underlying the institution of private property, social welfare is
+optimized.
+
+Every act of original appropriation improves the welfare of the
+appropriator (at least ex ante); otherwise, it would not be performed.
+At the same time, no one is made worse off by this act. Any other
+individual could have appropriated the same goods and territories if
+only he had recognized them as scarce, and hence, valuable. However,
+since no other individual made such an appropriation, no one else can
+have suffered a welfare loss on account of the original appropriation.
+Hence, the so-called Pareto-criterion (that it is scientifically
+legitimate to speak of an improvement of "social welfare" only if a
+particular change increases the individual welfare of at least one
+person and leaves no one else worse off) is fulfilled. An act of
+original appropriation meets this requirement. It enhances the welfare
+of one person, the appropriator, without diminishing anyone else's
+physical wealth (property). Everyone else has the same quantity of
+property as before and the appropriator has gained new, previously
+non-existent property. In so far, an act of original appropriation
+always increases social welfare.
+
+Any further action with originally appropriated goods and territories
+enhances social welfare, for no matter what a person does with his
+property, it is done to increase his welfare. This is the case when he
+consumes his property as well as when he produces new property out of
+"nature." Every act of production is motivated by the producer's desire
+to transform a less valuable entity into a more valuable one. As long as
+acts of consumption and production do not lead to the physical damage or
+diminution of property owned by others, they are regarded as enhancing
+social welfare.
+
+Finally, every voluntary exchange (transfer) of appropriated or produced
+property from one owner to another increases social welfare. An exchange
+of property is only possible if both owners prefer what they acquire
+over what they surrender and thus expect to benefit from the exchange.
+Two persons gain in welfare from every exchange of property, and the
+property under the control of everyone else is unchanged.
+
+In distinct contrast, any deviation from the institution of private
+property must lead to social welfare losses.
+
+In the case of universal and equal co-ownership - universal communism
+instead of private property - the price to be paid would be mankind's
+instant death because universal co-ownership would mean that no one
+would be allowed to do anything or move anywhere. Each actual deviation
+from a private property order would represent a system of unequal
+domination and hegemony. That is, it would be an order in which *one*
+person or group - the rulers, exploiters or Uebermenschen - would be
+permitted to acquire property *other than* by original appropriation,
+production or exchange, while another person or group - the ruled,
+exploited or Untermenschen - would be prohibited from doing likewise.
+While hegemony is possible, it would involve social welfare losses and
+would lead to relative impoverishment.
+
+If A is permitted to acquire a good or territory which B has
+appropriated as indicated by visible signs, the welfare of A is
+increased at the expense of a corresponding welfare loss on the part of
+B. The Pareto criterion is not fulfilled, and social welfare is
+sub-optimal. The same is true with other forms of hegemonic rule. If A
+prohibits B from originally appropriating a hitherto unowned piece of
+nature; if A may acquire goods produced by B without B's consent; if A
+may proscribe what B is permitted to do with his appropriated or
+produced goods (apart from the requirement that one is not permitted to
+physically damage or diminish others' property) - in each case there is
+a "winner," A, and a "loser," B. In every case, A increases his supply
+of property at the expense of B's corresponding loss of property. In no
+case is the Pareto criterion fulfilled, and a sub-optimal level of
+social welfare always results.
+
+Moreover, hegemony and exploitation lead to a reduced level of future
+production. Every ruling which grants non-appropriators, non-producers
+and non-traders control, either partial or full, over appropriated,
+produced or traded goods, leads necessarily to a reduction of future
+acts of original appropriation, production and mutually beneficial
+trade. For the person performing them, each of these activities is
+associated with certain costs, and the costs of performing them
+increases under a hegemonic system and those of not performing them
+decreases. Present consumption and leisure become more attractive as
+compared to production (future consumption), and the level of production
+will fall below what it otherwise would have been. As for the rulers,
+the fact that they can increase their wealth by expropriating property
+appropriated, produced or contractually acquired by others will lead to
+a wasteful usage of the property at its disposal. Because they are
+permitted to supplement their future wealth by means of expropriation
+(taxes), present-orientation and consumption (high time preference) is
+encouraged, and insofar as they use their goods "productively" at all,
+the likelihood of misallocations, miscalculation, and economic loss is
+systematically increased.
+
+V. The Classic Pedigree
+-----------------------
+
+As noted at the outset, the ethics and economics of private property
+presented above does not claim originality. Rather, it is a modern
+expression of a "classic" tradition, going back to beginnings in
+Aristotle, Roman law, Aquinas, the late Spanish Scholastics, Grotius and
+Locke.[^6]
+
+[^6]: For details see Murray N. Rothbard, *Economic Thought Before Adam
+    Smith. An Austrian Perspective on the History of Economic Thought,
+    Volume I* (Aldershot, UK: Edward Elgar, 1995); also Tom Bethell,
+    *The Noblest Triumph. Property and Prosperity Through the Ages* (New
+    York: St.  Martin's Press, 1998).
+
+In contrast to the communist utopia of Plato's *Republic*, Aristotle
+provides a comprehensive list of the comparative advantages of private
+property in *Politics*. First, private property is more productive. "What
+is common to the greatest number gets the least amount of care. Men pay
+most attention to what is their own; they care less for what is common;
+or at any rate they care for it only to the extent to which each is
+individually concerned. Even when there is no other cause for
+inattention, men are more prone to neglect their duty when they think
+that another is attending to it."[^7]
+
+[^7]: Aristotle, *Politics* (Oxford: Clarendon Press, 1946), 1261b.
+
+Secondly, private property prevents conflict and promotes peace. When
+people have their own separate domains of interest, "there will not be
+the same grounds for quarrels, and the amount of interest will increase,
+because each man will feel that he is applying himself to what is
+his."[^8] "Indeed, it is a fact of observation that those who own common
+property, and share in its management, are far more often at variance
+with one another than those who have property in severalty."[^9]
+Further, private property has existed always and everywhere, whereas
+nowhere have communist utopias sprung up spontaneously. Finally, private
+property promotes the virtues of benevolence and generosity. It allows
+one to be so with friends in need.
+
+[^8]: Ibid, 1263a.
+
+[^9]: Ibid, 1263b.
+
+Roman law, from the *Twelve Tables* to the *Theodosian Code* and the
+*Justinian Corpus*, recognized the right of private property as near
+absolute. Property stemmed from unchallenged possession, prior usage
+established easements, a property owner could do with his property as he
+saw fit, and freedom of contract was acknowledged. As well, Roman law
+distinguished importantly between 'national' (Roman) law - *ius civile* -
+and 'international' law - *ius gentium*.
+
+The Christian contribution to this classic tradition - embodied in St
+Thomas Aquinas and the late Spanish Scholastics as well as Protestants
+Hugo Grotius and John Locke - is twofold. Both Greece and Rome were
+slave-holding civilizations. Aristotle, characteristically, considered
+slavery a natural institution. In contrast, Western - Christian -
+civilization, not withstanding some exceptions, has been essentially a
+society of free men. Correspondingly, for Aquinas as for Locke, every
+person had a proprietary right over himself (self-ownership). Moreover,
+Aristotle, and classic civilization generally, were disdainful of labor,
+trade, and money-making. In contrast, in accordance with the Old
+Testament, the Church extolled the virtues of labor and work.
+Correspondingly, for Aquinas as for Locke, it was by work, use, and
+cultivation of previously unused land that property first came into
+existence.
+
+This classic theory of private property, based on self-ownership,
+original appropriation (homesteading), and contract (title transfer),
+continued to find prominent proponents, such as J. B. Say. However, from
+the height of its influence in the eighteenth century until quite
+recently, with the advance of the Rothbardian movement, the classic
+theory had slipped into oblivion.
+
+For two centuries, economics and ethics (political philosophy) had
+diverged from their common origin in natural law doctrine into seemingly
+unrelated intellectual endeavors. Economics was a value-free "positive"
+science. It asked "what means are appropriate to bring about a given
+(assumed) end?" Ethics was a "normative" science (if it was a science at
+all). It asked "what ends (and what use of means) is one justified to
+choose?" As a result of this separation, the concept of property
+increasingly disappeared from both disciplines. For economists, property
+sounded too normative; for political philosophers property smacked of
+mundane economics.
+
+In contrast, Rothbard noted, such elementary economic terms as direct
+and indirect exchange, markets and market prices as well as aggression,
+crime, tort, and fraud cannot be defined or understood without a theory
+of property. Nor is it possible to establish the familiar economic
+theorems relating to these phenomena without the implied notion of
+property and property rights. A definition and theory of property must
+precede the definition and establishment of all other economic terms and
+theorems.
+
+Rothbard's unique contribution, from the early 1960s until his death in
+1995, was the rediscovery of property and property rights as the common
+foundation of both economics and political philosophy, and the
+systematic reconstruction and conceptual integration of modern,
+marginalist economics and natural-law political philosophy into a
+unified moral science: libertarianism.
+
+V. Chicago Diversions
+---------------------
+
+At the time when Rothbard was restoring the concept of private property
+to its central position in economics and reintegrating economics with
+ethics, other economists and legal theorists associated with the
+University of Chicago such as Ronald Coase, Harold Demsetz, and Richard
+Posner were also beginning to redirect professional attention to the
+subject of property and property rights.[^10]
+
+[^10]: See Ronald Coase, *The Firm, The Market, and the Law* (Chicago,
+    University of Chicago Press, 1988); Harold Demsetz, *Ownership, 
+    Control, and the Firm* (Oxford: Basil Blackwell, 1988); Richard 
+    Posner, *The Economics of Justice* (Cambridge: Harvard University
+    Press, 1981).
+
+However, whereas for Rothbard private property and ethics logically
+precede economics, for the latter private property and ethics are
+subordinate to economics and economic considerations. According to
+Posner, whatever increases social wealth is just.[^11]
+
+[^11]: Posner, *The Economics of Justice*, p. 74: "an act of injustice
+    (is defined) as an act that reduces the wealth of society."
+
+The difference between the two approaches can be illustrated considering
+one of Coase's problem cases: A railroad runs beside a farm. The engine
+emits sparks, damaging the farmer's crop. What is to be done?
+
+From the classic viewpoint, what needs to be established is who was
+there first, the farmer or the railroad? If the farmer was there first,
+he could force the railroad to cease and desist or demand compensation.
+If the railroad was there first, then it might continue emitting sparks
+and the farmer would have to pay the railroad to be spark free.
+
+From the Coasean point of view, the answer is twofold. First and
+"positively" Coase claims that it does not matter *how* property rights
+and liability *are* allocated as long as they are allocated and provided
+(unrealistically) that transaction costs are zero.
+
+Coase claims it is wrong to think of the farmer and the railroad as
+either "right" or "wrong" (liable), as "aggressor" or "victim." "The
+question is commonly thought of as one in which A inflicts harm on B and
+what has to be decided is, How should we restrain A? But this is wrong.
+We are dealing with a problem of a reciprocal nature. To avoid the harm
+to B would be to inflict harm on A. The real question that has to be
+decided is, Should A be allowed to harm B or should B be allowed to harm
+A? The problem is to avoid the more serious harm."[^12]
+
+[^12]: Ronald Coase, "The Problem of Social Cost," in: idem, *The Firm,
+    the Market, and the Law*, p. 96.  The moral perversity of this claim
+    is best illustrated by applying it to the case of A raping B.
+    According to Coase, A is not supposed to be restrained.. Rather, "we
+    are dealing with a problem of a reciprocal nature." In preventing A
+    from raping B, harm is inflicted on A because he can no longer rape
+    freely. The real question is: Should A be allowed to rape B, or
+    should B be allowed to prohibit A from raping him/her? "The problem
+    is to avoid the more serious harm."
+
+Further, given the "equal" moral standing of A and B, for the allocation
+of economic resources it allegedly does not matter to whom property
+rights are initially assigned. Suppose the crop loss to the farmer, A,
+is $1000, and the cost of a spark apprehension device (SAD) to the
+railroad, B, is $750. If B is found liable for the crop damage, B will
+install an SAD or cease operations. If B is found not liable, then A
+will pay a sum between $750 and $1000 for B to install an SAD. Both
+possibilities result in the installation of an SAD. Now assume the
+numbers are reversed: the crop loss is $750, and the cost of an SAD is
+$1000. If B is found liable, he will pay A $750, but he will not install
+an SAD. And if B is found not liable, A is unable to pay B enough to
+install a SAD. Again, both scenarios end with the same result: there
+will be *no* SAD. Therefore, regardless of how property rights are
+initially assigned, according to Coase, Demsetz and Posner the
+allocation of production factors will be the same.
+
+Second and "normatively" - and for the only *realistic* case of
+*positive* transaction costs - Coase, Demsetz and Posner demand that
+courts assign property rights to contesting parties in such a way that
+"wealth" or the "value of production" is maximized.  For the case just
+considered this means that if the cost of the SAD is less than the crop
+loss, then the court should side with the farmer and hold the railroad
+liable.  Otherwise, if the cost of the SAD is higher than the loss in
+crops, then the court should side with the railroad and hold the farmer
+liable.  Posner offers another example. A factory emits smoke and
+thereby lowers residential property values. If property values are
+lowered by $ 3 million and the plant relocation cost is $2 million, the
+plant should be held liable and forced to relocate. Yet if the numbers
+are reversed - property values fall by $2 million and relocation costs
+are $3 million - the factory may stay and continue to emit smoke.
+
+Both the positive and the normative claim of Chicago law and economics
+must be rejected.[^13] As for the claim that it does not matter to whom
+property rights are initially assigned, three responses are in order.
+First, as Coase cannot help but admit, it certainly matters to the
+farmer and the railroad to whom which rights are assigned. It matters
+not just how resources are allocated but also who owns them.
+
+[^13]: See also Walter Block, "Coase and Demsetz on Private Property
+    Rights," *Journal of Libertarian Studies*, Vol.1, no. 2, 1977; idem,
+    "Ethics, Efficiency, Coasian Property Rights, and Psychic Income: A
+    Reply to Harold Demsetz," *Review of Austrian Economics*, Vol. 8,
+    no.  2, 1995; idem, "Private Property Rights, Erroneous
+    Interpretations, Morality and Economics," Quarterly Journal of
+    Austrian Economics, Vol.  3, no. 1, 2000; Gary North, *The Coase
+    Theorem: A Study in Epistemology* (Tyler, Texas: Institute for
+    Christian Economics, 1992); idem, "Undermining Property Rights:
+    Coase and Becker," *Journal of Libertarian Studies*, Vol. 16, no. 4
+    (forthcoming).
+
+Second and more importantly, for the value of social production it
+matters fundamentally how property rights are assigned. The resources
+allocated to productive ventures are not simply given. They themselves
+are the outcome of previous acts of original appropriation and
+production, and how much original appropriation and production there is
+depends on the incentive for appropriators and producers. If
+appropriators and producers are the absolute owners of what they have
+appropriated or produced, i.e., if no liability vis-à-vis second- or
+third-comers arises out of acts of appropriation and production, then
+the level of wealth will be maximized. On the other hand, if original
+appropriators and producers can be found liable vis-à-vis late comers,
+as is implied in Coase's "reciprocity of harm" doctrine, then the value
+of production will be lower than otherwise. That is, the "it doesn't
+matter" doctrine is counterproductive to the stated goal of wealth
+maximization.
+
+Third, Coase's claim that the use of resources will be unaffected by the
+initial allocation of property rights is not generally true. Indeed, it
+is easy to produce counterexamples. Suppose the farmer does not lose
+$1000 in crops because of the railroad's sparks, but he loses a flower
+garden worth $1000 to him but worthless to anyone else. If the court
+assigns liability to the railroad, the $750 SAD will be installed.  If
+the court does not assign liability to the railroad, the SAD will *not*
+be installed because the farmer simply does not possess the funds to
+bribe the railroad to install an SAD. The allocation of resources is
+*different* depending on the initial assignment of property rights.
+
+Similarly, contra the normative claim of Chicago law and economics that
+courts should assign property rights so as to maximize social wealth,
+three responses are in order. First, any interpersonal comparison of
+utility is scientifically impossible, yet courts must engage in such
+comparisons willy-nilly whenever they engage in cost-benefit analyses.
+Such cost-benefit analyses are as arbitrary as the assumptions on which
+they rest. For example, they assume that psychic costs can be ignored
+and that the marginal utility of money is constant and the same for
+everyone.
+
+Second, as the numerical examples given above show, courts assign
+property rights differently depending on changing market data. If the
+SAD is less expensive than the crop damage, the farmer is found in the
+right, while if the SAD is more expensive than the damage, the railroad
+is found in the right. That is, different circumstances will lead to a
+re-distribution of property titles. No one can ever be sure of his
+property.[^14] Legal uncertainty is made permanent. This seems neither
+just nor economical; moreover, who in his right mind would ever turn to
+a court that announced that it may re-allocate existing property titles
+in the course of time depending on changing market conditions?
+
+[^14]: Posner, *The Economics of Justice*, p. 70-71, admits this with
+    captivating frankness: "Absolute rights play an important role in
+    the economic theory of the law. ... But when transaction costs are
+    prohibitive, the recognition of absolute rights is inefficient.
+    ...property rights, although absolute, (are) contingent on
+    transaction costs and subservient or instrumental to the goal of
+    wealth maximization."
+
+Finally, an ethic must not only have permanency and stability with
+changing circumstances; an ethic must allow one to make a decision about
+"just or unjust" *prior* to one's actions, and it must concern something
+under an actor's control. Such is the case for the classic private
+property ethic with its first-use-first-own principle. According to this
+ethic, to act justly means that a person employs only justly acquired
+means - means originally appropriated, produced, or contractually
+acquired from a previous owner - and that he employs them so that no
+physical damage to others' property results. Every person can determine
+*ex ante* whether or not this condition is met, and he has control over
+whether or not his actions physically damage the property of others. In
+distinct contrast, the wealth maximization ethic fails in both regards.
+No one can determine *ex ante* whether or not his actions will lead to
+social wealth maximization. If this can be determined at all, it can
+only be determined *ex post*. Nor does anyone have control over whether
+or not his actions maximize social wealth. Whether or not they do
+depends on *others*' actions and evaluations. Again, who in his right mind
+would subject himself to the judgment of a court that did not let him
+know in advance how to act justly and how to avoid acting unjustly but
+that would judge *ex post*, after the facts?
