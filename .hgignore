@@ -3,4 +3,5 @@ web/*
 contrib
 *.pdf
 *.html
+*.swp
 *~

@@ -1,11 +1,6 @@
-<!--
-% Gegen Geistiges Eigentum
-% 2001 Stephan Kinsella
--->
+# Gegen Geistiges Eigentum
 
-
-Eigentumsrechte: Materiell und Immateriell
-==========================================
+## Eigentumsrechte: Materiell und Immateriell
 
 Alle Anhänger des Libertarismus sind Befürworter von Eigentumsrechte
 und sind sich einig, dass diese Rechte zumindest für greifbare Objekte
@@ -93,12 +88,10 @@ libertären Ansichten und stelle ihnen die, meiner Ansicht nach, richtige
 Auffassung vor.
 
 
-Gesetze zum Geistigen Eigentum
-==============================
+## Gesetze zum Geistigen Eigentum
 
 
-Die Arten von Geistigem Eigentum
---------------------------------
+### Die Arten von Geistigem Eigentum
 
 Das Konzept des geistigen Eigentums umfasst mehrere gesetzlich geregelte
 Rechte, die sich auf intellektuelle Schöpfungen beziehen oder auf eine
@@ -157,8 +150,7 @@ sowie Geschäftsgeheimnisse.[^8]
     Anhang und der Bibliographie zu finden.
 
 
-Urheberrecht
-------------
+### Urheberrecht
 
 Das Urheberrecht wird den Authoren von "originären Werken" wie
 beispielsweise Bücher, Artikel, Filme oder Quellcode gewährt. Mit
@@ -189,8 +181,7 @@ Arbeitgeber das Urheberrecht besitzt.[^11]
     Licensing Act of 1998*.
 
 
-Patent
-------
+### Patent
 
 Ein Patent ist ein Eigentumsrecht an eine Erfindung, also an ein Gerät
 oder Prozess, dass eine "nützliche" Funktion erfüllt.[^11] Eine
@@ -240,8 +231,7 @@ Jahren nach der Gewährung des Patents).
 [^15]: 35 USC § 154(a)(2).
 
 
-Geschäftsgeheimnis
-------------------
+### Geschäftsgeheimnis
 
 Geschäftsgeheimnisse sind Rezepte, Geräte oder Informationen, die
 ein Vorteil gegenüber der Konkurrenz darstellen, zumindest
@@ -282,8 +272,7 @@ den Prozess ein Patent bekommen kann und den ursprünglichen Erfinder
 (träger des Geschäftsgeheimnisses) daran hindern kann es zu nutzen.
 
 
-Markenzeichen
--------------
+### Markenzeichen
 
 Bei einem Markenzeichen handelt es sich um ein Wort, Ausdruck, Symbol
 oder Design, dass benutzt wird um die Waren und Dienstleistungen eines
@@ -390,8 +379,7 @@ gewähren.[^29]
     über sein selbst herbeigeführtes Schicksal fehl am Platz.
 
 
-Das Verhältnis vom Geistigen zum Greifbaren Eigentum
-----------------------------------------------------
+### Das Verhältnis vom Geistigen zum Greifbaren Eigentum
 
 Wie zuvor erwähnt können wir geistiges Eigentum, zumindest was Patente
 und das Urheberrecht anbelangt, als Rechte an ideelle Objekte
@@ -425,12 +413,10 @@ unweigerlich dazu, dass das Eigentum von seinem natürlichen Besitzer an
 Erfinder, Entwickler und Künstler übertragen wird.
 
 
-Geistiges Eigentum im Libertarismus
-===================================
+## Geistiges Eigentum im Libertarismus
 
 
-Das Spektrum
-------------
+### Das Spektrum
 
 Im Libertarismus reichen die Sichten über g.E. von gänzlicher
 Unterstützung in jeder vorstellbaren Form, bis hin zu gänzlicher
@@ -621,8 +607,7 @@ weiteren.
     (Chicago: Henry Regnery, 1966), chap. 23, section 6, pp. 661–62.
 
 
-Die Utilitaristische Verteidigung
----------------------------------
+### Die Utilitaristische Verteidigung
 
 Die Rechtfertigung vieler Befürworter für geistiges Eigentum beruht auf
 einer utilitaristischen Grundlage. Utilitaristen behaupten das "Ziel"
@@ -786,8 +771,7 @@ gegen das ansonsten legitime Eigentum anderer. Aus diesen Gründen ist
 die utilitaristische Verteidigung vom g.E. nicht überzeugend.
 
 
-Die Naturrechtliche Verteidigung
---------------------------------
+### Die Naturrechtliche Verteidigung
 
 Andere libertäre Befürworter vom geistigen Eigentum argumentieren, dass
 bestimmte Ideen als Eigentum geschützt werden müssen, da sie
@@ -999,11 +983,9 @@ Ein tieferes Problem für die naturrechtliche Position liegt in ihrer
 rechtfertigende Grundlage, worauf wir im weiteren eingehen.
 
 
-Geistiges Eigentum und Eigentumsrechte
-======================================
+## Geistiges Eigentum und Eigentumsrechte
 
-Eigentum und Knappheit
-----------------------
+### Eigentum und Knappheit
 
 Lasst uns einen Schritt zurücktreten und einen frischen Blick auf das
 Eigentumsrecht werfen. Libertäre glauben an Eigentumsrechte für
@@ -1145,8 +1127,7 @@ darüber hinaus, nicht nach den Regeln der originären Aneignung zugewiesen
 werden können, was wir im weiteren sehen werden.
 
 
-Knappheit und Ideen
--------------------
+### Knappheit und Ideen
 
 Wie der durch Zauber reproduzierbare Rasenmäher, sind Ideen nicht knapp.
 Wenn ich eine Technik erfinde um Baumwolle zu ernten, könnte ein Anderer
@@ -1337,8 +1318,7 @@ ausreichen. Im weiteren untersuchen wir die Probleme mit der
 naturrechtlichen Verteidigung.
 
 
-Erschaffung kontra Knappheit
-----------------------------
+### Erschaffung kontra Knappheit
 
 Auf einige Widersprüche und Probleme mit den naturrechtlichen Theorien
 des geistigen Eigentums haben wir oben hingewiesen. Dieser Abschnitt
@@ -1666,8 +1646,7 @@ ein physischer Konflikt entstehen könnte, sind sie nicht Gegenstand vom
 Eigentumsrecht, welches nur für solche Konflikte erdacht wurde.
 
 
-Zwei Arten der Originären Aneignung
------------------------------------
+### Zwei Arten der Originären Aneignung
 
 Was ist jedoch so schlimm daran "neue" Eigentumsrechte anzuerkennen?
 Neue Ideen, künstlerische Schöpfungen und Erfindungen sind für uns
@@ -1754,11 +1733,9 @@ der Tatsache, dass die Befürworter von g.E. Gegner des uneingeschränkten
 Rechts sind sich Privateigentum originären Anzueignen.
 
 
-G.E. als Vertrag
-================
+## G.E. als Vertrag
 
-Die Grenzen von Verträge
-------------------------
+### Die Grenzen von Verträge
 
 Das Gesetz sollte also die Rechte von Individuen an ihre Körper und an
 legitim angeeignete knappe Ressourcen (Eigentum) schützen. Es gibt kein
@@ -1858,8 +1835,7 @@ verlegen, es sein denn eine andere vertragliche Vereinbarung hindert sie
 daran.
 
 
-Vertrag kontra Vorbehaltene Rechte
-----------------------------------
+### Vertrag kontra Vorbehaltene Rechte
 
 Dritte die keine Parteien in einem Vertrag sind oder an eines der
 Parteien vertraglich gebunden sind, müssen dem Vertrag dementsprechend
@@ -2165,8 +2141,7 @@ Angesichts dieser Sicht von Knappheit, Eigentum und Verträge, lasst uns
 untersuchen ob die üblichen Formen vom g.E. legitim sind.
 
 
-Urheberrecht und Patente
-------------------------
+### Urheberrecht und Patente
 
 Es sollte offensichtlich sein, dass Urheberrechte und Patente die
 Eigentümer von greifbarem Eigentum – knappe Ressourcen – an der Nutzung
@@ -2192,8 +2167,7 @@ Somit wäre es wahrscheinlich schwierig etwas ähnliches wie unser
 heutiges Patent- oder Urheberrecht alleine durch Verträge nachzubilden.
 
 
-Geschäftsgeheimnisse
---------------------
+### Geschäftsgeheimnisse
 
 Geschäftsgeheimnisse kann man leichter rechtfertigen als Patente oder
 das Urheberrecht. Palmer argumentiert, dass sie aus den Gesetzen des
@@ -2252,8 +2226,7 @@ unrechtmäßig erhalten haben.[^92]
     man in *Black's Law Dictionary*.
 
 
-Markenzeichen
--------------
+### Markenzeichen
 
 Palmer argumentiert auch, dass Gesetze zu Markenzeichen legitim
 sind.[^93] Stellen wir und vor, ein Lachmanninan ändert den Namen seiner
@@ -2296,8 +2269,7 @@ ist freilich nichts falsch daran eine Domaine als erster zu nehmen und
 es danach an den Höchstbietenden zu verkaufen.
 
 
-Schlussfolgerung
-================
+## Schlussfolgerung
 
 Wir sehen also, dass ein System von Eigentumsrechte über "ideelle
 Objekte" zwangsläufig die Eigentumsrechte anderer verletzt, da diese
@@ -2320,12 +2292,9 @@ Körper und originär angeeignete knappe Ressourcen und sollten den
 Vorrang dieser Rechte wieder geltend machen.
 
 
-ANHANG
-======
+## ANHANG
 
-
-EINIGE FRAGLICHE BEISPIELE ZUM PATENT- UND URHEBERRECHT
--------------------------------------------------------
+### Einige Fragliche Beispiele zum Patent- und Urheberrecht
 
 Beispiele zum U.S Patentrecht [^95]
 *  "Christmas Tree Stand Watering System," U.S.  Pat. No. 4,993,176, Feb.

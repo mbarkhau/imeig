@@ -1,11 +1,4 @@
-<!--
- Vorwort zu Imaginäres Eigentum
- 2010 Manuel Barkhau
--->
-
-
-Vorwort
-=======
+# Vorwort
 
 Stephan Kinsella hat 2001 einen bahnbrechenden Artikel mit dem Titel
 "Gegen Geistiges Eigentum" (engl. Against Intellectual Property)
