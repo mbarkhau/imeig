@@ -1,9 +1,14 @@
-body { text-align: center; }
+body { 
+    text-align: center;
+    font-size: 1.2em;
+}
+
+a img { border:none; }
 
 .center {
 	margin-left: auto;
 	margin-right: auto;
-	width: 40em;
+	width: 35em;
 }
 
 .center table { 
@@ -11,8 +16,8 @@ body { text-align: center; }
 	width: 100%;
 }
 
-th, td { vertical-align: top; }
-th { text-align: left;}
+ul { list-style-type: none; }
+
 
 .footer {
 	width: 95%;
@@ -21,4 +26,13 @@ th { text-align: left;}
 	padding: .5em;
 }
 
-a img { border:none; }
+#donations h3, 
+#donations form, 
+#donations img { 
+    display: inline;
+}
+
+.footer span { 
+    display: inline-block;
+    vertical-align: top;
+}
