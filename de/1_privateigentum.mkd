@@ -2,7 +2,9 @@
 % author: Hans-Hermann Hoppe
 % date: 2004
 
-## Das Problem der gesellschaftlichen Ordnung
+
+Das Problem der gesellschaftlichen Ordnung
+==========================================
 
 Als einziger auf seiner Insel, kann Robinson Crusoe tun und lassen was
 er will. Die Frage nach Regeln für ein geordnetes Zusammenleben, kommt
@@ -35,7 +37,8 @@ möglichen Konflikte ausgeschlossen werden können. Das ist das Problem
 der gesellschaftlichen Ordnung.
 
 
-## Die Lösung: Privateigentum und Originäre Aneignung
+Die Lösung: Privateigentum und Originäre Aneignung
+==================================================
 
 Die Geschichte des gesellschaftlichen und politischen Diskurses, hat
 diverse Vorschläge produziert um das Problem der gesellschaftlichen
@@ -297,7 +300,8 @@ einem bestimmten Ort.[^5]
     einfach durch eine Aussage für sich beansprucht).
 
 
-## Missverständnisse und Klarstellungen
+Missverständnisse und Klarstellungen
+====================================
 
 Nach diesem Verständnis von Eigentum, bedeutet Eigentum die exklusive
 Kontrolle über bestimmte *physische* Objekte und Gebiete durch bestimmte
@@ -409,7 +413,8 @@ Demzufolge dürfte niemand eine vorher unentdeckte und nicht angeeignete
 Sache erstmalig benutzen.
 
 
-## Die Wirtschaftlichkeit des Privateigentums
+Die Wirtschaftlichkeit des Privateigentums
+==========================================
 
 Die Idee des Privateigentums stimmt nicht nur mit unserer moralischen
 Intuition überein und ist die einzig gerechte Lösung zum Problem der
@@ -509,7 +514,8 @@ einsetzen, so ist die Wahrscheinlichkeit für Misswirtschaft,
 Fehleinschätzungen und wirtschaftlichen Verlusten systematisch erhöht.
 
 
-## Der Klassische Ursprung
+Der Klassische Ursprung
+=======================
 
 Wie eingangs angemerkt wurde, ist Privateigentum als Grundlagen von
 Ethik und Wirtschaft nichts neues. Es ist vielmehr ein moderner Ausdruck
@@ -614,7 +620,9 @@ modernen Grenznutzenschule der Ökonomie mit der politischen Philosophie
 des Natürlichen Rechts, zu einer einheitlichen modernen Wissenschaft:
 Libertarismus.
 
-## Abwege aus Chicago
+
+Abwege aus Chicago
+==================
 
 Zur Zeit als Rothbard dabei war, das Konzept des Privateigentums
 in der Ökonomie wiederherzustellen und die Ökonomie wieder in die Ethik
