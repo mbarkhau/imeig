@@ -1,0 +1,72 @@
+Anhang
+======
+
+Einige Fragliche Beispiele zum Patent- und Urheberrecht
+-------------------------------------------------------
+
+Beispiele zum U.S Patentrecht [^95]
+*  "Christmas Tree Stand Watering System," U.S.  Pat. No. 4,993,176, Feb.
+19, 1991 (Christmas tree watering stand shaped like Santa Claus);
+
+*  "Initiation Apparatus," U.S. Pat. No. 819,814, May 8, 1906 ("harmless"
+way of initiating a candidate into a fraternity by shocking him with
+electrodes);
+
+*  "Method of Exercising a Cat," U.S. Pat. No.  5,443,036, Aug. 22, 1995
+(shining a laser light onto the floor to fascinate a cat and cause it
+to chase the light);
+
+*  "Pat on the Back Apparatus," U.S. Pat. No.  4,608,967, Sep. 2, 1986
+(apparatus with simulated human hand to pat the user on the back);
+
+*  "Hyper-Light-Speed Antenna," U.S. Pat. No.  6,025,810, Feb. 15, 2000
+(poking hole in another "dimension" to transmit RF waves at
+faster-than-light speed, incidentally accelerating plant growth);
+
+*  "Force-Sensitive, Sound-Playing Condom," U.S.  Pat. No. 5,163,447,
+Nov. 17, 1992 (self-explanatory; for example, it could play "Dixie");
+
+*  "Method and System for Placing a Purchase Order via a Communications
+Network," U.S.  Pat. No. 5,960,411, Sep. 28, 1999 (Amazon.com's
+"one-click" method for purchasing an item on the world wide web by
+single mouse-click);
+
+*  "Financial Certificates, System and Process," U.S.  Pat. No.
+6,017,063, Jan. 25, 2000 (inflationindexed gift certificate or mutual
+fund share);
+
+*  "Method and System for Measuring Leadership Effectiveness," U.S. Pat.
+No. 6,007,340, Dec.  28, 1999 (assigned to Electronic Data Systems
+Corporation);
+
+*  "Sanitary Appliance for Birds," U.S. Pat. No.  2,882,858, April 21,
+1959 (bird diaper);
+
+*  "Religious Soap," U.S. Pat. No. 3,936,384, Feb.  3, 1976 (bar of soap
+with religious design on one side and prayer on the other); and
+
+*  "Method of Preserving the Dead," U.S. Pat. No.  748,284, Dec. 29, 1903
+   (preserving dead person's head in block of glass).
+
+[^95]: Diese und weitere Patente kann man auf folgende seiten einsehen
+    http://www.delphion.com, http://www.uspto.gov/patft/index.html, or
+    http://www.patentgopher.com. Siehe auch "Wacky Patent of the Month,"
+    http://colitz.com/site/wacky.htm; IBM, "Gallery of Obscure Patents,"
+    http://www.patents.ibm.com/gallery; und Greg Aharonian,
+    "Bustpatents," http://www.bustpatents.com.
+
+Das Urheberrecht hat zwar nicht zu solch eindeutig absurde Anwendungen
+geführt, ist jedoch durch Gerichte übermäßig ausgeweitet worden.
+Ursprünglich sollte es literarische Werke abdecken, ist aber nun auf
+solche "Werke" wie Computerprogramme ausgeweitet worden, und sogar auf
+Machinencode oder Objektcode, welches eher Analog zu einem Teil einer
+Machine wie eine Nocke zu sehen ist, als zu einem literarischen
+Werk.[^96]
+
+[^96]: 
+    *Final Report, National Commission on New Technological Uses
+    (CONTU) of Copyright Works*, July 31, 1978 (Washington, D.C.:
+    Library of Congress, 1979); *Apple Computer, Inc. v Franklin
+    Computer Corporation*, 714 F2d 1240 (3d Cir 1983); *NEC Corp. and
+    NEC Electronics, Inc. v Intel Corp*., 1989 Copr.L.Dec. ¶ 26,379,
+    1989 WL 67434 (ND Cal 1989).

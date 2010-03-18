@@ -2,22 +2,33 @@
 import getopt, sys, os
 
 from os import path
-from ConfigParser import SafeConfigParser
 
-METAFILE_DEFAULT = "metadata.defaults"
-METAFILE = "metadata"
+from django.template import Template, Context
+from django.conf import settings
 
+settings.configure(
+    DEBUG = False,
+    TEMPLATE_DEBUG = False,
+    TEMPLATE_DIRS = []
+)
 
-def get_project_metadata(proj_dir):
-    meta = SafeConfigParser()
-    meta.readfp(open(METAFILE_DEFAULT))
-    meta.read(METAFILE)
-    #TODO: override options with those given in command line
-    return meta
+META_KEYS = ("refname", 
+             "title",
+             "subtitle",
+             "authors",
+             "contributors",
+             "year")
 
+SECTION_TMPL = "section.html.tmpl"
 
-def separate(mkd):
-    pass
+def get_section_tmpl(proj_dir):
+    custom_tmpl = os.path.join(proj_dir, SECTION_TMPL)
+    if os.path.isfile(custom_tmpl):
+        tmpl = open(custom_tmpl)
+    else:
+        tmpl = open(SECTION_TMPL)
+    return Template(tmpl.read())
+
 
 def usage():
     print "help"
@@ -32,19 +43,10 @@ def filelist(proj_dir):
 
 
 def assert_valid_project(proj_dir=os.path.abspath(".")):
-    """ Expect a metadata file and some markdown files.
-    
-        Exits and emits error msg if dir is not a project
-    """
     if not os.path.isdir(proj_dir):
         print "Directory not found: %s" % proj_dir
         sys.exit(2)
 
-    if METAFILE not in os.listdir(proj_dir):
-        print """Project requires a "metadata" file"""
-        #TODO: generate one?
-        sys.exit(2)
-    
     if len(filelist(proj_dir)) == 0:
         print "No .mkd files in %s" % proj_dir
         sys.exit(2)
@@ -67,50 +69,122 @@ def is_heading(line, prev_line):
 
 def parse(mkd):
     """ Splits the markdown into tuples of headings and paragraphs. """
+    # parse and remove metadata
+    chapter = {}
+    new_mkd = []
+    for line in mkd.splitlines(True):
+        if not new_mkd and line.startswith("%"):
+            key, _, val = line.replace("%","").partition(":")
+            chapter[key.strip()] = val.strip()
+        else:
+            # append if we have already started the post-metadata block
+            # or if the line starts with the metadate char
+            new_mkd.append(line)
+    
+    mkd = "".join(new_mkd)
 
+    # find headings and associate them with following text
     prev_line = ""
     heading = ""
     lvl = 0
     text = []
     contents = [] # elems (lvl, heading, text)
 
-    # find headings and associate them with following text
     for line in mkd.splitlines(True):
         h = is_heading(line, prev_line)
         if h:
-            contents.append((lvl, heading, "".join(text)))
+            text = "".join(text).strip()
+            if text or heading:
+                contents.append((lvl, heading, text))
             text = []
             prev_line = ""
             lvl, heading = h
         else:
             text.append(prev_line)
             prev_line = line
-    
-    # parse and remove metadata
-    wo_meta = []
-    metadata = {}
-    for line in contents[0][2].splitlines(True):
-        if wo_meta or not line.startswith("%"):
-            # append if we have already started the post-metadata block
-            # or if the line starts with the metadate char
-            wo_meta.append(line)
-        else:
-            key, _, val = line.replace("%","").partition(":")
-            metadata[key.strip()] = val.strip()
 
-    contents[0] = (contents[0][0], contents[0][1], "".join(wo_meta))
-    return metadata, contents
+    # add the final paragraph (usually triggered by following one, which
+    # doesn't exist in this case)
+    contents.append((lvl, heading, "".join(text)))
+
+    chapter["contents"] = contents 
+    return chapter
 
 
-def parsefiles(proj_meta, filenames):
-    doc = {}
+def parsefiles(filenames):
+    parts = []
     for f in filenames:
         fp = open(f)
         mkd = fp.read()
         fp.close()
-        parse(mkd)
-    return doc
+        parts.append(parse(mkd))
 
+    return parts
+
+
+def gen_titlepage(doc):
+    pass
+
+def gen_section(id, chapter, title, text):
+    pass
+
+def gen_mkd(text):
+    return text
+
+
+PROJ = "projectcode"
+TITLE = "title"
+SUBTITLE = "subtitle"
+AUTHORS = "authors"
+CONTRIBS = "contributors"
+DATE = "date"
+
+CHAPTER = "chapter"
+
+SECT_ID = "section_id"
+PREV = "prev_id"
+NEXT = "next_id"
+SECT_TITLE = "section_title"
+TEXT = "text"
+
+mk_id = lambda lvl: ".".join([str(l) for l in lvl])
+
+def compile(parts):
+    out = []    # { id, prev, next, part, chapter, title, text }
+    lvl = [0]   # expands to e.g [1, 2] for chapter 1 section 2
+    ctx = {}
+
+    cur_depth = 0
+
+    for part in parts:
+        cur_text = []
+
+        if part.has_key(TITLE):
+            lvl = lvl[0:1]
+            cur_depth = 0
+            ctx[TITLE] = part[TITLE]
+
+        for depth, heading, text in part["contents"]:
+            depth -= 1
+            if cur_depth < depth:
+                cur_depth += 1
+                lvl.append(1)
+            elif cur_depth > depth:
+                lvl = lvl[:-1]
+                cur_depth -= 1
+                lvl[cur_depth] += 1
+            else:
+                lvl[-1] += 1
+
+            if depth < 2:
+                ctx[SECT_ID] = mk_id(lvl)
+            if depth == 0:
+                ctx[CHAPTER] = heading
+
+            if depth > 1 and ctx[TEXT]:
+                ctx[TEXT] += text
+            else:
+                ctx[TEXT] = text
 
 def main(argv):                         
     try:
@@ -132,8 +206,6 @@ def main(argv):
             sys.exit()
         elif opt in ("-p", "--project_dir"):
             proj_dir = arg
-        elif opt in ("-p", "--project_dir"):
-            proj_dir = arg
         elif opt in ("-v", "--verbose"):
             verbose = True
         elif opt in ('-o', "--output"):
@@ -144,24 +216,16 @@ def main(argv):
     proj_dir = os.path.abspath(proj_dir)
 
     assert_valid_project(proj_dir)
-    meta = get_project_metadata(proj_dir)
     filenames = filelist(proj_dir)
-    doc = parsefiles(meta, filenames)
+    parts = parsefiles(filenames)
+    compile(parts)
+    tmpl = get_section_tmpl(proj_dir)
 
 if __name__ == "__main__":
     main(sys.argv[1:])
 
 
 """
-files = " ".join(filelist())
-
-refname     = config.get("info", "refname")
-
-title       = config.get("info", "title")
-subtitle    = config.get("info", "subtitle")
-authors     = config.get("info", "authors").split(",")
-contribs    = config.get("info", "contributors").split(",")
-
 html_cmd = "pandoc --toc -o web/%s.html %s" % (refname, files)
 os.system(html_cmd)
 

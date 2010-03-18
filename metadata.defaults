@@ -1,4 +1,4 @@
-[info]
+[project]
 
 # used for filenames
 refname: out

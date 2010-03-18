@@ -1,0 +1,111 @@
+Missverständnisse und Klarstellungen
+====================================
+
+Nach diesem Verständnis von Eigentum, bedeutet Eigentum die exklusive
+Kontrolle über bestimmte *physische* Objekte und Gebiete durch bestimmte
+Personen. Umgekehrt, bedeutet Verletzung des Eigentumsrechts, die
+unaufgeforderte *physische* Beschädigung oder Beeinträchtigung von
+Objekten oder Gebiete die das Eigentum anderer Personen sind. Im Gegensatz
+dazu steht die weit verbreitete Meinung, dass eine Beschädigung oder
+Beeinträchtigung vom *Wert* (oder Preis) des Eigentums einer anderer
+Person ebenfalls eine Strafbare Handlung darstellt.
+
+Im Bezug auf die (Un-)Vereinbarkeit beider Positionen ist es leicht
+einzusehen, dass praktisch jede Handlung einer Person den *Wert* (Preis)
+des Eigentums einer anderen Person beeinflussen kann. Wenn beispielsweise
+Person *A* in den Arbeitsmarkt oder Heiratsmarkt Eintritt, kann das den
+Wert von *B* in diesen Märkten beeinflussen. Wenn *A* seine Wertschätzung
+von Bier relativ zu Brot ändert, oder wenn *A* sich entschließt selbst 
+Brauer oder Bäcker zu werden, verändert sich der Wert des Eigentums
+anderer Brauer und Bäcker. Nach der Ansicht, dass die Minderung eines
+*Wertes* eine Rechtsverletzung darstellt, hätte *A* eine strafbare
+Handlung gegenüber den Brauer und Bäckern begangen. Wenn *A* sich
+*schuldig* gemacht hat, dann haben *B* sowie die Brauer und Bäcker das
+Recht sich gegen die Handlungen von *A* zu *verteidigen*, also physisch
+in das Eigentum von *A* einzugreifen. Es muss *B* erlaubt sein *A*
+physisch daran zu hindern in den Arbeitsmarkt oder dem Heiratsmarkt
+einzutreten; den Brauern und Bäcker muss erlaubt sein *A* physisch daran
+zu hindern sein Geld nach seiner Einschätzung auszugeben. In diesem Fall
+dürfen wir die physischen Schäden oder Verletzungen des Eigentums von
+*A* durch *B* nicht als Straftat ansehen. Da die physischen Schäden und
+Verletzungen aus Verteidigung geschehen, sind sie legitim. Da umgekehrt
+der physische Schaden eine Verletzung von Rechten darstellt, haben *B*
+oder die Brauer und Bäcker nicht das Recht sich gegen die Handlungen von
+*A* zu verteidigen, denn seine Handlungen - der Eintritt in den
+Arbeitsmarkt und Heiratsmarkt, seine geänderte Wertschätzung von Bier
+und Brot, oder seine Eröffnung einer Brauerei oder Bäckerei - haben
+keinen Einfluss auf die körperliche Unversehrtheit von *B* oder die
+physische Integrität des Eigentums der Brauer und Bäcker. Wenn sie sich
+trotzdem physisch verteidigen, hätte *A* das Recht sich zu verteidigen.
+Demnach können wir es jedoch nicht als Straftat erachten wenn
+jemand den Wert des Eigentums einer anderen Person verändert. Eine
+dritte Möglichkeit existiert nicht.
+
+Beide Ideen des Eigentums sind jedoch nicht nur unvereinbar. Die
+Alternative - dass man Eigentum am Wert oder Preis eines Gutes hat - ist
+nicht haltbar. Eine Person hat zwar Kontrolle darüber ob seine
+Handlungen die *physischen* Eigenschaften des Eigentums einer anderen
+Person verändert, er hat jedoch keine Kontrolle darüber ob seine
+Handlungen den *Wert* (oder Preis) des Eigentums einer anderen Person
+beeinflussen. Dieser Wert wird nämlich durch Wertschätzung und
+Einschätzung *anderer* Personen bestimmt. Demzufolge wäre es unmöglich
+vorauszusagen, ob die eigenen geplanten Handlungen legitim wären oder
+nicht. Man müsste die gesamte Bevölkerung befragen, um sicherzustellen
+dass die eigenen Handlungen nicht den Wert des Eigentums einer anderen
+Person beeinträchtigt und man könnte damit nicht anfangen, bevor man
+einen universellen Konsens erreicht. Die Menschheit müsste aussterben, 
+lange bevor man solch eine Annahme jemals erfüllen könnte.
+
+Desweiteren beinhaltet die Aussage, dass Eigentum ein Recht am Wert
+bedeutet einen Widerspruch. Denn sollte diese Aussage gültig sein -
+allgemein Zustimmungsfähig - müsste man annehmen es wäre legitim 
+schon *vor* einer Übereinstimmung zu handeln. Sonst wäre es
+unmöglich jemals eine Behauptung aufzustellen. Wenn es jedoch erlaubt
+ist eine Behauptung aufzustellen - was keiner verneinen kann ohne sich
+in ein Widerspruch zu begeben - dann liegt das nur daran, dass es
+*physische* Grenzen des Eigentums gibt, also Grenzen die jeder
+selbstständig und unabhängig erkennen kann, ohne irgendetwas von den
+subjektiven Wertschätzungen anderer zu wissen.[^6]
+
+[^6]: Es stimmt zwar, dass *niemand* handeln könnte, wenn *jeder* den
+    Wert seines Eigentums besäße, praktisch *ist* es aber schon möglich,
+    dass *eine* Person oder Gruppe *A*, den Wert seines Eigentums
+    besitzt und bestimmen darf was eine *andere* Person oder Gruppe,
+    *B*, mit ihrem Eigentum tun oder lassen darf. Das bedeutet jedoch,
+    dass *B* *weder* Eigentum am Wert *noch* an der physischen
+    Integrität ihres Besitzes hat. *B* und sein Eigentum ist also in
+    Wirklichkeit das Eigentum von *A*. Diese Reglung kann man durchaus
+    implementieren aber es kann nicht als menschliche Ethik bezeichnet
+    werden. In Wirklichkeit handelt es sich dabei um ein Klassensystem
+    mit ausbeutenden Übermenschen und ausgebeuteten Untermenschen.
+
+Ein weiteres ebenso verbreitetes Missverständnis ist, dass
+Eigentumsrechte bestimmen welche Handlungen erlaubt sind oder nicht,
+*alleine* auf Grund ihrer physischen Auswirkungen. Dabei wird übersehen,
+dass jedes Eigentumsrecht eine *Geschichte* (zeitliche Genese) hat.
+
+Wenn *A* derzeit physischen Schaden am Eigentum von *B* ausübt
+(beispielsweise durch Luftverschmutzung oder Lärm), muss die Situation
+unterschiedlich bewertet werden, abhängig davon wessen Eigentumsrecht
+*früher* zustandekam. Wenn das Eigentum von *A* zuerst etabliert wurde
+und seine fragwürdigen Aktivitäten vor der Etablierung des Eigentums vom
+Nachbar *B* durchgeführt wurden, kann er damit fortfahren. *A* hat eine
+Dienstbarkeit etabliert. *B* hat verschmutztes und lautes Eigentum
+erworben, und sollte sich *B* ein sauberes und stilles Grundstück
+wünschen, muss er das mit *A* aushandeln. Wurde umgekehrt, das Eigentum
+von *B* als erstes begründet, muss *A* mit seinen Aktivitäten aufhören;
+und wenn er das nicht möchte, muss er *B* für dieses Privileg bezahlen.
+Jede andere Regelung ist unmöglich und nicht zu verteidigen, da ein
+Mensch so lange er lebt, nicht in der Lage ist *nicht* zu handeln.
+Jemand der mit einer Aktivität beginnt, kann selbst wenn er es wollte, 
+nicht auf das Einverständnis von allen Nachzüglern warten. Es muss ihm
+erlaubt sein sofort zu handeln. Sofern kein anderes Eigentum neben sein
+eigenes existiert (da die Nachzügler noch nicht angekommen sind), sind
+die eigenen Aktivitäten alleine durch die Naturgesetze beschränkt. Ein
+Nachzügler könnte die Berechtigung eines Vorgängers nur anzweifeln wenn
+*er* Eigentümer der Güter wäre, die durch die Handlungen des Vorgängers
+beeinflusst werden. Das würde allerdings implizieren, dass man nicht
+angeeignete Sachen besitzen kann, also Eigentum an Sachen die man noch
+nicht entdeckt oder durch eigene Handlungen originär angeeignet hat.
+Demzufolge dürfte niemand eine vorher unentdeckte und nicht angeeignete
+Sache erstmalig benutzen.

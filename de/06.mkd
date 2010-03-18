@@ -1,0 +1,207 @@
+Abwege aus Chicago
+==================
+
+Zur Zeit als Rothbard dabei war, das Konzept des Privateigentums
+in der Ökonomie wiederherzustellen und die Ökonomie wieder in die Ethik
+zu integrieren, fingen andere Ökonomen und Rechtswissenschaftler der
+Universität von Chicago wie Ronald Coase, Harold Demsetz und Richard
+Posner ebenfalls an, wieder professionelle Aufmerksamkeit auf das Thema 
+Eigentum und Eigentumsrecht zu richten.[^11]
+
+[^11]: Siehe Ronald Coase, *The Firm, The Market, and the Law* (Chicago,
+    University of Chicago Press, 1988); Harold Demsetz, *Ownership, 
+    Control, and the Firm* (Oxford: Basil Blackwell, 1988); Richard 
+    Posner, *The Economics of Justice* (Cambridge: Harvard University
+    Press, 1981).
+
+Während Rothbard jedoch Privateigentum und Ethik als Grundlage der
+Ökonomie sah, war das Privateigentum und die Ethik für die Chicago
+Gelehrten, der Ökonomie und ökonomischen Abwägungen untergeordnet.
+Nach Posner war alles gerecht, was den gesellschaftlichen Wohlstand
+fördert.[^12]
+
+[^12]: Posner, *The Economics of Justice*, p. 74: "ungerecht (ist
+    definiert) als das was den Wohlstand einer Gesellschaft verringert."
+
+Der Unterschied zwischen den beiden Ansätzen kann man anhand eines der
+von Coase gegebenen Problemfälle zeigen: Eine Eisenbahn verläuft neben
+ein Acker. Die Lokomotive sprüht Funken und beschädigt das Getreide des
+Bauern. Was soll geschehen?
+
+Aus der klassischen Sicht, müssen wir feststellen ob der Bauer oder die
+Eisenbahn zuerst da war. Wenn der Bauer zuerst da war, kann er die
+Eisenbahn zwingen die Beschädigung zu unterlassen oder einen Ausgleich
+verlangen. Wenn die Eisenbahn zuerst da war, kann sie weiterhin Funken
+sprühen und der Bauer müsste die Eisenbahn bezahlen damit sie ohne
+Funken fährt.
+
+Aus der Sicht von Coase ist die Antwort zweierlei. Als erstes stellt 
+Coase die "positive" Behauptung auf, dass es keine Rolle spielt *wie*
+Eigentumsrechte und Haftpflicht zugeordnet werden, wesentlich ist,
+*dass* sie zugeordnet werden, vorausgesetzt die Transaktionskosten
+sind null (unrealistisch).
+
+Coase behauptet es wäre falsch den Bauern oder die Eisenbahn als im
+"Recht" oder "Unrecht" (haftbar) oder als "Täter" und "Opfer" zu
+betrachten. "Die Frage wird häufig als eine erachtet, in der *A* einen
+Schaden bei *B* verursacht und entschieden werden muss, wie wir *A*
+daran hindern sollen. Das ist jedoch falsch. Es handelt sich um ein
+Frage gegenseitiger Schäden. Würde man den Schaden an *B* verhindern,
+wäre das ein Schaden an *A*. Die wirkliche Frage sollte sein: Sollte es
+*A* erlaubt sein *B* zu schaden oder umgekehrt? Das Problem ist es, den
+größeren Schaden zu vermeiden".[^13]
+
+[^13]: Ronald Coase, "The Problem of Social Cost," in: idem, *The Firm,
+    the Market, and the Law*, p. 96. Die moralische Perversion dieser
+    Behauptung kann man am besten erkennen wenn wir uns den Fall einer
+    Vergewaltigung von *B* durch *A* vorstellen. Nach Coase, sollte *A*
+    nicht aufgehalten werden.. Vielmehr "handelt es sich um eine Frage
+    gegenseitiger Schäden". Wenn wir *A* daran hindern *B* zu
+    vergewaltigen, verursachen wir bei *A* einen Schaden, da er nicht
+    länger nach belieben vergewaltigen kann. Die wirkliche Frage ist:
+    Sollte es *A* erlaubt sein *B* zu vergewaltigen, oder sollte es *B*
+    erlaubt sein *A* daran zu hindern sie/ihn zu vergewaltigen? "Das
+    Problem ist es, den größeren Schaden zu vermeiden".
+
+Angesichts der "gleichen" moralischen Stellung von *A* und *B*, macht
+es für die Zuordnung von wirtschaftlichen Gütern angeblich zunächst
+keinen Unterschied, wem die Eigentumsrechte zugewiesen werden. Stellen
+wir uns vor der Ernteschaden für den Bauern, *A*, beträgt $1000 und die
+Kosten eines Geräts zur Verhinderung von Funken (GVF) beträgt für *B*
+$750. Wenn *B* für den Ernteschaden haftbar gemacht wird, muss *B* ein
+GVF installieren oder seinen Betrieb einstellen. Wenn *B* nicht für den
+Schaden haftbar gemacht wird, muss *A* einen Betrag zwischen $750 und
+$1000 bezahlen, damit *B* ein GVF installiert. In beiden Fällen wird ein
+GVF installiert. Nehmen wir nun an die Zahlen wären umgekehrt: Der
+Ernteschaden beträgt $750 und das GVF kostet $1000. Wenn *B* haftbar
+gemacht wird, wird er $750 an *A* bezahlen jedoch kein GVF
+installieren. Wenn *B* nicht haftbar gemacht wird, kann *A* nicht genug
+an *B* bezahlen um ein GVF zu installieren. Wieder enden beide Fälle mit
+dem gleichen Ergebnis. Es wird *kein* GVF installiert. Es spielt
+nach Coase, Demsetz und Posner deswegen keine Rolle wie die
+Eigentumsrechte am Anfang zugewiesen sind, denn die resultierende 
+Zuteilung von Wirtschaftsgütern bleibt unbetroffen.
+
+Die Zweite und diesmal "normative" Behauptung - und im einzig
+*realistischen* Fall von *positiven* Transaktionskosten - von Coase,
+Demsetz und Posner ist, dass Gerichte den streitenden Parteien
+Eigentumsrechte derart zuweisen sollten, dass "Wohlstand" oder der "Wert
+der Produktion" maximiert wird. Im eben geschilderten Fall wäre die
+Eisenbahn gegenüber dem Bauer haftbar, sofern die Kosten für das GVF
+höher sind als sein Ernteverlust. Im gegenteiligen Fall, sollte das
+Gericht so entscheiden, dass der Bauer an die Eisenbahn einen
+Schadensersatz zahlt. Posner bietet ein weiteres Beispiel an. Eine
+Fabrik verursacht Rauch und verringert dadurch den Eigentumswert der
+umliegenden Grundstücke. Wenn die Grundstücke um $ 3 Million an Wert
+verlieren und die Kosten eines Standortwechsels für die Fabrik $ 2
+Million betragen, sollte die Fabrik haftbar gemacht werden und gezwungen
+werden um zu ziehen. Wenn die Zahlen jedoch umgekehrt sind - die
+Grundstückswerte verlieren $ 2 Million und die Kosten des
+Standortwechsels sind $ 3 Million - darf die Fabrik bleiben und
+weiterhin Rauch abgeben.
+
+Sowohl die positive als auch die normative Behauptung der
+Rechtsgelehrten und Ökonomen aus Chicago müssen abgewiesen werden. Im
+Bezug auf die Behauptung es würde keine Rolle spielen, wem die
+Eigentumsrechte zugewiesen werden folgen drei Antworten. Erstens, wie
+Coase unweigerlich zugibt, macht es für den Bauern und der Eisenbahn
+sehr wohl einen Unterschied, wem die Eigentumsrechte zugewiesen werden.
+Es macht nicht nur ein Unterschied, wie Ressourcen verteilt werden,
+sondern auch wem sie gehören.
+
+[^14]: Siehe auch Walter Block, "Coase and Demsetz on Private Property
+    Rights," *Journal of Libertarian Studies*, Vol.1, no. 2, 1977; idem,
+    "Ethics, Efficiency, Coasian Property Rights, and Psychic Income: A
+    Reply to Harold Demsetz," *Review of Austrian Economics*, Vol. 8,
+    no.  2, 1995; idem, "Private Property Rights, Erroneous
+    Interpretations, Morality and Economics," Quarterly Journal of
+    Austrian Economics, Vol.  3, no. 1, 2000; Gary North, *The Coase
+    Theorem: A Study in Epistemology* (Tyler, Texas: Institute for
+    Christian Economics, 1992); idem, "Undermining Property Rights:
+    Coase and Becker," *Journal of Libertarian Studies*, Vol. 16, no. 4
+    (forthcoming).
+
+Zweitens, und viel wichtiger, es macht für die gesellschaftliche
+Produktion einen fundamentalen Unterschied, wie Eigentumsrechte
+zugewiesen werden. Die Ressourcen die einer produktiven Unternehmung
+zugewiesen werden, sind nicht einfach gegeben. Sie selbst sind das
+Ergebnis früherer Handlungen produktiver Natur oder einer originären
+Aneignung. Diese Handlungen hängen davon ab ob sie sich für die
+Produzierenden und Aneignenden lohnen. Wenn Produzierende und Aneignende
+die absoluten Eigentümer über ihre Güter sind, d.h. wenn sie nicht wegen
+Handlungen eines Nachzüglers Haftbar gemacht werden können, wird der
+Wohlstand maximiert. Wenn andererseits die Produzierenden und
+Aneignenden gegenüber Nachzügler haftbar gemacht werden können, was
+Coase mit der Lehre vom "gegenseitigen Schaden" impliziert, so wird der
+produzierte Wert geringer sein als es sonst der Fall wäre. Die Lehre,
+dass "es keinen Unterschied macht" ist also kontraproduktiv im Bezug auf
+das erklärte Ziel der Maximierung des Wohlstands.
+
+Drittens, die Behauptung von Coase, dass der Einsatz von Ressourcen
+durch die erste Zuweisung von Eigentumsrechte nicht beeinflusst wird ist
+im allgemeinen nicht richtig. Tatsächlich, ist es sehr einfach ein
+Gegenbeispiel aufzustellen. Nehmen wir an der Bauer verliert wegen den
+Funken der Eisenbahn nicht $ 1000 an seiner Ernte, sondern ein
+Blumenbeet, dass ihm $ 1000 wert ist, für jeden anderen aber wertlos
+ist. Wenn das Gericht die Eisenbahn haftbar macht, wird das $ 750 teure
+GVF installiert. Wenn das Gericht die Eisenbahn nicht haftbar macht,
+wird das GVF *nicht* installiert, schlicht und einfach weil der Bauer
+nicht das nötige Geld aufbringen kann, um die Eisenbahn zu überreden ein
+GVF zu installieren. Die Verteilung der Ressourcen ist *unterschiedlich*
+je nachdem wie Eigentumsrechte eingangs bestimmt wurden.
+
+Ähnlich und entgegen der normativen Behauptung der Chicago Rechts- und
+Wirtschaftslehre, dass Gerichte die Rechte am Eigentum zur Maximierung
+des gesellschaftlichen Wohlstands zuweisen sollten, folgen drei
+Antworten. Erstens ist kein zwischenmenschlicher Vergleich vom Nutzen
+möglich. Dennoch müssen Gerichte wohl oder über solche beliebigen
+Vergleiche machen, jedes mal wenn sie eine Kosten-Nutzen-Analyse machen.
+Solche Kosten-Nutzen-Vergleiche sind so willkürlich wie die Annahmen auf
+denen sie beruhen. Sie nehmen z.B. an, dass psychische Kosten
+vernachlässigt werden können und dass der Grenznutzen des Geldes
+konstant und für alle gleich ist.
+
+Zweitens, verdeutlichen die numerischen Beispiele oben, dass sich
+die vom Gericht zugewiesenen Eigentumsrechte ändern, je nachdem wie
+die Marktlage gerade ist. Wenn ein GVF weniger kostet als der
+Ernteschaden, bekommt die Eisenbahn Recht. Unterschiedliche Umstände
+führen also zu einer Umverteilung von Eigentumsrechten. Keiner kann sich
+je seines Eigentums sicher sein.[^15] Es entsteht eine permanent
+unsichere Rechtslage. Das scheint weder gerecht noch wirtschaftlich;
+desweiteren würde wohl keiner mit rechtem Verstand, sich an ein Gericht
+wenden, dass bekanntgibt es wird Eigentumsrechte mit der Zeit neu
+zuweisen, abhängig von der derzeitigen Marktlage.
+
+[^15]: Posner, *The Economics of Justice*, p. 70-71, gibt dies mit
+    ergreifender Offenheit zu: "Absolute Rechte spielen eine wichtige
+    Rolle in der ökonomischen Rechtstheorie. ... Wenn Transaktionskosten
+    zu groß werden, ist die Anerkennung von absoluten Rechten nicht
+    effizient. ... Eigentumsrechte, wenn auch absolut, (sind) abhängig
+    von Transaktionskosten und dienen dem Ziel der Maximierung des
+    Wohlstands bzw. sind ihm untergeordnet".
+
+Zuletzt, muss eine Ethik bei sich ändernde Umstände gleich und stabil
+bleiben; eine Ethik muss einem erlauben Entscheidungen über "Recht oder
+Unrecht" zu treffen *bevor* man handelt und das wofür man haftbar
+gemacht werden könnte, muss unter der eigenen Kontrolle stehen. Das gilt
+für die klassische Ethik des Privateigentums mit dem
+erster-Nutzer-erster-Eigentümer Prinzip. Dieser Ethik zufolge, sind
+gerechte Handlungen solche die umgesetzt werden mit rechtmäßigen Mitteln
+- Mittel aus originärer Aneignung, Produktion oder vertraglichem Handel
+mit dem vorherigen Eigentümer - ohne dabei einen physischen Schaden am
+Eigentum anderer zu verursachen. Jede Person kann eingangs bestimmen ob
+diese Bedingung erfüllt ist oder nicht, und es steht unter seinem
+Einfluss ob seine Handlungen das Eigentum anderer beschädigt. In beider
+Hinsicht ist es bei der Ethik der Maximierung des Wohlstands ganz
+anders. Niemand kann vorher sagen, ob die eigenen Handlungen zu einem
+großeren gesellschaftlichen Wohlstand führen oder nicht. Wenn es
+überhaupt bestimmt werden kann, dann erst im Nachhinein. Es steht auch
+nicht unter der eigenen Kontrolle, ob die eigenen Handlungen zur
+Maximierung des gesellschaftlichen Wohlstands führt. Ob das der Fall ist
+hängt von den Handlungen und Einschätzungen *anderer* Personen ab.
+Wieder müssen wir Fragen, welche Person mit rechtem Verstand, würde sich
+dem Urteil eines Gerichts aussetzen, dass ihm nicht vorher wissen
+lässt wie man sich rechtmäßig verhalten kann und wie man es vermeiden 
+kann widerrechtlich zu handeln. Wer kann sich für ein "Recht"
+aussprechen, dass solche Entscheidungen erst im Nachhinein und mit
+vollendeten Tatsachen trifft?

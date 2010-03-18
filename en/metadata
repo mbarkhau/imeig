@@ -1,4 +1,4 @@
-[info]
+[project]
 
 refname: ip
 
@@ -6,5 +6,4 @@ title: Imaginary Property
 subtitle: Natural-Rights Critique of Intelectual "Property"
 authors: Hans-Hermann Hoppe, Stephan Kinsella
 contributors: Manuel Barkhau (Foreword)
-
 year:2010
