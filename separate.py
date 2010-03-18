@@ -16,6 +16,9 @@ def get_project_metadata(proj_dir):
     return meta
 
 
+def separate(mkd):
+    pass
+
 def usage():
     print "help"
 
@@ -118,6 +121,7 @@ def main(argv):
         usage()
         sys.exit(2)
 
+    files = args
     output = None
     verbose = False
     proj_dir = "."
@@ -126,15 +130,17 @@ def main(argv):
         if opt in ("-h", "--help"):
             usage()
             sys.exit()
-        elif opt in ('-o', "--output"):
-            output = arg
+        elif opt in ("-p", "--project_dir"):
+            proj_dir = arg
         elif opt in ("-p", "--project_dir"):
             proj_dir = arg
         elif opt in ("-v", "--verbose"):
             verbose = True
+        elif opt in ('-o', "--output"):
+            output = arg
         else:
             assert False, "unhandled option type"
-
+    
     proj_dir = os.path.abspath(proj_dir)
 
     assert_valid_project(proj_dir)
