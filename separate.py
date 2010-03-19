@@ -1,9 +1,11 @@
 #!/usr/bin/python2.5
 import getopt, sys, os
 
+from subprocess import Popen, PIPE
 from os import path
 
-from django.template import Template, Context
+from django.template import Context
+from django.template.loader import get_template
 from django.conf import settings
 
 settings.configure(
@@ -12,23 +14,30 @@ settings.configure(
     TEMPLATE_DIRS = []
 )
 
-META_KEYS = ("refname", 
-             "title",
-             "subtitle",
-             "authors",
-             "contributors",
-             "year")
+TOC_TMPL = "toc.html"
+TITLEPAGE_TMPL = "titlepage.html"
+SECTION_TMPL = "section.html"
 
-SECTION_TMPL = "section.html.tmpl"
+PROJ_CODE = "projectcode"
+TITLE = "title"
+SUBTITLE = "subtitle"
+AUTHORS = "authors"
+CONTRIBS = "contributors"
+DATE = "date"
 
-def get_section_tmpl(proj_dir):
-    custom_tmpl = os.path.join(proj_dir, SECTION_TMPL)
-    if os.path.isfile(custom_tmpl):
-        tmpl = open(custom_tmpl)
-    else:
-        tmpl = open(SECTION_TMPL)
-    return Template(tmpl.read())
+CHAPTER = "chapter"
+CONTENTS = "contents"
 
+SECT_ID = "section_id"
+PREV_ID = "prev_id"
+NEXT_ID = "next_id"
+SECT_TITLE = "section_title"
+
+TOC = "toc"
+TEXT = "text"
+MKD = "markdown"
+
+SPLITDEPTH = 2
 
 def usage():
     print "help"
@@ -49,6 +58,7 @@ def assert_valid_project(proj_dir=os.path.abspath(".")):
 
     if len(filelist(proj_dir)) == 0:
         print "No .mkd files in %s" % proj_dir
+        usage()
         sys.exit(2)
 
 
@@ -107,7 +117,7 @@ def parse(mkd):
     # doesn't exist in this case)
     contents.append((lvl, heading, "".join(text)))
 
-    chapter["contents"] = contents 
+    chapter[CONTENTS] = contents 
     return chapter
 
 
@@ -131,40 +141,30 @@ def gen_section(id, chapter, title, text):
 def gen_mkd(text):
     return text
 
-
-PROJ = "projectcode"
-TITLE = "title"
-SUBTITLE = "subtitle"
-AUTHORS = "authors"
-CONTRIBS = "contributors"
-DATE = "date"
-
-CHAPTER = "chapter"
-
-SECT_ID = "section_id"
-PREV = "prev_id"
-NEXT = "next_id"
-SECT_TITLE = "section_title"
-TEXT = "text"
-
 mk_id = lambda lvl: ".".join([str(l) for l in lvl])
 
 def compile(parts):
-    out = []    # { id, prev, next, part, chapter, title, text }
+    ctxs = []
+    toc = []
+
     lvl = [0]   # expands to e.g [1, 2] for chapter 1 section 2
     ctx = {}
-
+    prev_ctx = {TEXT: ""}
     cur_depth = 0
 
     for part in parts:
-        cur_text = []
 
-        if part.has_key(TITLE):
+        if len(part.keys()) > 1 or not part.has_key(CONTENTS):
             lvl = lvl[0:1]
             cur_depth = 0
-            ctx[TITLE] = part[TITLE]
+            for k in part.keys():
+                if k is CONTENTS:
+                    continue
+                ctx[k] = part[k]
 
-        for depth, heading, text in part["contents"]:
+            toc.append({ SECT_ID: "", SECT_TITLE: part[TITLE] })
+
+        for depth, heading, text in part[CONTENTS]:
             depth -= 1
             if cur_depth < depth:
                 cur_depth += 1
@@ -176,15 +176,32 @@ def compile(parts):
             else:
                 lvl[-1] += 1
 
-            if depth < 2:
-                ctx[SECT_ID] = mk_id(lvl)
+            toc.append({ SECT_ID: mk_id(lvl), SECT_TITLE: heading })
+
             if depth == 0:
                 ctx[CHAPTER] = heading
 
-            if depth > 1 and ctx[TEXT]:
-                ctx[TEXT] += text
-            else:
+            if depth < SPLITDEPTH:
+                ctx[SECT_ID] = mk_id(lvl)
+                ctx[SECT_TITLE] = heading
                 ctx[TEXT] = text
+                prev_ctx = ctx.copy()
+                ctxs.append(prev_ctx)
+
+            if depth > (SPLITDEPTH - 1):
+                sub_heading = "\n\n%s %s\n\n" % (("#" * (depth+1)), heading)
+                prev_ctx[TEXT] += sub_heading
+                prev_ctx[TEXT] += text
+            
+    prev = TOC
+    for i, ctx in enumerate(ctxs):
+        ctx[NEXT_ID] = ctxs[i+1][SECT_ID] if i < (len(ctxs) - 1) else TOC
+        ctx[PREV_ID] = prev 
+        ctx[TOC] = toc
+        prev = ctx[SECT_ID]
+
+    return toc, ctxs
+
 
 def main(argv):                         
     try:
@@ -214,19 +231,51 @@ def main(argv):
             assert False, "unhandled option type"
     
     proj_dir = os.path.abspath(proj_dir)
-
     assert_valid_project(proj_dir)
+
+    settings.TEMPLATE_DIRS = (
+        os.path.abspath(os.path.join(proj_dir, "templates")),
+        os.path.abspath(os.path.join(".", "templates")),
+    )
+
     filenames = filelist(proj_dir)
     parts = parsefiles(filenames)
-    compile(parts)
-    tmpl = get_section_tmpl(proj_dir)
+    toc, ctxs = compile(parts)
+    toc = {
+            "splitdepth": SPLITDEPTH,
+            "toc": toc,
+          }
+
+    generate(TOC_TMPL, toc, "toc.html")
+
+    for ctx in ctxs:
+        out_file = ctx[SECT_ID] + ".html"
+        ctx[MKD] = mkd_to_html(ctx[TEXT])
+        if not ctx[TEXT].strip():
+            generate(TITLEPAGE_TMPL, ctx, out_file)
+        else:
+            generate(SECTION_TMPL, ctx, out_file)
+
+def mkd_to_html(mkd):
+    #"pandoc --toc -o web/%s.html %s" % (refname, files)
+    proc = Popen(["pandoc"], stdout=PIPE, stdin=PIPE)
+    out, err = proc.communicate(mkd)
+    return out
+
+
+def generate(tmpl_name, ctx, filename):
+    tmpl = get_template(tmpl_name)
+    out = tmpl.render(Context(ctx))
+    fp = open(os.path.join("web", "out", filename), 'w')
+    fp.write(out.encode('utf-8'))
+    fp.close()
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])
 
 
 """
-html_cmd = "pandoc --toc -o web/%s.html %s" % (refname, files)
 os.system(html_cmd)
 
 #pdf_cmd = "markdown2pdf --custom-header=header_%s.template --toc -o IE_%s.pdf %s" % (lang, lang, files)
