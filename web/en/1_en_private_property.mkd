@@ -1,9 +1,9 @@
-% title: The Ethics and Economics of Private Property
-% author: Hans-Hermann Hoppe
-% date: 2004
+% Imaginary Property
+% Hans-Hermann Hoppe, Stephan Kinsella
+% 2001, 2004
 
-I. The Problem of Social Order
-------------------------------
+The Problem of Social Order
+===========================
 
 Alone on his island, Robinson Crusoe can do whatever he pleases. For
 him, the question concerning rules of orderly human conduct - social
@@ -35,8 +35,8 @@ rules that regulate not only the use of personal bodies but also of
 This is the problem of social order.
 
 
-II. The Solution: Private Property and Original Appropriation
--------------------------------------------------------------
+The Solution: Private Property and Original Appropriation
+=========================================================
 
 In the history of social and political thought, various proposals have
 been advanced as a solution to the problem of social order, and this
@@ -277,8 +277,8 @@ time and space.[^4]
     property is acquired by acts of original appropriation (instead of
     by mere declarations or words of late-comers).  
 
-III. Misconceptions and Clarifications
---------------------------------------
+Misconceptions and Clarifications
+=================================
 
 According to this understanding of private property, property ownership
 means the exclusive control of a particular person over specific
@@ -382,8 +382,8 @@ has not yet discovered or appropriated through physical action. This
 means that no one is permitted become the first user of a previously
 undiscovered and unappropriated physical entity.
 
-IV. The Economics of Private Property
--------------------------------------
+The Economics of Private Property
+=================================
 
 The idea of private property not only agrees with our moral intuitions
 and is the sole just solution to the problem of social order; the
@@ -478,8 +478,8 @@ encouraged, and insofar as they use their goods "productively" at all,
 the likelihood of misallocations, miscalculation, and economic loss is
 systematically increased.
 
-V. The Classic Pedigree
------------------------
+The Classic Pedigree
+====================
 
 As noted at the outset, the ethics and economics of private property
 presented above does not claim originality. Rather, it is a modern
@@ -578,8 +578,8 @@ systematic reconstruction and conceptual integration of modern,
 marginalist economics and natural-law political philosophy into a
 unified moral science: libertarianism.
 
-V. Chicago Diversions
----------------------
+Chicago Diversions
+==================
 
 At the time when Rothbard was restoring the concept of private property
 to its central position in economics and reintegrating economics with

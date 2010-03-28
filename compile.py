@@ -10,23 +10,27 @@ config = SafeConfigParser()
 config.readfp(open(METAFILE_DEFAULT))
 config.read(METAFILE)
 
-def filelist():
-    files = os.listdir(".")
+def filelist(lang):
+    files = os.listdir("web/" + lang)
     files = filter(lambda f: f.endswith(".mkd"), files)
+    files = [os.path.join("web", lang, f) for f in files]
     files.sort()
     return files
 
-files = " ".join(filelist())
+def compile(lang):
+    files = " ".join(filelist(lang))
 
-refname     = config.get("info", "refname")
+    db_cmd = "pandoc -s -S -w docbook -o web/%s/out.db %s" % (lang, files)
+    html_cmd = "xmlto xhtml web/%s/out.db -o web/%s/html" % (lang, lang)
 
-title       = config.get("info", "title")
-subtitle    = config.get("info", "subtitle")
-authors     = config.get("info", "authors").split(",")
-contribs    = config.get("info", "contributors").split(",")
+    tex_cmd = "pandoc --custom-header=web/%s/header.tex.tmpl -s -S --toc -o web/%s/%s.tex %s" % (lang, lang, lang, files)
+    pdf_cmd = "pdflatex -output-directory web/%s web/%s/%s.tex" % (lang, lang, lang)
 
-html_cmd = "pandoc --toc -o web/%s.html %s" % (refname, files)
-os.system(html_cmd)
+    #os.system(db_cmd)
+    os.system(html_cmd)
+    #os.system(tex_cmd)
+    os.system(pdf_cmd)
+    os.system(pdf_cmd) #2nd time for toc
 
-#pdf_cmd = "markdown2pdf --custom-header=header_%s.template --toc -o IE_%s.pdf %s" % (lang, lang, files)
-#os.system(pdf_cmd)
+#compile("de")
+compile("en")

@@ -1,11 +1,6 @@
-% projectcode: ie
-% 
-% title: Imaginäres Eigentum
-% subtitle: Naturrechtliche Kritik am Geistigen "Eigentum"
-% authors: Hans-Hermann Hoppe, Stephan Kinsella
-% contributors: Manuel Barkhau (Übersetzer)
-% date:2010
-
+% Imaginäres Eigentum
+% Stephan Kinsella, Hans-Hermann Hoppe, Manuel Barkhau (Übersetzer)
+% Februar 2010
 
 Vorwort
 =======

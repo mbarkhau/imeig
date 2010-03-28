@@ -1,8 +1,4 @@
-% title: Against Intellectual Property
-% author: Stephan Kinsella
-% date: 2001
-
-PROPERTY RIGHTS: TANGIBLE AND INTANGIBLE
+Property Rights: Tangible And Intangible
 ========================================
 
 All libertarians favor property rights, and agree that property rights
@@ -78,7 +74,7 @@ such rights? Below, I summarize current U.S. law on intellectual
 property rights. I then survey various libertarian views on IP rights,
 and present what I consider to be the proper view.
 
-SUMMARY OF IP LAW
+Summary of IP Law
 =================
 
 Types of IP
@@ -375,7 +371,7 @@ transfer partial ownership of tangible property from its natural owner
 to innovators, inventors, and artists.
 
 
-LIBERTARIAN PERSPECTIVES ON IP
+Libertarian Perspectives On IP
 ==============================
 
 The Spectrum
@@ -895,7 +891,7 @@ emphasis on "creation," instead of scarcity, as giving rise to property
 rights, as discussed below.
 
 
-IP AND PROPERTY RIGHTS
+IP And Property Rights
 ======================
 
 Property and Scarcity
@@ -1577,7 +1573,7 @@ the proponent of IP opposes the unadulterated right to homestead and own
 private property.
 
 
-IP AS CONTRACT
+IP as Contract
 ==============
 
 The Limits of Contract
@@ -2077,7 +2073,7 @@ opposition to "scalping" and arbitrage. There is, of course, nothing
 wrong with being the first to acquire a domain name and thereafter
 selling it to the highest bidder.
 
-CONCLUSION
+Conclusion
 ==========
 
 We see, then, that a system of property rights in "ideal objects"
@@ -2102,7 +2098,7 @@ homesteaded scarce resources.
 APPENDIX
 ========
 
-SOME QUESTIONABLE EXAMPLES OF PATENTS AND COPYRIGHTS
+Some Questionable Examples of Patents and Copyrights
 ----------------------------------------------------
 
 Some exemplary U.S. patents:[^95]
