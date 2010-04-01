@@ -37,7 +37,7 @@ def post_process(meta):
 
             if meta.has_key("author"):
                 authors = meta["author"].split(",")
-                res.append("\\author{\\Large " + "\\\\".join(authors) + "}\n")
+                res.append("\\author{\\Large " + "\\\\ \\Large ".join(authors) + "}\n")
             if meta.has_key("date"):
                 res.append("\\date{" + meta["date"] + "}\n")
             new_lines.append("".join(res))

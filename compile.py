@@ -2,6 +2,7 @@
 
 import os 
 import texproc
+import docbookproc as dbproc
 import metadata
 
 def filelist(basepath="."):
@@ -30,18 +31,14 @@ def tex_cmd(files):
     return "pandoc -C %s -s -S --toc -o %s %s" % args
 
 def pdf_cmd():
-    return "pdflatex -interaction batchmode out.tex"
-
-def post_proc_db():
-    """ Post processing for DocBook File (adds title/author/chapter)"""
-    pass
+    return "pdflatex out.tex"
 
 def compile():
     meta = metadata.compile()
 
     files = filelist()
     #os.system(db_cmd(files))
-    #post_proc_db(meta)
+    #dbproc.post_proc(meta)
     #os.system(html_cmd())
     os.system(tex_cmd(files))
     texproc.post_process(meta)
