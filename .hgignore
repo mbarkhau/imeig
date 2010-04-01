@@ -4,4 +4,6 @@ contrib
 *.pdf
 *.html
 *.swp
+*.swo
 *~
+*.pyc

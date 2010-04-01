@@ -1,36 +1,51 @@
 #!/usr/bin/python2.5
 
 import os 
-from ConfigParser import SafeConfigParser
+import texproc
+import metadata
 
-METAFILE_DEFAULT = "metadata.defaults"
-METAFILE = "metadata"
-
-config = SafeConfigParser()
-config.readfp(open(METAFILE_DEFAULT))
-config.read(METAFILE)
-
-def filelist(lang):
-    files = os.listdir("web/" + lang)
+def filelist(basepath="."):
+    basepath = os.path.abspath(basepath)
+    files = []
+    for path, dirs, dirfiles in os.walk(basepath):
+        for f in dirfiles:
+            files.append(os.path.join(path, f))
     files = filter(lambda f: f.endswith(".mkd"), files)
-    files = [os.path.join("web", lang, f) for f in files]
     files.sort()
     return files
 
-def compile(lang):
-    files = " ".join(filelist(lang))
+def db_cmd(files):
+    """ DocBook Command """
+    files_param = " ".join(files)
+    return "pandoc -s -S -w docbook -o out.db %s" % files_param
 
-    db_cmd = "pandoc -s -S -w docbook -o web/%s/out.db %s" % (lang, files)
-    html_cmd = "xmlto xhtml web/%s/out.db -o web/%s/html" % (lang, lang)
+def html_cmd():
+    return "xmlto xhtml %s -o %s" % ("out.db", "html")
 
-    tex_cmd = "pandoc --custom-header=web/%s/header.tex.tmpl -s -S --toc -o web/%s/%s.tex %s" % (lang, lang, lang, files)
-    pdf_cmd = "pdflatex -output-directory web/%s web/%s/%s.tex" % (lang, lang, lang)
+def tex_cmd(files):
+    files_param = " ".join(files)
+    tmpl_path = "header.tex.tmpl"
+    out_path = "out.tex"
+    args = (tmpl_path, out_path, files_param)
+    return "pandoc -C %s -s -S --toc -o %s %s" % args
 
-    #os.system(db_cmd)
-    os.system(html_cmd)
-    #os.system(tex_cmd)
-    os.system(pdf_cmd)
-    os.system(pdf_cmd) #2nd time for toc
+def pdf_cmd():
+    return "pdflatex -interaction batchmode out.tex"
 
-#compile("de")
-compile("en")
+def post_proc_db():
+    """ Post processing for DocBook File (adds title/author/chapter)"""
+    pass
+
+def compile():
+    meta = metadata.compile()
+
+    files = filelist()
+    #os.system(db_cmd(files))
+    #post_proc_db(meta)
+    #os.system(html_cmd())
+    os.system(tex_cmd(files))
+    texproc.post_process(meta)
+    os.system(pdf_cmd())
+    os.system(pdf_cmd()) #2nd time for toc
+
+compile()

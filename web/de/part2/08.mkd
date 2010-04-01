@@ -1,0 +1,330 @@
+Gesetze zum Geistigen Eigentum
+==============================
+
+
+Die Arten Geistigen Eigentums
+-----------------------------
+
+Das Konzept des geistigen Eigentums umfasst mehrere gesetzlich geregelte
+Rechte, die sich auf intellektuelle Schöpfungen beziehen oder auf eine
+andere Art mit Ideen zu tun haben.[^31] Rechte an g.E. sind Rechte an
+nicht greifbare Dinge[^32]—also an *Ideen* die man niederschreibt
+(Urheberrecht), oder solche die sich in der Implementierung eines
+praktischen Gegenstands ausdrücken (Patente). Tom Palmer drückt es
+folgendermaßen aus: "Rechte an geistiges Eigentum sind Rechte an
+idealisierte Objekte, die von der Materiellen Welt losgelöst sind worin
+sie ihren Ausdruck finden."[^33] In den heutigen Rechtssystemen umfasst
+geistiges Eigentum mindestens das Urheberrecht, Marktrechte, Patente,
+sowie Geschäftsgeheimnisse.[^34]
+
+[^31]: In manchen Teilen Europas verwendet man auch den Begriff
+    "industrielles Eigentum" anstatt "geistiges Eigentum".
+
+[^32]: 
+    *De La Vergne Refrigerating Mach. Co. v Featherstone*, 147 U.S. 209,
+    222, 13 S.Ct. 283, 285 (1893).
+
+[^33]: Tom G. Palmer, "Are Patents and Copyrights Morally Justified? The 
+    Philosophy of Property Rights and Ideal Objects," in "Symposium:
+    Intellectual Property," *Harvard Journal of Law \& Public Policy* 13, 
+    no. 3 (Summer 1990): 818.
+
+    Es gibt auch die Anmerkung, "eine Auffassung von geistigem Eigentum
+    ist, das Recht an neuen Ideen, die sich in konkreten Produkte geistiger
+    Anstrengung ausdrücken". Dale A. Nance, "Foreword: Owning Ideas," in
+    "Symposium: Intellectual Property," *Harvard Journal of Law \& Public
+    Policy* 13, no. 3 (Summer 1990): 757.
+
+[^34]: Eine nützliche Einführung zum Thema geistiges Eigentum schrieben
+    Arthur R. Miller und Michael H. Davis, *Intellectual Property:
+    Patents, Trademarks, and Copyrights in a Nutshell, 2nd ed.* (St.
+    Paul, Minn.: West Publishing, 1990); siehe auch "Patent, Trademark,
+    and Trade Secret", http://profs.lp.findlaw.com/patents/index.html. 
+
+    Eine gute Einführung zum Patentrecht schrieb Ronald B. Hildreth, 
+    *Patent Law: A Practitioner’s Guide*, 3rd ed. (New York: Practising
+    Law Institute, 1998).
+
+    Eingehendere Behandlungen zur Rechtslage um geistiges Eigentum sind
+    unter anderem Donald S. Chisum, *Chisum on Patents* (New York: 
+    Matthew Bender, 2000); Melville B. Nimmer und David Nimmer, *Nimmer
+    on Copyright* (New York: Matthew Bender, 2000); Paul Goldstein, 
+    *Copyright: Principles, Law, and Practice* (Boston: Little, Brown,
+    1989); J. Thomas McCarthy, *McCarthy on Trademarks and Unfair
+    Competition,* 4th ed. (St. Paul, Minn.: West Group, 1996); und Roger 
+    M.  Milgrim, *Milgrim on Trade Secrets* (New York: Matthew Bender,
+    2000).
+
+    Hilfreiche Information und Broschüre bekommt man auch vom
+    United States Copyright Office, http://lcweb.loc.gov/copyright,
+    sowie vom Patent and Trademark Office of the Department of 
+    Commerce, http://www.uspto.gov. Weitere nützliche Webseiten sind im
+    Anhang und der Bibliographie zu finden.
+
+
+Urheberrecht
+------------
+
+Das Urheberrecht wird den Authoren von "originären Werken" wie
+beispielsweise Bücher, Artikel, Filme oder Quellcode gewährt. Mit
+dem Urheberrecht wird dem Author das exklusive Recht gewährt über die
+Vervielfältigung, die Anfertigung abgeleiteter Werke sowie die 
+Aufführung seiner Werke zu bestimmen.[^35] Das Urheberrecht schützt
+ausschließlich den *Ausdruck* bzw. die *Wiedergabe* von Ideen, nicht 
+die zugrundeliegenden Ideen selbst.[^36]
+
+[^35]: 17 USC §§ 101, 106 et pass.
+
+[^36]: Das Urheberrecht aus dem Common Law, gewährte automatisch mit der
+    Erstellung eines Werks ein Urheberrecht. Es beschränkte sich jedoch
+    im Wesentlichen auf die Gewährung des Rechts an der Erstauflage und 
+    ist weitestgehend vom heutigen Urheberrecht ersetzt worden.
+    Goldstein, *Copyright*, §§ 15.4 et seq.
+
+Man kann sich gewisse rechtliche Vorteile sichern, indem man sein
+Urheberrecht anmeldet, das ist jedoch keine Voraussetzung für das
+Urheberrecht. Das Urheberrecht entsteht vielmehr, sobald das Werk in ein
+"greifbares Medium fixiert wurde" und gilt für die Lebensdauer des
+Autors plus weitere 75 Jahre, bzw. insgesamt 95 Jahre im Fall, dass ein
+Arbeitgeber das Urheberrecht besitzt.[^37]
+
+[^37]: 17 USC § 302. Die Dauer des Urheberrechts wurde kürzlich in 
+    einer Gesetzesänderung um 20 Jahre verlängert worden. siehe HR
+    2589, *Sonny Bono Copyright Term Extension Act/Fairness in Music
+    Licensing Act of 1998*.
+
+
+Patent
+------
+
+Ein Patent ist ein Eigentumsrecht an eine Erfindung, also an ein Gerät
+oder Prozess, dass eine "nützliche" Funktion erfüllt.[^38] Eine
+neue oder verbesserte Mausefalle ist ein Beispiel für ein Gerät worauf
+man ein Patent bekommen kann. Im wesentlichen gewährt ein Patent dem
+Erfinder ein eingeschränktes Monopol im Bezug auf die Fertigung,
+Nutzung sowie dem Verkauf seiner Erfindung. Tatsächlich gewährt ein
+Patent dem Erfinder jedoch nur das Recht andere auszuschließen (er kann
+also andere daran *hindern* die Erfindung zu Nutzen); es erlaubt ihm
+jedoch nicht die Erfindung tatsächlich zu *nutzen*.[^39]
+
+[^38]: 35 USC § 1 et seq.; 37 CFR Part 1.
+
+[^39]: Stellen wir uns vor *A* erfindet eine bessere Mausefalle und
+    lässt sie patentieren. Die Falle verwendet Nitinol (eine 
+    Formgedächtnis-Legierungen) zum besseren zuschnappen. Nun erfindet
+    *B* eine Mausefalle mit einer Nitinol Feder und einem 
+    Antihaft-Überzug, damit sich die Überreste der Mäuse leichter
+    entfernen lassen und das Nitinol getriebene Zuschnappen erhalten
+    bleibt. *B* muss eine Mausefalle mit Nitinol haben um seine
+    Erfindung nutzen zu können, das würde jedoch das Patent von *A*
+    verletzen. *A* kann ebensowenig einen Antihaft-Überzug auf seine
+    Falle implementieren, ohne das Patent von *B* zu verletzen. In solch
+    einem Fall, können die beiden Patentinhaber sich gegenseitig ihre
+    Patente gewähren, sodass *A* die Verbesserung von *B* verwenden kann
+    und *B* seine eigene Erfindung nutzen kann.
+
+Nicht jede Innovation oder Entdeckung kann patentiert werden. Der
+Oberste Gerichtshof der Vereinigten Staaten hat beispielsweise drei
+Bereiche festgemacht, in denen keine Patente gewährt werden können,
+nämlich "natürliche Gesetze, natürliche Phänomene und abstrakte
+Ideen"[^40]. Sofern man abstrakte Ideen auf eine "praktische
+Verwendung", bzw. auf ein "nützliches, konkretes und greifbares
+Ergebnis"[^41] reduziert, können Patente darauf gewährt werden. Seit
+dem 8 Juni 1995 werden U.S. Patente für eine Dauer von 20 Jahren nach
+dem einreichen des Antrags gewährt[^42] (davor galt eine Dauer von 17
+Jahren nach der Gewährung des Patents).
+
+[^40]: 
+    *Diamond v Diehr*, 450 US 175, 185 (1981); siehe auch 35 USC § 101.
+
+[^41]: 
+    *In re Alappat*, 33 F3d 1526, 1544, 31 USPQ2d 1545, 1557 (Fed Cir
+    1994) (in banc). Siehe auch *State Street Bank &amp; Trust Co. v
+    Signature Financial Group*, 149 F3d 1368 (Fed Cir 1998).
+
+[^42]: 35 USC § 154(a)(2).
+
+
+Geschäftsgeheimnis
+------------------
+
+Geschäftsgeheimnisse sind Rezepte, Geräte oder Informationen, die
+ein Vorteil gegenüber der Konkurrenz darstellen, zumindest
+solange sie geheim bleiben.[^43] Das Rezept für Coca-Cola® wäre ein
+Beispiel. Ein Geschäftsgeheimnis kann eine Information sein, dass keinen
+hinreichend großen Fortschritt darstellt, um ein Patent zu rechtfertigen
+oder nicht originär genug ist um durch das Urheberrecht geschützt zu
+werden (bspw. eine Datenbank mit Seismologischen Daten oder eine
+Kundenkartei). Gesetze zum Geschäftsgeheimnis bestehen um die
+"Entwendung" dieser Geheimnisse zu verhindern, bzw. sie Regeln die
+Entschädigung, sollte es doch zur Entwendung kommen.[^44]
+Geschäftsgeheimnisse werden durch die Staaten geschützt, auch
+wenn vor kurzem Gesetze auf Bundesebene erlassen wurden, die den
+Diebstahl von Geschäftsgeheimnissen verhindern sollen.[^45]
+
+[^43]: Siehe z.B. R. Mark Halligan, esq., "Restatement of the Third
+    Law—Unfair Competition: A Brief Summary," §§ 39–45,
+    http://execpc.com/~mhallign/unfair.html; siehe auch *Uniform Trade
+    Secrets Act* (UTSA), http://nsi.org/Library/Espionage/usta.htm.
+
+[^44]: Siehe *Uniform Trade Secrets Act* (UTSA).
+
+[^45]:
+    *Economic Espionage Act of 1996*, 18 USC §§ 1831–39.
+
+Geschäftsgeheimnisse kann man schützen indem man erklärt, dass es
+sich bei den Einzelheiten zu einem Thema um ein Geheimnis handelt.
+Theoretisch kann ein Geschäftsgeheimnis unbeschränkt fortbestehen, auch
+wenn es durch Offenlegung, Nachahmung oder unabhängige Entwicklung 
+zunichte gemacht werden kann. Geschäftsgeheimnisse können geheime
+Informationen und Prozesse schützen, wie bspw. Datensammlungen oder
+Landkarten die nicht durch das Urheberrecht geschützt werden können. Es
+kann auch verwendet werden, um den Quellcode von Software zu schützen,
+dass nicht durch Patente geschützt werden kann. Sich auf den Schutz des
+Geschäftsgeheimnisses zu verlassen hat einen Nachteil, nämlich dass die
+Konkurrenz es eigenständig Entwickeln kann, auf das Gerät oder
+den Prozess ein Patent bekommen kann und den ursprünglichen Erfinder
+(träger des Geschäftsgeheimnisses) daran hindern kann es zu nutzen.
+
+
+Markenzeichen
+-------------
+
+Bei einem Markenzeichen handelt es sich um ein Wort, Ausdruck, Symbol
+oder Design, dass benutzt wird um die Waren und Dienstleistungen eines
+Herstellers zu *identifizieren*, bzw. sie von den Waren und
+Dienstleistungen anderer Hersteller zu unterscheiden. Coca-Cola® hat
+beispielsweise, auf ihren Dosen ein Zeichen und eine Gestaltung um sie
+als Produkte dieses Herstellers zu identifizieren und um sie von der
+Konkurrenz wie Pepsi® zu unterscheiden. Das Markenrecht dient vorrangig
+dazu, Konkurrenten daran zu hindern ein Markenzeichen zu "verletzen",
+also "verwirrend ähnliche" Zeichen zu verwenden um ihre eigenen Produkte
+und Dienstleistungen zu kennzeichnen. Anders als beim Urheber- und
+Patentrecht, können Markenrechte unbeschränkt fortbestehen, solange der
+Besitzer sie weiterhin verwendet. Die Registrierung von einem
+Markenzeichen auf Bundesebene ist 10 Jahre gültig und kann vor Ablauf um
+weitere 10 Jahre verlängert werden.[^46]
+
+[^46]: 15 USC § 1501 *et seq*.; 37 CFR Part 2.
+
+Das Markenrecht umfasst auch den Schutz weiterer verwandter Rechte unter
+anderem zum Schutz vor Verwässerung eines Markenzeichens[^47],
+der Besetzung von Domainnamen[^48], und diverse Ansprüche
+gegen "unfairen Wettbewerb". Geistiges Eigentum umfasst auch relativ
+neue gesetzliche Innovationen wie den Schutz der Masken zur
+Halbleiter Herstellung[^49], ein *sui generis* Recht ähnlich
+dem Urheberrecht. Weitere Beispiele sind der Schutz von Entwürfe für den
+Bau von Schiffen[^50], und das vorgeschlagene *sui generis* Recht
+an Datenbanken, bzw. Sammlungen von Informationen.[^51]
+
+[^47]: 15 USC §§ 1125(c), 1127.
+
+[^48]: 15 USC § 1125(d); *Anticybersquatting Consumer Protection Act*,
+    PL 106–113 (1999); HR 3194, S1948.
+
+[^49]: Siehe 17 USC § 901 et seq.
+
+[^50]: Siehe 17 USC § 1301 et seq.
+
+[^51]: Siehe z.B. HR 354 (introduced 1/19/1999), *Collections of
+    Information Antipiracy Act*. Siehe auch Jane C. Ginsburg, "Copyright,
+    Common Law, and *Sui Generis* Protection of Databases in the United
+    States and Abroad," *University of Cincinnati Law Review* 66 (1997):
+    151.
+
+In den USA werden Urheberrechte und Patente fast ausschließlich auf
+Bundesebene geregelt, da ihre Verfassung dem US Kongress die Macht
+erteilt "den Fortschritt in Wissenschaft und Handwerk zu
+fördern".[^52] Trotz der Grundlage vom Urheber- und Patentrecht auf
+Bundesebene, werden verschiedene Aspekte davon durch Gesetze der
+Bundesstaaten geregelt, wie bspw. die Zuweisung des *Inhabers* von einem
+Patent. Diese Gesetze sind von Staat zu Staat aber trotzdem sehr
+ähnlich[^53]. Im Gegensatz dazu, sind Markenrechte nicht explizit durch
+die Verfassung genehmigt, sondern basieren auf auf dem "Interstate Commerce
+Clause", sodass es nur Waren und Dienstleistungen betrifft die
+zwischen den Bundesstaaten gehandelt werden[^54]. Die Markenrechte der
+einzelnen Bundesstaaten bestehen zwar noch, da sie nicht auf Bundesebene
+aufgehoben wurden, in der Praxis sind die auf Bundesebene erteilten Rechte
+jedoch wichtiger und leichter durchzusetzen. Im Allgemeinen werden
+Geschäftsgeheimnisse durch Gesetze der einzelnen Bundesstaaten geregelt
+und nicht durch den Bund.[^55]
+
+[^52]: U.S. Cons., Art I, § 8; *Kewanee Oil Co. v. Bicron Corp*., 415 US
+    470, 479, 94 S.Ct.  1879, 1885 (1974).
+
+[^53]: Siehe Paul C. van Slyke und Mark M. Friedman, "Employer's Rights to
+    Inventions and Patents of Its Officers, Directors, and Employees,"
+    *AIPLA Quarterly Journal* 18 (1990): 127; sowie *Chisum on Patents*, §
+    22.03; 17 USC §§ 101, 201.
+
+[^54]: U.S. Constitution, art. 1, sec. 8, clause 3; *Wickard v Filburn*,
+    317 US 111, 63 S. Ct. 82 (1942).
+
+[^55]: Siehe *Economic Espionage Act of 1996*, 18 USC §§ 1831–39.
+
+Viele Laien, auch Libertäre, haben oft ein schlechtes Verständnis der
+Konzepte und Gesetze zum g.E. und unterscheiden nicht immer zwischen
+Urheberrecht, Markenrecht und Patentrecht.  Viele sind fälschlicherweise
+der Auffassung, dass im Rechtssystem der U.S.A. derjenige der als erster
+den Pantentantrag im Patentbüro einreicht den Vorzug vor jemand hat, der
+seinen Antrag später einreicht. Tatsächlich werden Patente aber an
+denjenigen vergeben der als erstes die Erfindung gemacht hat, während
+viele andere Länder Patente demjenigen mit dem früheren Antragsdatum
+gewähren.[^56]
+
+[^56]: Ayn Rand nimmt fälschlicherweise an, dass derjenige mit einem
+    früheren Antrag den Vorzug bekommen sollte (und bemüht sich dann
+    solch ein System zu verteidigen). Siehe Ayn Rand, "Patents and
+    Copyrights," in *Capitalism: The Unknown Ideal* (New York: New
+    American Library, 1967), p. 133. 
+
+    Überraschend ist auch ihre Verteidugung der strikten Überwachung 
+    auf Monopolbildung die Patentträger ausgesetzt sind. Da Patente
+    jedoch von Regierungen gewährte Monopole darstellen, ist es durchaus
+    angebracht die Gesetzgebung zur Verhinderung von Monopole anzuwenden
+    um die Ausweitung des
+    Monopols über die vom Patentgesetz beabsichtigten Grenzen hinaus zu
+    verhindern. Das Problem mit der Kartellgesetzgebung ist seine
+    Anwendung auf den normalen, friedlichen Geschäftsbetrieb, nicht die
+    Beschränkung echter–d.h. von Regierungen gewährte Monopole.
+    Ähnlich kann man auch im Bezug auf Bill Gates argumentieren, dessen
+    Reichtum weitestgehend durch ein im Urheberrecht inhärentes Monopol
+    begründet ist, welches von Regierungen gewährt wurde. Darüber hinaus,
+    da Bill Gates kein Libertärer ist und sicherlich nicht an der
+    Legitimität der Kartellgesetzgebung zweifelt, wäre jedes Mitleid
+    über sein selbst herbeigeführtes Schicksal fehl am Platz.
+
+
+Das Verhältnis vom Geistigen zum Greifbaren Eigentum
+----------------------------------------------------
+
+Wie zuvor erwähnt können wir geistiges Eigentum, zumindest was Patente
+und das Urheberrecht anbelangt, als Rechte an ideelle Objekte
+betrachten. Dabei sollte man unbedingt beachten, dass das Eigentum an
+einer Idee, bzw. an einem ideellen Objekt dem Besitzer letztendlich Rechte
+auf *jede* physikalische Verkörperung dieser Idee einräumt. Betrachten wir
+den Fall von einem urheberrechtlich geschützten Buch. Der Urheber *A* hat
+ein Recht an das zugrundeliegende ideelle Objekt, wovon das Buch bloß
+ein Exemplar ist. Das Urheberrecht gibt *A* das Recht an der *Anordnung*
+der Wörter im Buch; woraus folgt, dass *A* das Recht an *jede*
+physikalische Kopie oder Verkörperung des Buches, bzw. zumindest an jedes
+Buch innerhalb der Jurisdiktion die dieses Urheberrecht anerkannt.
+
+Wenn *A* also ein Roman schreibt, hat er das Urheberrecht an diesem
+"Werk". Wenn er eine physikalische Kopie des Romans in der Form eines
+Buches an *B* verkauft, hat *B* bloß diese eine Kopie des Romans
+erworben; *B* hat nicht das "Roman" selbst erworben und hat kein Recht
+eine Kopie davon anzufertigen, selbst wenn er sein eigenes Papier und
+seine eigene Tinte verwendet. Selbst wenn *B* greifbares Eigentum in
+Form von Papier, Tinte und Drucker besitzt, darf er demnach mit seinem
+eigenen Eigentum keine weitere Kopie des Buches von *A* anfertigen.
+Dieses Recht ist dem *Urheber* vorbehalten (deswegen "Urheberrecht").
+
+Analog hat der Besitzer *A* von einem Patent, das Recht dritte daran zu
+hindern die patentierte Erfindung zu nutzen oder auszuüben, selbst wenn
+der Dritte ausschließlich sein eigenes Eigentum verwendet. Auf diese Art
+wird *A* durch das Eigentum an einem ideellen Objekt ein eingeschränktes
+Verfügungsrecht eingeräumt–bzw. wird zum Miteigentümer–an das greifbare
+Eigentum unzähliger anderer. Patente und Urheberrechte führen
+unweigerlich dazu, dass das Eigentum von seinem natürlichen Besitzer an
+Erfinder, Entwickler und Künstler übertragen wird.
