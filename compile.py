@@ -1,6 +1,6 @@
 #!/usr/bin/python2.5
 
-import os 
+import os, time
 import texproc
 import docbookproc as dbproc
 import metadata
@@ -37,12 +37,12 @@ def compile():
     meta = metadata.compile()
 
     files = filelist()
-    #os.system(db_cmd(files))
-    #dbproc.post_proc(meta)
-    #os.system(html_cmd())
-    os.system(tex_cmd(files))
-    texproc.post_process(meta)
-    os.system(pdf_cmd())
-    os.system(pdf_cmd()) #2nd time for toc
+    os.system(db_cmd(files))
+    dbproc.post_proc(meta)
+    os.system(html_cmd())
+    #os.system(tex_cmd(files))
+    #texproc.post_process(meta)
+    #os.system(pdf_cmd())
+    #os.system(pdf_cmd()) #2nd time for toc
 
 compile()
