@@ -7,7 +7,7 @@ geschrieben und mittlerweile lässt sich in libertären Kreisen kaum eine
 Unterhaltung zum Thema geistiges Eigentum führen, ohne auf diesen
 Artikel zu verweisen. Ich freue mich mit diesem Buch den Artikel auch in
 deutscher Sprache zur Verfügung zu stellen, denn auch in Deutschland
-wird immer häufiger vor allem das Urheberrecht in Frage gestellt und zur
+wird immer häufiger vor allem das Urheberrecht in Frage gestellt. Zur
 Untermauerung dieser Position, ist die Lektüre von diesem Buch
 unerlässlich.
 
@@ -20,9 +20,10 @@ Kulturen beobachtet, sagt folgendes dazu:
 > Das Problem ist eine bestimmte Architektur der Gesetzgebung zum
 > Urheberrecht–die Art wie diese Architektur in der
 > Informationsgesellschaft angewandt wird. Jede sinnvolle und
-> vernünftige Reaktion auf die rasante Ausbreitung digitaler Technologie
-> konfrontiert mit dieser veralteten Architektur, wäre sie zu ändern–zu
-> aktualisieren, sie ins einundzwanzigste Jahrhundert zu bringen[^1]
+> vernünftige Reaktion auf die rasante Ausbreitung digitaler
+> Technologie, konfrontiert mit dieser veralteten Architektur, wäre sie
+> zu ändern–zu aktualisieren, sie ins einundzwanzigste Jahrhundert zu
+> bringen[^1]
 
 [^1]: Stanford Report, August 23, 2006 *Law professor and copyright
     expert lets ideas percolate at Breakfast Briefing*
@@ -30,35 +31,36 @@ Kulturen beobachtet, sagt folgendes dazu:
 
 Prof. Lessig hat sicherlich Recht, dass die derzeitige Gesetzgebung
 verändert werden muss. Das beschränkt sich jedoch nicht nur auf das
-Urheberrecht, sondern gilt auch für das Patentrecht, welches seit seiner
-Entstehung auf solch fragwürdige Gebiete ausgeweitet wurde, wie die
-Softwareentwicklung, Gensequenzen und sogar Geschäftspraktiken[^2]. Es
-entsteht eine Situation bei der sich Firmen nie sicher sein können,
+Urheberrecht, sondern gilt auch für das Patentrecht. Dieses ist seit
+seiner Entstehung auf solch fragwürdige Gebiete ausgeweitet worden, wie
+die Softwareentwicklung, Gensequenzen und sogar Geschäftspraktiken[^2].
+Es entsteht eine Situation bei der sich Firmen nie sicher sein können,
 vielleicht gerade ein Patent zu verletzen und somit andauernd Gefahr
 laufen verklagt zu werden. Eine Situation in der man sich nicht sicher
 sein kann rechtmäßig zu handeln, in der man andauernd einer scheinbar
 willkürlichen "Ordnung" ausgesetzt ist, kann in Grenzen als tyrannisch
-bezeichnet werden. Ein Pharmaunternehmen kann sich nicht sicher sein,
-dass die Forscher in ihre Labore nicht gerade etwas entwickel was die
-Patente eines Konkurrenten verletzt und muss sich alleine schon zur
-Verteidigung in einem möglichen "Patentkrieg". Rechtmäßig zu handeln ist
-in dieser Situation praktisch nur für Großunternehmen möglich, da nur
-diese sich die Anwälte leisten können um herauszufinden was rechtmäßig
-ist.
+bezeichnet werden. Ein Pharmaunternehmen kann sich nicht sicher sein, ob
+ihre Forscher nicht gerade etwas entwickeln was die Patente eines
+Konkurrenten verletzt. Sie sind gezwungen zur Anheuerung von
+Rechtsbeistand, sei es auch nur zur Verteidigung in einem möglichen
+"Patentkrieg". Rechtmäßig zu handeln ist in dieser Situation praktisch
+nur für Großunternehmen möglich, da nur diese sich die Anwälte leisten
+können um herauszufinden was rechtmäßig ist.
 
 [^2]: Vergleiche hierzu die zum Teil absurden Patente im Anhang.
 
 Die sich im Internet entwickelnde "Remix" Kultur kann sich schon
-Prinzipbedingt nicht an geltende Gesetzgebung halten, werden unter damit
-implizit zu Kriminelle. Wenn diese Kulturschaffenden nicht der Ansicht
-sind, dass sie einen Rechtsbruch begehen und diese Ansicht in der
-Gesellschaft weite Akzeptanz findet, hat das schwerwiegende Folgen für
-das Verhältnis zwischen Bürgern und Gesetzgebung. So Lessig:
+Prinzipbedingt nicht an geltende Gesetzgebung halten und die Teilnehmer
+an diese Kultur werden dadurch implizit zu Kriminelle. Wenn diese
+Kulturschaffenden nicht der Ansicht sind, dass sie einen Rechtsbruch
+begehen und diese Ansicht in der Gesellschaft weite Akzeptanz findet,
+hat das schwerwiegende Folgen für das Verhältnis zwischen Bürgern und
+Gesetzgebung. So Lessig:
 
 > Die Frage die wir, als verantwortungsbewusste Mitglieder einer
 > Demokratie, stellen müssen ist ob dieser Krieg gut ist der unsere
 > Kinder kriminalisiert. Wir leben in einer Zeit der Verbote, in der wir
-> unser leben zunehmend unter Missachtung der Gesetzgebung leben ... Wir
+> unser Leben zunehmend unter Missachtung der Gesetzgebung leben ... Wir
 > müssen uns bewusst werden, welch korrosive Wirkung diese Praxis
 > hat.[^3]
 
@@ -85,14 +87,15 @@ ethisch Grundlage finden lässt, dann ist die fragwürdige
 Entstehungsgeschichte des Urheberrechts zwar aufschlussreich, jedoch
 zweitrangig. Ebenso können die Interessen diverser gesellschaftlicher
 Gruppen nur gegeneinander aufgewogen werden, wenn es sich dabei um
-Rechtmäßige Interessen handeln.
+Rechtmäßige Interessen handelt.
 
 Betrachten wir z.B. die in Europa auf politischer Ebene wohl
 vehementesten Befürworter für eine Reform der Gesetze zum g.E., die
 Piratenparteien. Keine von ihnen geht so weit sie völlig abschaffen zu
-wollen, da ihre Kritik keine Prinzipielle ist, sondern eine Abwägung
-zwischen den Interessen der Urheber und aus ihrer Sicht wesentlich
-wichtigere gesellschaftliche Interessen:
+wollen. Dies ist auch nicht weiter verwunderlich, schließlich ist ihre
+Kritik keine Prinzipielle, sondern das Ergebnis einer Abwägung zwischen
+den Interessen der Urheber und aus ihrer Sicht wesentlich wichtigere
+gesellschaftliche Interessen:
 
 > Systeme, welche auf einer technischen Ebene die Vervielfältigung von
 > Werken be- oder verhindern ("Kopierschutz", "DRM", usw.), verknappen
@@ -169,13 +172,14 @@ wollen.
     Patent- und Urheberrecht funktionieren könnte, können wir die
     Frage zu dieser umformulieren: "Ethisches Verhalten ist doch
     praktisch gar nicht möglich; damit Authoren und Erfinder nicht
-    verhungern dürfen wir die gewährung unethischer Privilegien nicht
-    aufgeben". Wäre in der Diebstahl institutionalisiert um etwa für
-    die ärmsten in unserer Gesellschaft zu sorgen, könnte man analog
-    fragen: "Wir müssen uns doch gegenseitig Ausrauben, damit die
-    Ärmsten unter uns nicht verhungern". Ich hoffe es leuchtet ein,
-    dass wir bei solch einem Konsens sicherlich auch ethisch 
-    vertretbare Wege finden für diese Gruppen zu sorgen.
+    verhungern, dürfen wir die Gewährung unethischer Privilegien nicht
+    aufgeben". Wäre in unserer Gesellschaft der Diebstahl
+    institutionalisiert um etwa für die ärmsten in unserer Gesellschaft
+    zu sorgen, könnte man analog fragen: "Wir müssen uns doch gegenseitig
+    Ausrauben, damit die Ärmsten unter uns nicht verhungern". Ich hoffe
+    es leuchtet ein, dass wir bei solch einem Konsens sicherlich auch
+    ethisch vertretbare Wege finden können um für diese Gruppen zu
+    sorgen.
 
 Es sei nur soviel gesagt: Libertäre haben ein praktisch grenzenloses
 Vertrauen in freie Märkte; was nichts anderes heißt, als dass sie darauf
@@ -219,7 +223,7 @@ die Argumentation von Kinsella schwerlich folgen können. Eigentum ist ja
 gerade dadurch definiert, wer über ein bestimmtes Objekt verfügen darf.
 Beanspruchen Andere dieses Recht für sich, so beanspruchen sie per
 Definition Miteigentümer zu sein. Da die *letztendliche*
-Verfügungsgewalt über diese Eigentum beim Gesetzgeber liegt, könnte man
+Verfügungsgewalt über dieses Eigentum beim Gesetzgeber liegt, könnte man
 sogar behaupten, dass der "Eigentümer" gar keiner ist, sondern dass der
 Gesetzgeber Eigentümer ist und derjenige den er Eigentümer nennt,
 lediglich ein Nutzungsrecht hat was jederzeit auch wieder entzogen
