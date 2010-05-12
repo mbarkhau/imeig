@@ -23,9 +23,9 @@ Kulturen beobachtet, sagt folgendes dazu:
 > vernünftige Reaktion auf die rasante Ausbreitung digitaler
 > Technologie, konfrontiert mit dieser veralteten Architektur, wäre sie
 > zu ändern–zu aktualisieren, sie ins einundzwanzigste Jahrhundert zu
-> bringen[^1]
+> bringen[^0.1]
 
-[^1]: Stanford Report, August 23, 2006 *Law professor and copyright
+[^0.1]: Stanford Report, August 23, 2006 *Law professor and copyright
     expert lets ideas percolate at Breakfast Briefing*
     http://news.stanford.edu/news/2006/august23/lessig-082306.html
 
@@ -33,28 +33,30 @@ Prof. Lessig hat sicherlich Recht, dass die derzeitige Gesetzgebung
 verändert werden muss. Das beschränkt sich jedoch nicht nur auf das
 Urheberrecht, sondern gilt auch für das Patentrecht. Dieses ist seit
 seiner Entstehung auf solch fragwürdige Gebiete ausgeweitet worden, wie
-die Softwareentwicklung, Gensequenzen und sogar Geschäftspraktiken[^2].
-Es entsteht eine Situation bei der sich Firmen nie sicher sein können,
-vielleicht gerade ein Patent zu verletzen und somit andauernd Gefahr
-laufen verklagt zu werden. Eine Situation in der man sich nicht sicher
-sein kann rechtmäßig zu handeln, in der man andauernd einer scheinbar
-willkürlichen "Ordnung" ausgesetzt ist, kann in Grenzen als tyrannisch
-bezeichnet werden. Ein Pharmaunternehmen kann sich nicht sicher sein, ob
-ihre Forscher nicht gerade etwas entwickeln was die Patente eines
-Konkurrenten verletzt. Sie sind gezwungen zur Anheuerung von
-Rechtsbeistand, sei es auch nur zur Verteidigung in einem möglichen
-"Patentkrieg". Rechtmäßig zu handeln ist in dieser Situation praktisch
-nur für Großunternehmen möglich, da nur diese sich die Anwälte leisten
-können um herauszufinden was rechtmäßig ist.
+die Softwareentwicklung, Gensequenzen und sogar
+Geschäftspraktiken[^0.2].  Es entsteht eine Situation bei der sich
+Firmen nie sicher sein können, vielleicht gerade ein Patent zu verletzen
+und somit andauernd Gefahr laufen verklagt zu werden. Eine Situation in
+der man sich nicht sicher sein kann rechtmäßig zu handeln, in der man
+andauernd einer scheinbar willkürlichen "Ordnung" ausgesetzt ist, kann
+in Grenzen als tyrannisch bezeichnet werden. Ein Pharmaunternehmen kann
+sich nicht sicher sein, ob ihre Forscher nicht gerade etwas entwickeln
+was die Patente eines Konkurrenten verletzt. Sie sind gezwungen zur
+Anheuerung von Rechtsbeistand, sei es auch nur zur Verteidigung in einem
+möglichen "Patentkrieg". Rechtmäßig zu handeln ist in dieser Situation
+praktisch nur für Großunternehmen möglich, da nur diese sich die Anwälte
+leisten können um herauszufinden was rechtmäßig ist.
 
-[^2]: Vergleiche hierzu die zum Teil absurden Patente im Anhang.
+[^0.2]: Vergleiche hierzu die zum Teil absurden Patente im Anhang.
 
 Die sich im Internet entwickelnde "Remix" Kultur kann sich schon
-Prinzipbedingt nicht an geltende Gesetzgebung halten und die Teilnehmer
-an diese Kultur werden dadurch implizit zu Kriminelle. Wenn diese
-Kulturschaffenden nicht der Ansicht sind, dass sie einen Rechtsbruch
-begehen und diese Ansicht in der Gesellschaft weite Akzeptanz findet,
-hat das schwerwiegende Folgen für das Verhältnis zwischen Bürgern und
+prinzipbedingt nicht an geltende Gesetzgebung halten, da die von ihnen
+geschaffenen Werke auf andere urheberrechtlich geschützten Werge
+beruhen. Die Teilnehmer dieser Kultur werden also alleine schon durch
+ihre Teilnahme implizit zu Kriminellen. Wenn diese Kulturschaffenden
+nicht der Ansicht sind, dass sie einen Rechtsbruch begehen und diese
+Ansicht in der Gesellschaft weite Akzeptanz findet, hat das
+schwerwiegende Folgen für das Verhältnis zwischen Bürgern und
 Gesetzgebung. So Lessig:
 
 > Die Frage die wir, als verantwortungsbewusste Mitglieder einer
@@ -62,9 +64,9 @@ Gesetzgebung. So Lessig:
 > Kinder kriminalisiert. Wir leben in einer Zeit der Verbote, in der wir
 > unser Leben zunehmend unter Missachtung der Gesetzgebung leben ... Wir
 > müssen uns bewusst werden, welch korrosive Wirkung diese Praxis
-> hat.[^3]
+> hat.[^0.3]
 
-[^3]: Stanford Report, August 23, 2006 *Law professor and copyright
+[^0.3]: Stanford Report, August 23, 2006 *Law professor and copyright
     expert lets ideas percolate at Breakfast Briefing*
     http://news.stanford.edu/news/2006/august23/lessig-082306.html
 
@@ -105,9 +107,9 @@ gesellschaftliche Interessen:
 > lehnen wir diese Verfahren ab. Darüber hinaus behindern sie auf
 > vielfältige Art und Weise die berechtigte Nutzung von Werken,
 > erschaffen eine vollkommen inakzeptable Kontrollierbarkeit und oft
-> auch Überwachbarkeit der Nutzer.[^4]
+> auch Überwachbarkeit der Nutzer.[^0.4]
 
-[^4]: Parteiprogramm der Piratenpartei Deutschland Stand 2009
+[^0.4]: Parteiprogramm der Piratenpartei Deutschland Stand 2009
 
 Das ist freilich keine prinzipielle Kritik und es wundert
 dementsprechend nicht, dass die Piratenpartei die "wirtschaftlichen
@@ -118,9 +120,9 @@ grundsätzlichen Berechtigung vom g.E.:
 
 > Das Urheberrecht muss geändert und nicht abgeschafft werden. Ich lehne
 > die Rufe vieler (meiner Freunde) ab, das Urheberrecht im wesentlichen
-> zu beenden.[^5]
+> zu beenden.[^0.5]
 
-[^5]: Lawrence Lessig *REMIX: Making Art and Commerce Thrive in the
+[^0.5]: Lawrence Lessig *REMIX: Making Art and Commerce Thrive in the
     Hybrid Economy* 2008 Bloomsbury Academic
 
 Eben diese Berechtigung ist jedoch zu bezweifeln. Wie so oft in der
@@ -143,30 +145,30 @@ Eben diese Fragestellung untersucht Stephan Kinsella in seinem Artikel
 Libertarian Studies 15, no. 2" im Frühling 2001. Der Artikel hat für
 einiges an Umdenken in libertären Kreisen gesorgt. Seine rigorose
 Argumentation, sowie logische und schlüssige Beispiele haben, zumindest
-in diesen Kreisen sehr viele überzeugt.[^6] Man könnte meinen es fehlt
+in diesen Kreisen sehr viele überzeugt.[^0.6] Man könnte meinen es fehlt
 diesem Buch zur Überzeugung eine empirische Betrachtung der Folgen vom
 g.E. sowie der potentielle Ausgang sollte man sie abschaffen. Solche
 Bedenken sind nur ein Randnotiz und werden ohnehin zur genüge etwa in
-"Against Intellectual Monopoly"[^7] behandelt. Sie zu ignorieren ist
+"Against Intellectual Monopoly"[^0.7] behandelt. Sie zu ignorieren ist
 allerdings nur konsequent denn hierbei handelt es sich um eine
 Untersuchung ethischer vertretbarer Handlung aus einer theoretischen
 Perspektive. Wenn aus der theoretischen Argumentation folgt, dass g.E.
 ethisch nicht vertretbar ist, sind die Bedenken über die Art wie eine
 Gesellschaft ohne sie funktionieren könnte im wesentlichen ein
-"praktisches Problem"[^8], mit dem wir uns hier nicht zu lange aufhalten
-wollen.
+"praktisches Problem"[^0.8], mit dem wir uns hier nicht zu lange
+aufhalten wollen.
 
-[^6]: Es hat zum Beispiel dazu geführt, dass praktisch alle Inhalte
+[^0.6]: Es hat zum Beispiel dazu geführt, dass praktisch alle Inhalte
     der libertären Platform mises.org mittlerweile unter einer sehr
     liberalen Creative Commons Lizenz gestellt wurden. Nebenbei führt
     dies zu einer wesentlichen Vereinfachung rechtlicher Angelegenheiten
     für die hier vorliegenden Übersetzungen.
 
-[^7]: Michele Boldrin und David Levine *Against Intellectual Monopoly*
+[^0.7]: Michele Boldrin und David Levine *Against Intellectual Monopoly*
     Cambridge University Press 2008
     http://levine.sscnet.ucla.edu/general/intellectual/againstfinal.htm
 
-[^8]: Etwas überspitzt: Wenn wir durch logische Argumentation 
+[^0.8]: Etwas überspitzt: Wenn wir durch logische Argumentation 
     nachgewiesen können, dass g.E. ethisch nicht vertretbar ist, und
     ein Verteidiger fragt trotzdem noch wie eine Gesellschaft ohne das
     Patent- und Urheberrecht funktionieren könnte, können wir die
@@ -200,7 +202,7 @@ Produktion von Kunst oder Innovationen haben, erwartet ein Libertärer,
 dass sich auf einem freien Markt Lösungen entwickeln. Diese müssten z.B.
 einem Künstler ermöglichen *vor* der Veröffentlichung seiner Werke
 angemessen entlohnt zu werden. Tatsächlich lässt sich bereits heute
-solch eine Lösung am Beispiel von "kickstarter"[^8] beobachten. Hier
+solch eine Lösung am Beispiel von "kickstarter"[^0.9] beobachten. Hier
 können Künstler ihre Projekte vorstellen zusammen mit dem dafür nötigen
 Budget. Jeder der ein Projekt realisiert sehen möchte (und eines der vom
 Künstler angebotenen Boni ergattern möchte) steht es frei das Projekt
@@ -208,7 +210,7 @@ finanziell zu unterstützen. Es ist nichts anderes als eine moderne
 Version und eine Wiederbelebung des vor dem Urheberrecht verbreiteten
 Prinzips der Patronage.
 
-[^8]: http://www.kickstarter.com
+[^0.9]: http://www.kickstarter.com
 
 Bevor wir jedoch zu der Kritik von Kinsella am *geistigen* Eigentum
 kommen, ist es unerlässlich ein fundiertes Verständnis der ethischen
@@ -218,7 +220,7 @@ betrachtet. Sofern man z.B. die Enteignung eines Grundbesitzers,
 aufgrund der vorgeblich (man möchte unterstellen aufgrund politischer
 Kontakte) wichtigeren wirtschaftlichen Interessen eines Dritten oder zum
 undefinierten "Wohle der Allgemeinheit" und mit Verweis auf
-Gesetzgebung[^9], auch nur Ansatzweise als legitim betrachtet, wird man
+Gesetzgebung[^0.10], auch nur Ansatzweise als legitim betrachtet, wird man
 die Argumentation von Kinsella schwerlich folgen können. Eigentum ist ja
 gerade dadurch definiert, wer über ein bestimmtes Objekt verfügen darf.
 Beanspruchen Andere dieses Recht für sich, so beanspruchen sie per
@@ -232,9 +234,9 @@ Eigentumsrechte auf Ideelle Dinge zu untersuchen, muss geklärt werden ob
 diese Praxis ethisch vertretbar ist. Zu diesem Thema liefert Hans-Herman
 Hoppe eine wundervolle Argumentation, man kann sogar sagen
 Beweisführung, in der Form des Artikels "Privateigentum: Grundlage von
-Ethik und Wirtschaft"[^10].
+Ethik und Wirtschaft"[^0.11].
 
-[^9]: Siehe z.B. Art.14 Absatz 3 im Deutschen Grundgesetz:
+[^0.10]: Siehe z.B. Art.14 Absatz 3 im Deutschen Grundgesetz:
 
     > (3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig.
     > Sie darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen,
@@ -244,7 +246,7 @@ Ethik und Wirtschaft"[^10].
     > im Streitfalle der Rechtsweg vor den ordentlichen Gerichten
     > offen.
 
-[^10]: Nicht zu verwechseln mit dem Buch von Hans-Hermann Hoppe, 
+[^0.11]: Nicht zu verwechseln mit dem Buch von Hans-Hermann Hoppe, 
     *Economics and Ethics of Private Property*.
 
 Hoppe zeigt in diesem Artikel auf rigorose und kompromisslose Art, wie
@@ -252,7 +254,7 @@ wesentlich das Eigentumsrecht für ethisches Handeln ist. Es wird auch
 deutlich, dass es sich bei der darauffolgenden Kritik am g.E. lediglich
 um eines vieler Beispiel für die konsequente Anwendung des
 Eigentumsrechts handelt. Es ist eine Bestätigung der Aussage von
-Rothbard: "Es gibt keine Rechte außer Eigentumsrechte"[^11]. Eigentum
+Rothbard: "Es gibt keine Rechte außer Eigentumsrechte"[^0.12]. Eigentum
 ist demnach Zentral für ein Verständnis der libertären Betrachtung vom
 geistigen Eigentum in dem Artikel von Kinsella. Meine Hoffnung ist
 demnach nicht nur, dass dieses Buch eine heute sehr relevante
@@ -260,7 +262,7 @@ grundsätzliche Kritik am g.E. aus dem angloamerikanischen Raum nach
 Deutschland bringt, sondern auch dass es dazu anregt sich näher mit dem
 Libertarismus zu beschäftigen.
 
-[^11]: Murry N. Rothbard, "Human Rights and Property Rights" *Power and
+[^0.12]: Murry N. Rothbard, "Human Rights and Property Rights" *Power and
     Market* s. 291
 
 <!--

@@ -65,9 +65,9 @@ ist eine Behauptung aufzustellen - was keiner verneinen kann ohne sich
 in ein Widerspruch zu begeben - dann liegt das nur daran, dass es
 *physische* Grenzen des Eigentums gibt, also Grenzen die jeder
 selbstständig und unabhängig erkennen kann, ohne irgendetwas von den
-subjektiven Wertschätzungen anderer zu wissen.[^17]
+subjektiven Wertschätzungen anderer zu wissen.[^1.6]
 
-[^17]: Es stimmt zwar, dass *niemand* handeln könnte, wenn *jeder* den
+[^1.6]: Es stimmt zwar, dass *niemand* handeln könnte, wenn *jeder* den
     Wert seines Eigentums besäße, praktisch *ist* es aber schon möglich,
     dass *eine* Person oder Gruppe *A*, den Wert seines Eigentums
     besitzt und bestimmen darf was eine *andere* Person oder Gruppe,

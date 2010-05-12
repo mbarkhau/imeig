@@ -6,9 +6,9 @@ in der Ökonomie wiederherzustellen und die Ökonomie wieder in die Ethik
 zu integrieren, fingen andere Ökonomen und Rechtswissenschaftler der
 Universität von Chicago wie Ronald Coase, Harold Demsetz und Richard
 Posner ebenfalls an wieder professionelle Aufmerksamkeit auf das Thema 
-Eigentum und Eigentumsrecht zu richten.[^22]
+Eigentum und Eigentumsrecht zu richten.[^1.11]
 
-[^22]: Siehe Ronald Coase, *The Firm, The Market, and the Law* (Chicago,
+[^1.11]: Siehe Ronald Coase, *The Firm, The Market, and the Law* (Chicago,
     University of Chicago Press, 1988); Harold Demsetz, *Ownership, 
     Control, and the Firm* (Oxford: Basil Blackwell, 1988); Richard 
     Posner, *The Economics of Justice* (Cambridge: Harvard University
@@ -18,9 +18,9 @@ Während Rothbard jedoch Privateigentum und Ethik als Grundlage der
 Ökonomie sah, war das Privateigentum und die Ethik für die Chicago
 Gelehrten, der Ökonomie und ökonomischen Abwägungen untergeordnet.
 Nach Posner war alles gerecht, was den gesellschaftlichen Wohlstand
-fördert.[^23]
+fördert.[^1.12]
 
-[^23]: Posner, *The Economics of Justice*, p. 74: "ungerecht (ist
+[^1.12]: Posner, *The Economics of Justice*, p. 74: "ungerecht (ist
     definiert) als das was den Wohlstand einer Gesellschaft verringert."
 
 Der Unterschied zwischen den beiden Ansätzen kann man anhand eines der
@@ -49,9 +49,9 @@ daran hindern sollen. Das ist jedoch falsch. Es handelt sich um ein
 Frage gegenseitiger Schäden. Würde man den Schaden an *B* verhindern,
 wäre das ein Schaden an *A*. Die wirkliche Frage sollte sein: Sollte es
 *A* erlaubt sein *B* zu schaden oder umgekehrt? Das Problem ist es, den
-größeren Schaden zu vermeiden".[^24]
+größeren Schaden zu vermeiden".[^1.13]
 
-[^24]: Ronald Coase, "The Problem of Social Cost," in: idem, *The Firm,
+[^1.13]: Ronald Coase, "The Problem of Social Cost," in: idem, *The Firm,
     the Market, and the Law*, p. 96. Die moralische Perversion dieser
     Behauptung kann man am besten erkennen wenn wir uns den Fall einer
     Vergewaltigung von *B* durch *A* vorstellen. Nach Coase, sollte *A*
@@ -101,7 +101,7 @@ Standortwechsels sind $ 3 Million - darf die Fabrik bleiben und
 weiterhin Rauch abgeben.
 
 Sowohl die positive als auch die normative Behauptung der
-Rechtsgelehrten und Ökonomen aus Chicago müssen abgewiesen werden.[^25]
+Rechtsgelehrten und Ökonomen aus Chicago müssen abgewiesen werden.[^1.14]
 Im Bezug auf die Behauptung es würde keine Rolle spielen, wem die
 Eigentumsrechte zugewiesen werden folgen drei Antworten. Erstens, wie
 Coase unweigerlich zugibt, macht es für den Bauern und der Eisenbahn
@@ -109,7 +109,7 @@ sehr wohl einen Unterschied, wem die Eigentumsrechte zugewiesen werden.
 Es macht nicht nur ein Unterschied, wie Ressourcen verteilt werden,
 sondern auch wem sie gehören.
 
-[^25]: Siehe auch Walter Block, "Coase and Demsetz on Private Property
+[^1.14]: Siehe auch Walter Block, "Coase and Demsetz on Private Property
     Rights," *Journal of Libertarian Studies*, Vol.1, no. 2, 1977; idem,
     "Ethics, Efficiency, Coasian Property Rights, and Psychic Income: A
     Reply to Harold Demsetz," *Review of Austrian Economics*, Vol. 8,
@@ -166,13 +166,13 @@ die vom Gericht zugewiesenen Eigentumsrechte ändern, je nachdem wie
 die Marktlage gerade ist. Wenn ein GVF weniger kostet als der
 Ernteschaden, bekommt die Eisenbahn Recht. Unterschiedliche Umstände
 führen also zu einer Umverteilung von Eigentumsrechten. Keiner kann sich
-je seines Eigentums sicher sein.[^26] Es entsteht eine permanent
+je seines Eigentums sicher sein.[^1.15] Es entsteht eine permanent
 unsichere Rechtslage. Das scheint weder gerecht noch wirtschaftlich;
 desweiteren würde wohl keiner mit rechtem Verstand, sich an ein Gericht
 wenden, dass bekanntgibt es wird Eigentumsrechte mit der Zeit neu
 zuweisen, abhängig von der derzeitigen Marktlage.
 
-[^26]: Posner, *The Economics of Justice*, p. 70-71, gibt dies mit
+[^1.15]: Posner, *The Economics of Justice*, p. 70-71, gibt dies mit
     ergreifender Offenheit zu: "Absolute Rechte spielen eine wichtige
     Rolle in der ökonomischen Rechtstheorie. ... Wenn Transaktionskosten
     zu groß werden, ist die Anerkennung von absoluten Rechten nicht
