@@ -8,8 +8,8 @@ Einleitung
  
  - Wenn ich eines in diesem Vortrag rüberbringen will, dann ist es, dass
    Kopieren nicht Diebstahl ist! Völlig unabhängig davon ob geistiges
-   Eigentum Rechtmäßig ist, müssen wir festhlaten, dass man nicht etwas
-   stehlen kann was nicht existert. Es ist eine Manipulierung der Sprache
+   Eigentum Rechtmäßig ist, müssen wir festhalten, dass man nicht etwas
+   stehlen kann was nicht existiert. Es ist eine Manipulierung der Sprache
    und mit etwas Zynismus könnte man meinen mit Absicht. Hier der Begriff
    "Eigentum" verwendet (ein was ich zeigen werde völlig legitimes Konzept)
    und auf etwas angewandt wofür es keinen Sinn macht. Man möchte die
@@ -19,7 +19,7 @@ Einleitung
    verteidigen, mit anderen Worten gewalttätig gegen dir vorzugehen. Das
    ist das Prinzip was bei dem Konzept des geistigen Eigentums, in
    letztendlicher Konsequenz vertreten werden muss. Mit anderen Worten, die
-   Idee a² = b² + c² in einem rechtwinklinken Dreieck, "gehört" dem
+   Idee a² = b² + c² in einem rechtwinkligen Dreieck, "gehört" dem
    Pythagoras und wurde demnach wie es bei jedem Eigentum möglich ist, an
    seine griechischen Nachfahren vererbt. Die Idee, dass wir alle jetzt
    Tantiemen an irgendwelche Griechen zahlen sollen ist übrigens nicht nur
@@ -61,21 +61,21 @@ Motivation/Einführung
    und Patente gelten nicht für wissenschaftliche Entdeckungen, auch
    wenn diese ebensogut als geistiges Eigentum aufgefasst werden könnte.
  - Rechtsfragen sind eher der Natur: Du sollst nicht stehlen, du sollst
-   nich morden etc.
+   nicht morden etc.
  - Prinzipiell müssen wir jedoch feststellen, dass jede Handlung des
    Staates mit einer Frage der Rechtmäßigkeit verbunden ist, da es
    immer mit der Anwendung von Gewalt verbunden ist. Es heißt nicht
    umsonst Staats"gewalt"
  - Es muss sich also um eine Rechtsfrage handeln, und nicht etwa um eine
    Abwägung von Interessen. Wir müssen fragen: Dürfen authoren/erfinder
-   für sich beanspruchen gewalt gegen andere zur verteidigung ihres
+   für sich beanspruchen Gewalt gegen andere zur Verteidigung ihres
    geistigen Eigentums verwenden, mit dem Staat als Stellvertreter und
    ausführende Institution.
  - Ich will versuchen zu zeigen, dass es keine Argumentation der Form
    gibt wie ich es informell für den Diebstahl dargelegt habe. D.h. man
-   darf auch verhältnismäßige gewalt einsetzen um sein eigentum zu
+   darf auch verhältnismäßige Gewalt einsetzen um sein Eigentum zu
    verteidigen und kann erwarten die eigene Freiheit eingeschränkt zu
-   bekommen, sollte man diebstahl zu begehen.
+   bekommen, sollte man Diebstahl zu begehen.
  - Darüber hinaus werde ich argumentieren, dass ein Rechtsanspruch auf
    geistiges Eigentum mit dem Recht auf Privateigentum in Konflikt
    steht, bzw. dass beide nicht miteinander vereinbar sind.
@@ -93,6 +93,7 @@ Motivation/Einführung
    Recht
  - Geistiges Eigentum
  
+
 Begriffsklärung
 ---------------
 
@@ -134,7 +135,7 @@ Begriffsklärung
          Rechte verneint wird.
     - Ich denke wir können uns einig sein, dass die Intuition nicht
       unbedingt als Maßstab zur Ermittlung von Recht dienen kann, wir
-      können jedoch sagen, dass sie warscheinlich nicht ganz falsch ist.
+      können jedoch sagen, dass sie wahrscheinlich nicht ganz falsch ist.
     - Schließlich ist die Frage nach Recht immer eine Frage der
       gesellschaftlichen Ordnung, da Rechtsfragen immer mindestens zwei
       Personen implizieren.
@@ -228,12 +229,10 @@ Privateigentum
  - Damit wir die Frage ob es sich aus Naturrechtlicher Sicht tatsächlich
    um ein Recht handelt, müssen wir deshalb zweifelsfrei klären, was es
    mit dem Eigentum auf sich hat.
-
  - Knappheit
- - 
 
-Staat konra Recht
------------------
+Staat kontra Recht
+------------------
 
  - Für den Fall, dass irgendjemand noch der Meinung ist, dass Recht vom
    Staat ausgeht, will ich ein meiner Ansicht nach relative eindeutiges
@@ -279,15 +278,15 @@ Abschluss
  - Ich habe hier im Ansatz gezeigt, wie die Argumentation nach diesem
    Prinzip funktioniert und aus dieser geht hervor, dass g.E. nicht
    Rechtens ist. Kopieren ist nicht Diebstahl, nur Eigentum kann
-   gestohlen werden. Im gegenteil, jemand daran zu hindern etwas zu
+   gestohlen werden. Im Gegenteil, jemand daran zu hindern etwas zu
    kopieren, ist eine Rechtswidrige Verfügung über sein Eigentum und
    damit Diebstahl.
- - Es ist nicht nur ohne Rechts grundlage, es ist sogar noch
-   Rechstwidrig! Geistiges eigentum ist nichts weiter als ein 
+ - Es ist nicht nur ohne Rechts Grundlage, es ist sogar noch
+   Rechstwidrig! Geistiges Eigentum ist nichts weiter als ein 
    rechtswidriges staatlich gewährtes Monopol. Es dient einzig und 
    alleine den monopolisten, nicht den Künstlern nicht den Erfindern
    nicht der Kultur, nicht dem Fortschritt und nicht Uns. Es sollte
-   nicht nur wie es heute in der Praxis der fall ist einfach ignoriert
+   nicht nur wie es heute in der Praxis der Fall ist einfach ignoriert
    werden, sonder prinzipiell bekämpft werden.
 
 Quellen
