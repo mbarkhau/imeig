@@ -35,24 +35,24 @@ Rothbard und Tucker.[^84]
 [^82]: Die grundsätzliche ökonomische oder katallaktische Rolle für
     Rechte an Privateigentum, zusammen mit Geldpreise die aus dem Handel
     mit Eigentum entstehen, ist *ökonomische Kalkulation* möglich zu
-    machen. Siehe N. Stephan Kinsella, "Knowledge, Calculation,
+    machen. Siehe N. Stephan Kinsella: "Knowledge, Calculation,
     Conflict, and Law: Review Essay of Randy E. Barnett, *The Structure
     of Liberty: Justice and the Rule of Law," Quarterly Journal of
     Austrian Economics* 2, no. 4 (Winter 1999): 49–71.
 
-[^83]: Hans-Hermann Hoppe, *A Theory of Socialism and Capitalism* 
-    (Boston: Kluwer Academic Publishers, 1989), p. 235 n. 9.
+[^83]: Hans-Hermann Hoppe: *A Theory of Socialism and Capitalism* 
+    (Boston: Kluwer Academic Publishers, 1989), S. 235 n. 9.
 
-[^84]: Plant, "The Economic Theory Concerning Patents for Inventions,"
-    pp. 35–36; David Hume, *An Inquiry Concerning the Principles of
+[^84]: Plant: "The Economic Theory Concerning Patents for Inventions,"
+    S. 35–36; David Hume: *An Inquiry Concerning the Principles of
     Morals: With a Supplement: A Dialogue* (1751; Neuauflage, New York:
-    Liberal Arts Press, 1957); Palmer, "Intellectual Property: A
-    Non-Posnerian Law and Economics Approach," pp. 261–66 und n. 50
+    Liberal Arts Press, 1957); Palmer: "Intellectual Property: A
+    Non-Posnerian Law and Economics Approach," S. 261–66 und n. 50
     (welches zwischen "statischer" und "dynamischer" Knappheit
-    unterscheidet), auch pp. 279–80; Palmer, "Are Patents and
-    Copyrights Morally Justified?" pp.  860–61, 864–65; and Rothbard,
-    "Justice and Property Rights," in *The Logic of Action One*, p. 274;
-    on Tucker, see McElroy, "Intellectual Property: Copyright and
+    unterscheidet), auch S. 279–80; Palmer: "Are Patents and
+    Copyrights Morally Justified?" S. 860–61, 864–65; and Rothbard:
+    "Justice and Property Rights," in *The Logic of Action One*, S. 274;
+    zu Tucker, siehe McElroy: "Intellectual Property: Copyright and
     Patent."
 
 Die Natur enthält also Objekte die aus ökonomischer Sicht knapp sind.
@@ -61,7 +61,7 @@ der Nutzung durch andere, bzw. schließt die Nutzung durch andere aus und
 umgekehrt. Der Sinn von Eigentumsrechte ist die Vermeidung
 zwischenmenschlicher Konflikte über knappe Ressourcen, indem man die
 Ressourcen zum exklusiven Eigentum bestimmter Personen (Eigentümer)
-macht.  Damit sie diese Funktion erfüllen können, müssen sie sowohl
+macht. Damit sie diese Funktion erfüllen können, müssen sie sowohl
 *sichtbar* als auch *gerecht* sein. Es ist klar, dass man die Verletzung
 von Eigentumsrechte nur verhindern kann, wenn die Grenzen des Eigentums
 und ihre Zuweisung objektiv (intersubjektiv erfassbar) sind; sie müssen
@@ -69,13 +69,13 @@ und ihre Zuweisung objektiv (intersubjektiv erfassbar) sind; sie müssen
 und eindeutig sein. Mit anderen Worten, "gute Zäune schaffen gute
 Nachbarn".[^86]
 
-[^85]: Hoppe, *A Theory of Socialism and Capitalism*, pp. 140–41. Es ist
+[^85]: Hoppe: *A Theory of Socialism and Capitalism*, S. 140–41. Es ist
     nicht meine Absicht Rechte auf die besagten zu beschränken; der
     Begriff "Sichtbar" bedeutet beobachtbar und erkennbar. Diese
     Klarstellung verdanke ich Gene Callahan.
 
-[^86]: Robert Frost, "The Mending Wall," in North of Boston, 2nd ed.
-    (New York: Henry Holt, 1915), pp. 11–13. (Bitte senden Sie mir im
+[^86]: Robert Frost: "The Mending Wall," in North of Boston, 2nd ed.
+    (New York: Henry Holt, 1915), S. 11–13. (Bitte senden Sie mir im
     Bezug hierauf keine e-mail. Es ist mir egal was Frost mit diesem
     Gedicht "wirklich" meinte. Mir gefällt einfach nur die Redewendung.)
 
@@ -88,25 +88,25 @@ Abschaffung des Eigentumsrechts; es ist die Reduzierung auf die Macht
 des Stärkeren, also auf die Situation vor dem bestehen der
 Eigentumsrechte. Libertäre sehen jedoch wie Locke, dass nur der *erste
 Besetzer*, bzw. Nutzer von Eigentum sein natürlicher Eigentümer sein
-kann. Nur die Regel des originär aneignenden ersten–Besetzers bietet
+kann. Nur die Regel des originär aneignenden ersten–Nutzers bietet
 eine objektive, ethische und nicht willkürliche Zuweisung von Besitzer
 zu knappen Ressourcen.[^88]
 
-[^87]: Hoppe, *A Theory of Socialism and Capitalism*, p. 138.
+[^87]: Hoppe: *A Theory of Socialism and Capitalism*, S. 138.
 
 [^88]: Über den Richtigen Ansatz zur originären Aneignung und der Regel
     des ersten Nutzers, schreibt Hoppen in, *A Theory of Socialism
-    and Capitalism*, pp. 141–44; Hoppe, *The Economics and Ethics of
-    Private Property* (Boston: Kluwer Academic Publishers, 1993), pp.
-    191–93; Jeffrey M. Herbener, "The Pareto Rule and Welfare
+    and Capitalism*, S. 141–44; Hoppe, *The Economics and Ethics of
+    Private Property* (Boston: Kluwer Academic Publishers, 1993), S.
+    191–93; Jeffrey M. Herbener: "The Pareto Rule and Welfare
     Economics," *Review of Austrian Economics* 10, no. 1 (1997): 105:
-    "Nachdem ein Objekt zum Besitz des ersten Nutzers wird ist es für 
+    "Nachdem ein Objekt zum Eigentum des ersten Nutzers wird ist es für 
     andere nicht mehr Möglich der erste Nutzer zu sein; demnach haben
     ihre Wünsche zu dem Zeitpunkt keinen Einfluss auf den nach dem
     Pareto-Kriterium überlegenen Anspruch des ersten Nutzers"; und
-    de Jasay, *Against Politics*, pp. 172–79. Über die ethische
+    de Jasay: *Against Politics*, S. 172–79. Über die ethische
     Rechtfertigung von solch einem System des Eigentumsrechts schreibt
-    Hoppe in *A Theory of Socialism and Capitalism*, chap. 7;
+    Hoppe in *A Theory of Socialism and Capitalism*, kap. 7;
     Hoppe, *The Economics and Ethics of Private Property*; Rothbard, The
     Ethics of Liberty; Rothbard, "Justice and Property Rights," in *The
     Logic of Action One*; N. Stephan Kinsella, "A Libertarian Theory of
@@ -154,54 +154,56 @@ nach wie vor die Technik (ebenso wie die Baumwolle). Die Nutzung durch
 Andere schließt meine Nutzung nicht aus; wir können beide die Technik
 nutzen um Baumwolle zu ernten. Es herrscht keine wirtschaftliche
 Knappheit und keine Möglichkeit für ein Konflikt über ein knappes Gut.
-Deshalb auch gibt es auch kein Grund andere von der Nutzung abzuhalten.
+Deshalb gibt es auch kein Grund andere von der Nutzung abzuhalten.
 
 In gleicher Weise, wenn jemand ein von mir geschriebenes Buch kopiert,
 habe ich noch das ursprüngliche (greifbare) Buch, und "habe" demnach
 auch noch das Muster der Wörter die das Buch ausmachen. Geschriebene
 werke sind folglich knapp im selben Sinne wie ein Stück Land oder ein
-Auto.  Wenn mir mein Auto weggenommen wird, habe ich es nicht mehr. Wenn
+Auto. Wenn mir mein Auto weggenommen wird, habe ich es nicht mehr. Wenn
 man mir jedoch das Muster aus dem Buch "nimmt", und es zur Herstellung
 einer physischen Kopie verwendet, habe ich trotzdem noch meine Kopie.
 Das gleiche gilt für Erfindungen, und sogar für alle "Muster" oder
 Informationen, die man generiert oder hat. Wie Thomas Jefferson – selbst
 ein Erfinder und der erste Patentprüfer in den U.S.A. – schrieb, "Wer
 von mir eine Idee bekommt, erhält die Anleitung für sich selbst ohne
-meins zu mindern; wie einer der seine Kerze an meiner anzündet, erhält
+meines zu mindern; wie einer der seine Kerze an meiner anzündet, erhält
 er Licht, ohne dass ich im Dunkeln stehe".[^89] Da man die Idee eines
 Anderen nutzen kann ohne ihm das gleiche zu verweigern, kann darüber
 kein Konflikt aufkommen; Ideen sind deshalb nicht Gegenstand von
 Eigentumsrechte. Selbst Rand räumte ein, dass "geistiges Eigentum nicht
 verbraucht werden kann".[^90]
 
-[^89]: Thomas Jefferson to Isaac McPherson, Monticello, August 13, 1813,
-    letter, in *The Writings of Thomas Jefferson*, vol. 13, ed. A.A.
-    Lipscomb and A.E. Bergh (Washington, D.C.: Thomas Jefferson Memorial
-    Association, 1904), pp.  326–38. Jefferson recognized that because
-    ideas are not scarce, patent and copyright are not natural rights,
-    and can be justified only, if at all, on the utilitarian grounds of
-    promoting useful inventions and literary works (and, even then, they
-    must be created by statute, since they are not natural rights). See
-    Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
-    Approach," p. 278 n. 53. Yet this does not mean that Jefferson
-    supported patents, even on utilitarian grounds. Patent historian
-    Edward C. Walterscheid explains that "throughout his life,
-    [Jefferson] retained a healthy skepticism about the value of the
-    patents system." "Thomas Jefferson and the Patent Act of 1793,"
-    *Essays in History* 40 (1998).
+[^89]: Thomas Jefferson to Isaac McPherson, Monticello, August 13,
+    181, letter, in *The Writings of Thomas Jefferson*, vol. 13, ed.
+    A.A.  Lipcomb and A.E. Bergh (Washington, D.C.: Thomas Jefferson
+    Memorial Assciation, 1904), S. 326–38. Jefferson erkannte, dass
+    Ideen nicht knap sind und deswegen das Urheberrecht und Patent
+    keine natürlichen Recte sind. Sie können wenn überhaupt, nur auf
+    utilitaristischer Ebene vereidigt werden, um nützliche Erfindungen
+    und schriftliche Werke zu fördern (und selbst dann, müssen sie
+    durch ein Gesetz eingeführt werden, da sie keine natürliche Rechte
+    sind.  Siehe Palmer: "Intellectual Property: A Non-Posnerian Law
+    and Economics Approach," S. 278 n. 53. Das bedeutet jedoch nicht,
+    dass Jefferson sich für Patente aussprach, selbst auf
+    utilitaristischer Grundlage. Der Historiker Edward C. Walterscheid
+    erklärt, dass Jefferson "in seinem ganzen Leben eine gesunde
+    Skepsis über den Wert des Patentsystems beibehielt". "Thomas
+    Jefferson and the Patent Act of 1793," *Essays in History* 40
+    (1998).
 
-[^90]: Rand, "Patents and Copyrights," p. 131. Mises, in *Human Action*,
-    p. 661, recognizes that there is no need to economize in the
-    employment of "formulas," "because their serviceableness cannot be
-    exhausted." On p. 128, he points out: A thing rendering such
-    unlimited services is, for instance, the knowledge of the causal
-    relation implied. The formula, the recipe that teaches us how to
-    prepare coffee, provided it is known, renders unlimited services. It
-    does not lose anything from its capacity to produce however often it
-    is used; its productive power is inexhaustible; it is therefore not
-    an economic good. Acting man is never faced with a situation in
-    which he must choose between the use-value of a known formula and
-    any other useful thing.  See also p. 364.
+[^90]: Rand, "Patents and Copyrights," S. 131. Mises, in *Human Action*,
+    S. 661, erkennt, dass es keinen Grund gibt um im Bezug auf
+    "Rezepte" zu wirtschaften, "da ihre Einsatzfähigkeit nicht
+    verbraucht werden kann". Auf S. 128 weist er darauf hin: Etwas,
+    dass solch einen unbegrenzten Dienst verrichtet ist z.B. das Wissen
+    über die implizierte kausale Beziehung. Die Formel, das Rezept,
+    welches uns lehrt wie man Kaffee zubereitet, sofern wir es kennen,
+    verrichtet einen unbegrenzten Dienst. Es verliert nichts an
+    Kapazität etwas zu produzieren, egal wie oft es benutzt wird; es ist
+    demnach kein wirtschaftliches Gut. Beim menschlichen Handeln ist man
+    nie mit der Entscheidung zwischen dem Nutzwert eines bekannten
+    Rezepts und irgendetwas anderes konfrontiert. Siehe auch S. 364
 
 Ideen sind nicht von Natur aus knapp. Indem man jedoch das Recht an einem
 ideellen Objekt anerkennt, wird Knappheit *erzeugt* wo vorher keine war.
@@ -216,8 +218,8 @@ Wie Arnold Plant es ausdrückt:
 > Erzeugung von Knappheit an Gütern möglich, die ansonsten nicht
 > aufrecht erhalten werden könnte.[^91]
 
-[^91]: Plant, "The Economic Theory Concerning Patents for Inventions,"
-    p. 36. Auch Mises, Human Action, p. 364: "Solche Rezepte sind in der
+[^91]: Plant: "The Economic Theory Concerning Patents for Inventions,"
+    S. 36. Auch Mises, Human Action, S. 364: "Solche Rezepte sind in der
     Regel freie Güter, da sie unbegrenzt eingesetzt werden können um
     etwas umzusetzen. Sie können nur dann wirtschaftliche Güter werden,
     wenn ein Monopol auf ihnen gewährt wird und ihre Nutzung eingeschränkt
@@ -229,7 +231,7 @@ Wie Arnold Plant es ausdrückt:
     unwesentlich."
 
 Bouckaert argumentiert ebenfalls, dass es die Knappheit ist, die
-Eigentumsrechte notwendig machen, und dass Gesetze zum g.E.  eine
+Eigentumsrechte notwendig machen, und dass Gesetze zum g.E. eine
 künstliche, nicht zu rechtfertigende Knappheit erzeugen. Seine Anmerkung
 dazu:
 
@@ -243,25 +245,25 @@ dazu:
 > zyklisches Argument. Im Gegenteil, die künstliche Knappheit selbst
 > muss gerechtfertigt werden.[^92]
 
-[^92]: Bouckaert, "What is Property?" p. 793; siehe auch pp. 797–99.
+[^92]: Bouckaert: "What is Property?" S. 793; siehe auch S. 797–99.
 
 Nach Bouckaert, sind "einzig und allein, natürlich knappe Entitäten die
-physisch kontrolliert werden können, Knadidaten für" den Schutz durch
+physisch kontrolliert werden können, Kandidaten für" den Schutz durch
 echte Eigentumsrechte.[^93] Der einzig mögliche Schutz für ideale
 Objekte wäre durch *persönliche* Rechte, also Verträge (mehr dazu
 unten).[^94]
 
-[^93]: Bouckaert, "What is Property?" pp. 799, 803.
+[^93]: Bouckaert: "What is Property?" S. 799, 803.
 
 [^94]: Man könnte auch für den Schutz ideeller Objekten auf der
     Grundlage argumentieren, dass es sich dabei um "öffentliche Güter"
     handelt, d.h. Aufgrund negativer externer Effekte die ohne Gesetze
     zum g.E. entstehen würden. Das Konzept öffentlicher Güter ist jedoch
     weder schlüssig noch zu rechtfertigen. Siehe Palmer "Intellectual
-    Property: A Non-Posnerian Law and Economics Approach," pp. 279–80,
-    283–87; Hans-Hermann Hoppe, "Fallacies of the Public Goods Theory 
+    Property: A Non-Posnerian Law and Economics Approach," S. 279–80,
+    283–87; Hans-Hermann Hoppe: "Fallacies of the Public Goods Theory 
     and the Production of Security," *Journal of Libertarian Studies* 9,
-    no. 1 (Winter 1989): 27; auch Hoppe, *The Economics and Ethics of
+    no. 1 (Winter 1989): 27; auch Hoppe: *The Economics and Ethics of
     Private Property*, chap. 1.
 
     So Palmer:
@@ -289,12 +291,12 @@ unten).[^94]
     > wegen einer Entscheidung dieses Gut allgemein verfügbar zu
     > machen.
 
-    Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
-    Approach," pp. 284–85. Es kann nicht eindeutig gezeigt werden, dass
+    Palmer: "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," S. 284–85. Es kann nicht eindeutig gezeigt werden, dass
     Ideen ohne Frage öffentliche Güter sind. Selbst darüber hinaus ist
     es nicht klar, dass Eigentumsrechte gelten würden wenn sie
-    tatsächlich öffentliche Güter wären, denn wie es oben behandelt
-    wurde, sind Maßnahmen die den Wohlstand steigern nicht unbedingt
+    tatsächlich öffentliche Güter wären, denn wie oben behandelt,
+    sind Maßnahmen die den Wohlstand steigern nicht unbedingt
     gerechtfertigt.
 
 Nur greifbare, knappe Ressourcen können das Objekt zwischenmenschlicher
@@ -305,15 +307,15 @@ anmerkt, dass "Monopole und Zensur die historische Wurzel vom Patent und
 Urheberrecht sind".[^95] Es sind diese Monopole, die künstliche Knappheit
 erzeugen wo vorher keine war.
 
-[^95]: Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
-    Approach," p. 264.
+[^95]: Palmer: "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," S. 264.
 
-Erinnern wir uns, dass Rechte am g.E. dem Erzeuger von einem Muster
+Erinnern wir uns, dass Rechte an g.E. dem Erzeuger von einem Muster
 einen Teil der Verfügungsgewalt – des Eigentumsrechts – über das
 greifbare Eigentum aller anderen Personen gewährt. Der Muster–Erzeuger
 ist durch sein Recht am g.E., Miteigentümer am Eigentum einer anderen
 Person, da er ihn daran hindern kann auf bestimmte Art *mit seinem
-eigenen Eigentum* umzugehen. Author *X*, kann beispielsweise einen
+eigenen Eigentum* umzugehen. Autor *X* kann beispielsweise einen
 Dritten, *Y*, daran hindern Wörter in einem bestimmten Muster auf die
 eigenen leeren Blätter von *Y*, mit der eigenen Tinte von *Y* zu
 schreiben.
@@ -324,10 +326,10 @@ indem er eine neue Möglichkeit findet sein Eigentum zu nutzen (Rezept),
 wird der Erzeuger von g.E. auf magische Art zum Miteigentümer am
 Eigentum aller anderen. Er kann z.T. bestimmen, wie Dritte ihr Eigentum
 nutzen können. Das g.E. ändert den *Status Quo* indem es Eigentum von
-einer Grupp (Besitzer von greifbarem Eigentum) wegnimmt und es
+einer Gruppe (Eigentümer von greifbarem Eigentum) wegnimmt und es
 Einzelpersonen einer anderen Gruppe (Autoren und Erfinder) überträgt.
 Auf den ersten Blick bedeuten Gesetze zum g.E. eine Verletzung der
-Rechte von Besitzer, bzw. sie "nehmen" das Eigentum der Besitzer
+Rechte von Eigentümer, bzw. sie "nehmen" das Eigentum der Eigentümer
 greifbaren Eigentums und übertragen einen Teil der Eigentumsrechte an
 Autoren und Erfinder. Es ist diese Übertretung und Übertragung von
 Eigentum die gerechtfertigt werden muss, damit g.E. berechtigt sein
@@ -336,8 +338,8 @@ ausreichen. Im weiteren untersuchen wir die Probleme mit der
 naturrechtlichen Verteidigung.
 
 
-Erschaffung kontra Knappheit
-----------------------------
+Schöpfung kontra Knappheit
+--------------------------
 
 Auf einige Widersprüche und Probleme mit den naturrechtlichen Theorien
 des geistigen Eigentums haben wir oben hingewiesen. Dieser Abschnitt
@@ -358,58 +360,58 @@ sie nicht voreingenommen oder beliebig sein.[^97] Aus diesem Grund
 werden naturgegebene Güter zum Besitz – durch originäre Aneignung – von
 ihrem *ersten* Nutzer.[^98]
 
-[^96]: Siehe Rand, "Patents and Copyrights"; Kelley, "Response to
-    Kinsella"; Franck, "Intellectual and Personality Property" and
+[^96]: Siehe Rand: "Patents and Copyrights"; Kelley, "Response to
+    Kinsella"; Franck: "Intellectual and Personality Property" und
     "Intellectual Property Rights: Are Intangibles True Property?"
 
-[^97]: Siehe Hoppe, *A Theory of Socialism and Capitalism*, chap. 7, esp. p.
-    138.
+[^97]: Siehe Hoppe: *A Theory of Socialism and Capitalism*, kap. 7,
+    insb. S. 138.
 
-[^98]: Hoppe, *A Theory of Socialism and Capitalism*, p. 142; de Jasay,
-    *Against Politics*, pp. 172–79; und Herbener, "The Pareto Rule and
-    Welfare Economics," p. 105.
+[^98]: Hoppe: *A Theory of Socialism and Capitalism*, S. 142; de Jasay:
+    *Against Politics*, pp. 172–79; und Herbener: "The Pareto Rule and
+    Welfare Economics," S. 105.
 
 Die allgemeine Regel ist, dass der Eigentümer einer bestimmten knappen
 Ressource bestimmt werden kann, indem man herausfindet wer es zuerst
-benutzt hat. Es gibt verschiedene Arten eine Ressource zu besitzen oder
-zu besetzen und verschiedene Arten den Besitzer kenntlich zu machen oder
-zu beweisen, je nachdem um was für eine Ressource es sich handelt und
-auf welche Art es zum Einsatz kommt. So kann ich einen Apfel pflücken
-und es mir so aneignen, oder ich kann ein Stück Land umzäunen um einen
-Bauernhof aufzubauen. Manchmal redet man auch davon, dass durch eine
-Beschäftigung etwas "erschaffen" oder "kreiert" werden kann.[^99] Ich
-kann z.B. eine Statue aus einem Block aus Marmor hauen, oder ein Schwert
-aus rohem Metall schmieden, oder gar ein Bauernhof auf einem Stück Land
-"erschaffen".
+benutzt hat. Es gibt verschiedene Arten eine Ressource zu benutzen oder
+zu besetzen und verschiedene Arten den Eigentümer kenntlich zu machen
+oder zu beweisen, je nachdem um was für eine Ressource es sich handelt
+und auf welche Art es zum Einsatz kommt. So kann ich einen Apfel
+pflücken und es mir so aneignen, oder ich kann ein Stück Land umzäunen
+um einen Bauernhof aufzubauen. Manchmal redet man auch davon, dass durch
+eine Beschäftigung etwas "erschaffen" oder "kreiert" werden kann.[^99]
+Ich kann z.B. eine Statue aus einem Block aus Marmor hauen, oder ein
+Schwert aus rohem Metall schmieden, oder gar ein Bauernhof auf einem
+Stück Land "erschaffen".
 
 [^99]: Die Besetzung oder Inbesitznahme "kann drei Formen annehmen: (1)
     indem man es direkt greift, (2) indem man es umformt, und (3) indem
-    man es lediglich als Eigentum markiert." Palmer, "Are Patents and
-    Copyrights Morally Justified?" p. 838.
+    man es lediglich als Eigentum markiert". Palmer: "Are Patents and
+    Copyrights Morally Justified?" S. 838.
 
 Diese Beispiele zeigen uns, dass die Erschaffung wesentlich bei der
 Frage nach dem Eigentümer einer "erschaffenen" Ressource ist, sei es
 eine Statue, ein Schwert oder ein Bauernhof, aber nur zu dem Grad, dass
 der Vorgang etwas zu erschaffen gleichzeitig eine Besetzung darstellt,
 bzw. einen Beweis für die erstmalige Nutzung darstellt. Es ist jedoch
-nicht die "Erschaffung" selbst, die als Rechtfertigung von Eigentum
-dient; es ist weder notwendig noch ausreichend. Man kann eine
-umstrittenen knappe Ressource nicht *erschaffen* ohne vorher Rohstoffe
-für seine Erschaffung zu nutzen. Diese Rohstoffe sind jedoch knapp und
-sind entweder mein Eigentum oder nicht. Wenn nicht, dann gehört mir auch
-nicht das resultierende Produkt. Wenn mir die Rohstoffe gehören dann
-gehört mir, auf der Grundlage des Eigentumsrechts, auch das
-resultierende Produkt worin ich es umgewandelt habe.
+nicht die "Schöpfung" selbst, die als Rechtfertigung von Eigentum dient;
+es ist weder notwendig noch ausreichend. Man kann eine umstrittenen
+knappe Ressource nicht *erschaffen* ohne vorher Rohstoffe für seine
+Schöpfung zu nutzen. Diese Rohstoffe sind jedoch knapp und sind entweder
+mein Eigentum oder nicht. Wenn nicht, dann gehört mir auch nicht das
+resultierende Produkt. Wenn mir die Rohstoffe gehören dann gehört mir,
+auf der Grundlage des Eigentumsrechts, auch das resultierende Produkt
+worin ich es umgewandelt habe.
 
 Betrachten wir das Schmieden von einem Schwert. Wenn ich der Besitzer
 von rohem Metall bin (weil ich es aus meinem eigenen Grundstück
 gefördert habe), dann gehört mir das Metall nachdem ich es in ein
-Schwert verwandelt habe. Ich muss mich nicht auf die Erschaffung
-berufen um das Schwert zu besitzen, sondern nur auf mein Eigentum an
+Schwert verwandelt habe. Ich muss mich nicht auf die Schöpfung berufen
+um Eigentümer am Schwert zu begründen, sondern nur auf mein Eigentum an
 den Produktionsgütern die zur Herstellung des Schwertes dienten.[^100]
-Erschaffung ist auch nicht notwendig um die Produktionsgüter zu
-besitzen, da ich sie einfach originär aneignen kann indem ich sie aus
-dem Boden fördere und dadurch zum ersten Eigentümer werde. Wenn ich
+Schöpfung ist auch nicht notwendig um Eigentümer der Produktionsgüter zu
+sein, da ich sie einfach originär aneignen kann indem ich sie aus dem
+Boden fördere und dadurch zum ersten Eigentümer werde. Wenn ich
 andererseits ein Schwert aus dem Metall eines *Anderen* schmiede, gehört
 mir das resultierende Schwert *nicht*. Tatsächlich könnte ich sogar für
 Schäden haftbar gemacht werden.
@@ -419,45 +421,45 @@ Schäden haftbar gemacht werden.
     Eigentum an Arbeit ist nicht notwendig um zu zeigen, dass ich
     weiterhin Eigentümer bleibe wenn ich es umforme.
 
-Erschaffung ist demnach weder notwendig noch ausreichend um Eigentum zu
-begründen. Sich auf den Vorgang der Erschaffung zu konzentrieren lenkt
-von der entscheidenden Rolle der ersten Nutzung ab um mit dem
+Schöpfung ist demnach weder notwendig noch ausreichend um Eigentum zu
+begründen. Sich auf den Vorgang der Schöpfung zu konzentrieren lenkt von
+der entscheidenden Rolle der ersten Nutzung ab um mit dem
 grundsätzlichen Problem der Knappheit umzugehen. Die erste Nutzung,
-nicht die Erschaffung oder Arbeit, ist sowohl notwendig als auch
+nicht die Schöpfung oder Arbeit, ist sowohl notwendig als auch
 ausreichend um nicht angeeignete knappe Ressourcen originär anzueignen.
 
-Ein Grund für die übertriebene Betonung der Erschaffung als Grundlage
-für Eigentumsrechte könnte sein, dass manche sich auf die *Arbeit* als
+Ein Grund für die übertriebene Betonung der Schöpfung als Grundlage für
+Eigentumsrechte könnte sein, dass manche sich auf die *Arbeit* als
 Mittel zur originären Aneignung konzentrieren. Diese Sicht offenbart
-sich in dem Argument, dass man nicht angeeignetes Eigentum in Besitz
-nehmen kann wenn man seine Arbeit damit vermischt *weil* die eigene
-Arbeit einem "gehört". Palmer weist jedoch richtigerweise darauf hin,
-dass externe Güter "*nicht durch Arbeit sondern durch Nutzung* zum
-Eigentum werden".[^101] Indem man sich auf die erste Nutzung konzentriert
-und nicht auf die Arbeit, wie Anhänger vom Objektivismus es tun, muss
-man Kreation nicht als wesentlich für die originäre Aneignung ansehen.
-Statt dessen müssen die Eigentumsrechte der ersten Nutzer (oder deren
-Vertragspartner) anerkannt werden um das allgegenwärtige Problem
-möglicher Konflikte über knappe Ressourcen zu vermeiden. Die Kreation
-selbst ist weder nötig noch ausreichten um Eigentumsrechte an freie
-Güter zu erlangen. Desweiteren, muss man nicht die merkwürdige
+sich in dem Argument, dass man zum Eigentümer von nicht angeeigneten
+Ressourcen werden kann, wenn man seine Arbeit damit vermischt *weil* die
+eigene Arbeit einem "gehört". Palmer weist jedoch richtigerweise darauf
+hin, dass externe Güter "*nicht durch Arbeit sondern durch Nutzung* zum
+Eigentum werden".[^101] Indem man sich auf die erste Nutzung
+konzentriert und nicht auf die Arbeit, wie Anhänger vom Objektivismus es
+tun, muss man Kreation nicht als wesentlich für die originäre Aneignung
+ansehen. Statt dessen müssen die Eigentumsrechte der ersten Nutzer
+(oder deren Vertragspartner) anerkannt werden um das allgegenwärtige
+Problem möglicher Konflikte über knappe Ressourcen zu vermeiden. Die
+Kreation selbst ist weder nötig noch ausreichten um Eigentumsrechte an
+freie Güter zu erlangen. Desweiteren, muss man nicht die merkwürdige
 Auffassung vertreten, dass man der "Eigentümer" der eigenen Arbeit ist,
 damit einem die Güter gehören die man als erster benutzt. Arbeit ist
 eine Handlung und man kann eine Handlung nicht besitzen; vielmehr ist es
 die Art wie manche greifbare Objekte (z.B. Körper) in der Welt handeln.
 
-[^101]: Palmer, "Are Patents and Copyrights Morally Justified?" p. 838
-    (emphasis added), citing Georg W.F. Hegel, *Hegel's Philosophy of
-    Right*, trans. T.M. Knox.  (1821; reprint, London: Oxford University
-    Press, 1967), pp. 45–46.
+[^101]: Palmer: "Are Patents and Copyrights Morally Justified?" S. 838
+    (Hervorhebung nicht im Original), citing Georg W.F. Hegel,
+    *Hegel's Philosophy of Right*, trans. T.M. Knox. (1821; reprint,
+    London: Oxford University Press, 1967), S. 45–46.
 
 Das Problem mit der naturrechtlichen Verteidigung des g.E. ist demnach
-das Argument, dass ein Autor/Erfinder der Berechtigte Eigentümer eines
+das Argument, dass ein Autor/Erfinder der berechtigte Eigentümer eines
 "Objekts" ist, "weil" er es "erschaffen" hat. Das Argument geht jedoch
-bereits davon aus, dass man ideelle Objekte besitzen kann; nachdem man
-das akzeptiert hat scheint es selbstverständlich, dass der "Schöpfer"
-von solch einem Objekt der natürliche und rechtmäßige Eigentümer ist.
-Ideelle Objekte kann man jedoch nicht besitzen.
+bereits davon aus, dass man Eigentümer ideeller Objekte sein kann;
+nachdem man das akzeptiert hat scheint es selbstverständlich, dass der
+"Schöpfer" von solch einem Objekt der natürliche und rechtmäßige
+Eigentümer ist. Man kann jedoch kein Eigentum an ideelle Objekte haben.
 
 Nach dem libertären Ansatz, kann man den Eigentümer von einem Objekt
 bestimmen, indem man seinen ersten Nutzer findet, *sofern* es eine
@@ -478,26 +480,26 @@ Worten, Schöpfung und Vermischung von Arbeit sind eine *Andeutung* wer
 freie und knappe Güter benutzt hat–und dadurch originär angeeignet
 hat.[^103]
 
-[^102]: Sogar solche Befürworter vom g.E. wie Rand behaupten nicht, dass
-    die Schöpfung an sich ausreicht um ein Rechtsanspruch zu begründen
+[^102]: Sogar solche Befürworter für g.E. wie Rand behaupten nicht, dass
+    die Schöpfung an sich ausreicht um einen Rechtsanspruch zu begründen
     oder dass sie auch nur notwendig ist. Es ist nicht notwendig, da
     nicht angeeignete Güter einfach nur durch Besetzung angeeignet
     werden können, was nicht mit "Schöpfung" verbunden ist, es sei
     denn man weitet diesen Begriff übermäßig aus. Schöpfung ist auch
     nicht ausreichend, denn Rand würde sicherlich nicht behaupten,
-    dass die Schöpfung von einem Gegenstand durch Nutzung von
+    dass die Schöpfung eines Gegenstands durch Nutzung von
     Rohstoffe eines *anderen* den Dieb–Schöpfer zum Eigentümer des
     Objekts macht. Die Sicht von Rand impliziert sogar, dass Rechte,
-    auch Eigentumsrechte erst dann entstehen wenn Konflikte entstehen
+    auch Eigentumsrechte, erst dann entstehen wenn Konflikte entstehen
     können. Rand sieht z.B., dass Rechte erst als gesellschaftliches
     Konzept entstehen, sobald es mehr als eine Person gibt. Siehe
-    Rand, "Man's Rights," in *Capitalism: The Unknown Ideal*, p.  321:
+    Rand: "Man's Rights," in *Capitalism: The Unknown Ideal*, S. 321:
     "Ein 'Recht' ist ein moralisches Prinzip, welches die Freiheit
     einer Person innerhalb einer Gesellschaft definiert und begrenzt."
     Tatsächlich argumentiert Rand sogar, "Die Rechte eines Menschen
     können nur durch physische Gewalt verletzt werden," d.h., ein
     Konflikt über eine knappe Ressource. "The Nature of Government,"
-    in *Capitalism: The Unknown Ideal*, p. 330. Auf p. 334, versucht
+    in *Capitalism: The Unknown Ideal*, S. 330. Auf S. 334, versucht
     Rand (erfolglos) die Regierung als Agent zur Durchsetzung von
     Rechte zu Rechtfertigen, auf der Grundlage der Tatsache, dass es
     "ehrliche Meinungsverschiedenheiten" – d.h. Konflikte – auch
@@ -508,7 +510,7 @@ hat.[^103]
 
 [^103]: Aus diesen Gründen lehne ich den auf die Schöpfung begründeten
     Ansatz der Objektivisten David Kelley und Murray Frank ab. Laut
-    Frank, "Intellectual and Personality Property," p. 7, "auch wenn
+    Frank: "Intellectual and Personality Property," S. 7, "auch wenn
     Eigentumsrechte dabei helfen Knappheit zu 'rationieren', ist Knappheit
     nicht die Grundlage für Eigentumsrechte. Die Ansicht, dass es das
     ist, scheint Ursache und Wirkung zu vertauschen, indem es Rechte
@@ -553,7 +555,7 @@ hat.[^103]
     Argument der Schöpfung ist auch nicht individualistischer als das
     Argument der Knappheit.
 
-    > Kelley schreibt in "Response to Kinsella," p. 13: 
+    > Kelley schreibt in "Response to Kinsella," S. 13: 
     >
     > Eigentumsrechte sind notwendig da der Mensch seine Vernunft
     > einsetzen muss um sein Leben zu erhalten. Die vorrangige Aufgabe
@@ -563,11 +565,11 @@ hat.[^103]
     > des Eigentumsrechts liegt demnach in der Wertschöpfung. . . .
     > Knappheit wird zum relevanten Thema wenn wir die Nutzung
     > natürlicher Ressourcen bedenken, wie Land, die als Rohstoffe zur
-    > Wertschöpfung dienen.  Ich würde als allgemeine Regel sagen, dass
+    > Wertschöpfung dienen. Ich würde als allgemeine Regel sagen, dass
     > es zwei Bedingungen gibt damit natürliche Ressourcen angeeignet
     > werden können: (1) man muss sie produktiv einsetzen, und (2)
     > dieser produktive Einsatz muss eine exklusive Verfügung über die
-    > Ressourcen erfordern, d.h.  das Recht die Nutzung durch andere
+    > Ressourcen erfordern, d.h. das Recht die Nutzung durch andere
     > auszuschließen. . . . Die zweite Bedingung gilt nur wenn eine
     > Ressource knapp ist. Für dinge die man jedoch erschaffen hat, wie
     > ein neues Produkt, stellt der Schöpfungsakt jedoch die Begründung
@@ -575,13 +577,13 @@ hat.[^103]
     > wurde hinzugefügt)
 
     Die Gründe für meine Meinungsverschiedenheit mit Kelley sollten
-    hier offensichtlich sein, lasst mich jedoch darauf hinweisen, dass
+    hier offensichtlich sein; lasst mich jedoch darauf hinweisen, dass
     "Wertschöpfung" wie jede menschliche Handlung auch, den Einsatz
     knapper Ressourcen voraussetzt, d.h. weltlicher, materieller
-    Güter.  Bei jeder Schöpfung werden Objekte aus bereits
+    Güter. Bei jeder Schöpfung werden Objekte aus bereits
     existierende Atome eingesetzt; weder diese Tatsache noch seine
     Anerkennung ist in irgend einer weise im schlechten Sinne
-    animalisch. Das der Mensch im Gegensatz zum Tier den Wünsch hat
+    animalisch. Das der Mensch im Gegensatz zum Tier den Wunsch hat
     höhere Werte zu erschaffen ändert nichts an dieser Analyse.
     Zweitens, vertritt Kelley zwei separate Regeln zur originären
     Aneignung knapper Ressourcen: Durch erstmalige Nutzung der
@@ -607,7 +609,7 @@ hat.[^103]
     originären Aneignung, die ich im weiteren kritisieren werde.
 
 Die Befürworter von g.E. indem sie sich auf Schöpfung und Arbeit
-Konzentrieren und nicht auf die erste Nutzung knapper Güter als
+konzentrieren und nicht auf die erste Nutzung knapper Güter als
 Prüfstein für Eigentumsrechte, werden dazu verleitet ein übertriebenes
 Gewicht auf die "Belohnung" für die Arbeit des Schaffenden zu legen.
 Dieses Denkmuster führte Adam Smith zu seiner fehlerbehafteten
@@ -622,21 +624,21 @@ Patent- und Urheberrechte, da entfernte Verwandte nicht die Werke ihrer
 Vorfahren erschaffen haben und deshalb auch keine Belohnung verdient
 haben).[^105]
 
-[^104]: Siehe z.B. Murray N. Rothbard, *Economic Thought Before Adam
+[^104]: Siehe z.B. Murray N. Rothbard: *Economic Thought Before Adam
     Smith: An Austrian Perspective on the History of Economic
-    Thought*, vol.  1 (Brookfield, Vt.: Edward Elgar, 1995), p. 453:
+    Thought*, vol. 1 (Brookfield, Vt.: Edward Elgar, 1995), S. 453:
     "Es war tatsächlich Adam Smith der fast als einziger für die
     Einführung der Arbeitswerttheorie in die Wirtschaftswissenschaft
-    verantwortlich war.  Dementsprechend kann Smith mit Recht für die
+    verantwortlich war. Dementsprechend kann Smith mit Recht für die
     Entstehung und für die bedeutenden Folgen von Marx verantwortlich
     gemacht werden." Selbst Denker die ansonsten gründlich sind, legen
     einen übergebührlichen Wert auf Arbeit und der Möglichkeit sie zu
     "besitzen als Wesentlich für den Akt der originären Aneignung an.
     Sogar Rothbard impliziert z.B., dass ein Individuum "Eigentümer
     seiner selbst ist und demnach auch *seiner eigenen Arbeit*."
-    Rothbard, "Justice and Property Rights," p. 284, Hervorhebung
-    wurde hinzugefügt; siehe auch Rothbard, *The Ethics of Liberty*,
-    p. 49. Es ist eine irreführende Metapher davon zu sprechen, dass
+    Rothbard, "Justice and Property Rights," S. 284, Hervorhebung
+    wurde hinzugefügt; siehe auch Rothbard: *The Ethics of Liberty*,
+    S. 49. Es ist eine irreführende Metapher davon zu sprechen, dass
     man "Eigentümer der eigenen Arbeit" (oder des eigenen Lebens oder
     der eigenen Ideen) ist. Das Recht die eigene Arbeit zu nutzen oder
     davon zu profitieren ist lediglich eine *Folge* der
@@ -645,7 +647,7 @@ haben).[^105]
     Recht an Privateigentum, was Rothbard in *The Ethics of
     Liberty*, insb. kap. 15 auch anerkannt hat.
 
-[^105]: Siehe auch Reisman, *Capitalism*, pp. 388–89.
+[^105]: Siehe auch Reisman: *Capitalism*, S. 388–89.
 
 Desweiteren impliziert die Beigabe der utilitaristischen zu der
 naturrechtlichen Denkart, dass etwas Eigentum sein kann wenn es einen
@@ -657,7 +659,7 @@ Nutzung dieser Sachen ein Monopol gewähren, selbst wenn diese Sachen
 ansonsten keine knappe Ressource sind (z.B. das Monopol des U.S.
 Postamts über die Eilzustellung von Briefen).
 
-[^106]: Hoppe, *A Theory of Socialism and Capitalism*, pp. 139–41, 237 
+[^106]: Hoppe: *A Theory of Socialism and Capitalism*, S. 139–41, 237 
     n. 17.
 
 Weil diese Ideen nicht in dem Sinne knapp sind, dass über ihre Nutzung
@@ -665,7 +667,7 @@ ein physischer Konflikt entstehen könnte, sind sie nicht Gegenstand vom
 Eigentumsrecht, welches nur für solche Konflikte erdacht wurde.
 
 
-Zwei Arten der Originären Aneignung
+Zwei Arten der originären Aneignung
 -----------------------------------
 
 Was ist jedoch so schlimm daran "neue" Eigentumsrechte anzuerkennen?
@@ -700,7 +702,7 @@ nicht erdacht um Konflikte zu vermeiden.
 Befürworter von g.E. müssen sich auch für eine neue Regel zur originären
 Aneignung aussprechen, welche die Regel des ersten Nutzers ergänzt, wenn
 nicht sogar ersetzt. Sie müssen behaupten, dass es eine *zweite* Art
-gibt wodurch man zum Besitzer von greifbarem Eigentum werden kann.  D.h.
+gibt wodurch man zum Eigentümer greifbaren Eigentums werden kann. D.h.
 der Befürworter von g.E. muss eine Regel zur originären Aneignung
 ähnlich der Folgenden vorschlagen: "Eine Person die eine kreative oder
 nützliche Idee ausdenkt, welches einen Handelnden bei der *Nutzung*
@@ -708,11 +710,11 @@ seines greifbaren Eigentums leiten oder lenken kann, erlangt dadurch mit
 sofortiger Wirkung das Recht jedes andere greifbare Eigentum der Welt zu
 kontrollieren, soweit es eine ähnliche Nutzung des Eigentums betrifft".
 Diese neue Art originärer Aneignung ist derart mächtig, dass es dem
-Schöpfer Rechte an Eigentum gibt welches sich *bereits im Besitz* von
-dritten befindet.
+Schöpfer Rechte an Eigentum gibt welches *bereits das Eigentum* von
+Dritten ist.
 
 Indem jemand z.B. eine neue Art erfindet einen Brunnen zu graben, kann
-er als Erfinder *alle anderen* auf der ganzen Welt daran hindern, auf
+er als Erfinder *alle Personen* auf der ganzen Welt daran hindern auf
 diese Art Brunnen zu graben, *selbst auf ihrem eigenen Eigentum*. Ein
 weiteres Beispiel ist die Vorstellung einer Zeit als Menschen noch in
 Höhlen lebten. Ein kluger Junge–nennen wir ihn Galt-Magnon–entschließt
@@ -720,15 +722,16 @@ sich eine Holzhütte auf ein offenes Feld in der Nähe von seinem Acker zu
 bauen. Das ist sicherlich eine gute Idee und die anderen sehen es. Sie
 ahmen Galt-Magnon nach und fangen an ihre eigenen Hütten zu bauen. Der
 erste Mensch der das Haus erfunden hat, hat laut den Befürwortern des
-g.E., das Recht die anderen daran zu hindern auf ihrem eigenen Land
-mit ihrem eigenen Holz Häuser zu bauen, oder eine Abgabe von ihnen zu
+g.E. das Recht die anderen daran zu hindern auf ihrem eigenen Land mit
+ihrem eigenen Holz Häuser zu bauen, oder eine Abgabe von ihnen zu
 verlangen sollten sie doch eins bauen. Es ist offensichtlich, dass der
 Erfinder in diesen Beispielen zum *Miteigentümer* von greifbarem
 Eigentum der anderen wird (d.h. von Land und Holz), und zwar *nicht*
-aufgrund seiner erstmaligen Nutzung des Eigentums (denn es ist bereits
-im Besitz), sondern aufgrund seiner *Schöpfung einer Idee*. Es ist klar,
-dass diese Regel gegen die des ersten Nutzers verstößt. Es untergräbt
-beliebig und grundlos die grundlegende Regel allen Eigentums.
+aufgrund seiner erstmaligen Nutzung des Eigentums (denn es wurde bereits
+in Besitz genommen), sondern aufgrund seiner *Schöpfung einer Idee*. Es
+ist klar, dass diese Regel gegen die des ersten Nutzers verstößt. Es
+untergräbt beliebig und grundlos die grundlegende Regel allen
+Eigentums.
 
 Tatsächlich gibt es keinen Grund, warum es ausreichen sollte bloß etwas
 zu erfinden, damit der Erfinder zum Miteigentümer am Eigentum aller
@@ -751,3 +754,4 @@ knappe Ressourcen. Die Debatte über den Schutz von Rechte an "Ideen",
 "Kreationen" oder "Sachen mit einem Wert" dient nur zur Verschleierung
 der Tatsache, dass die Befürworter von g.E. Gegner des uneingeschränkten
 Rechts sind sich Privateigentum originären Anzueignen.
+

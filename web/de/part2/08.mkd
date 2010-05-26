@@ -1,8 +1,8 @@
-Gesetze zum Geistigen Eigentum
+Gesetze zum geistigen Eigentum
 ==============================
 
 
-Die Arten Geistigen Eigentums
+Die Arten geistigen Eigentums
 -----------------------------
 
 Das Konzept des geistigen Eigentums umfasst mehrere gesetzlich geregelte
@@ -31,7 +31,7 @@ sowie Geschäftsgeheimnisse.[^34]
 
     Es gibt auch die Anmerkung, "eine Auffassung von geistigem Eigentum
     ist, das Recht an neuen Ideen, die sich in konkreten Produkte geistiger
-    Anstrengung ausdrücken". Dale A. Nance, "Foreword: Owning Ideas," in
+    Anstrengung ausdrücken". Dale A. Nance: "Foreword: Owning Ideas," in
     "Symposium: Intellectual Property," *Harvard Journal of Law \& Public
     Policy* 13, no. 3 (Summer 1990): 757.
 
@@ -41,18 +41,18 @@ sowie Geschäftsgeheimnisse.[^34]
     Paul, Minn.: West Publishing, 1990); siehe auch "Patent, Trademark,
     and Trade Secret", http://profs.lp.findlaw.com/patents/index.html. 
 
-    Eine gute Einführung zum Patentrecht schrieb Ronald B. Hildreth, 
+    Eine gute Einführung zum Patentrecht schrieb Ronald B. Hildreth: 
     *Patent Law: A Practitioner’s Guide*, 3rd ed. (New York: Practising
     Law Institute, 1998).
 
     Eingehendere Behandlungen zur Rechtslage um geistiges Eigentum sind
-    unter anderem Donald S. Chisum, *Chisum on Patents* (New York: 
-    Matthew Bender, 2000); Melville B. Nimmer und David Nimmer, *Nimmer
-    on Copyright* (New York: Matthew Bender, 2000); Paul Goldstein, 
+    unter anderem Donald S. Chisum: *Chisum on Patents* (New York: 
+    Matthew Bender, 2000); Melville B. Nimmer und David Nimmer: *Nimmer
+    on Copyright* (New York: Matthew Bender, 2000); Paul Goldstein: 
     *Copyright: Principles, Law, and Practice* (Boston: Little, Brown,
-    1989); J. Thomas McCarthy, *McCarthy on Trademarks and Unfair
+    1989); J. Thomas McCarthy: *McCarthy on Trademarks and Unfair
     Competition,* 4th ed. (St. Paul, Minn.: West Group, 1996); und Roger 
-    M.  Milgrim, *Milgrim on Trade Secrets* (New York: Matthew Bender,
+    M.  Milgrim: *Milgrim on Trade Secrets* (New York: Matthew Bender,
     2000).
 
     Hilfreiche Information und Broschüre bekommt man auch vom
@@ -124,7 +124,7 @@ jedoch nicht die Erfindung tatsächlich zu *nutzen*.[^39]
     und *B* seine eigene Erfindung nutzen kann.
 
 Nicht jede Innovation oder Entdeckung kann patentiert werden. Der
-Oberste Gerichtshof der Vereinigten Staaten hat beispielsweise drei
+oberste Gerichtshof der Vereinigten Staaten hat beispielsweise drei
 Bereiche festgemacht, in denen keine Patente gewährt werden können,
 nämlich "natürliche Gesetze, natürliche Phänomene und abstrakte
 Ideen"[^40]. Sofern man abstrakte Ideen auf eine "praktische
@@ -240,7 +240,7 @@ Bundesebene, werden verschiedene Aspekte davon durch Gesetze der
 Bundesstaaten geregelt, wie bspw. die Zuweisung des *Inhabers* von einem
 Patent. Diese Gesetze sind von Staat zu Staat aber trotzdem sehr
 ähnlich[^53]. Im Gegensatz dazu, sind Markenrechte nicht explizit durch
-die Verfassung genehmigt, sondern basieren auf auf dem "Interstate Commerce
+die Verfassung genehmigt, sondern basieren auf dem "Interstate Commerce
 Clause", sodass es nur Waren und Dienstleistungen betrifft die
 zwischen den Bundesstaaten gehandelt werden[^54]. Die Markenrechte der
 einzelnen Bundesstaaten bestehen zwar noch, da sie nicht auf Bundesebene
@@ -264,7 +264,7 @@ und nicht durch den Bund.[^55]
 
 Viele Laien, auch Libertäre, haben oft ein schlechtes Verständnis der
 Konzepte und Gesetze zum g.E. und unterscheiden nicht immer zwischen
-Urheberrecht, Markenrecht und Patentrecht.  Viele sind fälschlicherweise
+Urheberrecht, Markenrecht und Patentrecht. Viele sind fälschlicherweise
 der Auffassung, dass im Rechtssystem der U.S.A. derjenige der als erster
 den Pantentantrag im Patentbüro einreicht den Vorzug vor jemand hat, der
 seinen Antrag später einreicht. Tatsächlich werden Patente aber an
@@ -278,37 +278,38 @@ gewähren.[^56]
     Copyrights," in *Capitalism: The Unknown Ideal* (New York: New
     American Library, 1967), p. 133. 
 
-    Überraschend ist auch ihre Verteidugung der strikten Überwachung 
+    Überraschend ist auch ihre Verteidugung der strikten Überwachung
     auf Monopolbildung die Patentträger ausgesetzt sind. Da Patente
-    jedoch von Regierungen gewährte Monopole darstellen, ist es durchaus
-    angebracht die Gesetzgebung zur Verhinderung von Monopole anzuwenden
-    um die Ausweitung des
-    Monopols über die vom Patentgesetz beabsichtigten Grenzen hinaus zu
-    verhindern. Das Problem mit der Kartellgesetzgebung ist seine
-    Anwendung auf den normalen, friedlichen Geschäftsbetrieb, nicht die
-    Beschränkung echter–d.h. von Regierungen gewährte Monopole.
-    Ähnlich kann man auch im Bezug auf Bill Gates argumentieren, dessen
-    Reichtum weitestgehend durch ein im Urheberrecht inhärentes Monopol
-    begründet ist, welches von Regierungen gewährt wurde. Darüber hinaus,
-    da Bill Gates kein Libertärer ist und sicherlich nicht an der
-    Legitimität der Kartellgesetzgebung zweifelt, wäre jedes Mitleid
-    über sein selbst herbeigeführtes Schicksal fehl am Platz.
+    jedoch von Regierungen gewährte Monopole darstellen, ist es
+    durchaus angebracht die Gesetzgebung zur Verhinderung von Monopole
+    anzuwenden um die Ausweitung des Monopols über die vom Patentgesetz
+    beabsichtigten Grenzen hinaus zu verhindern. Das Problem mit der
+    Kartellgesetzgebung ist seine Anwendung auf den normalen,
+    friedlichen Geschäftsbetrieb, nicht die Beschränkung echter–d.h.
+    von Regierungen gewährte Monopole.  Ähnlich kann man auch im Bezug
+    auf Bill Gates argumentieren, dessen Reichtum weitestgehend durch
+    ein im Urheberrecht inhärentes Monopol begründet ist, welches von
+    Regierungen gewährt wurde. Darüber hinaus, da Bill Gates kein
+    Libertärer ist und sicherlich nicht an der Legitimität der
+    Kartellgesetzgebung zweifelt, wäre jedes Mitleid über sein selbst
+    herbeigeführtes Schicksal fehl am Platz.
 
 
-Das Verhältnis vom Geistigen zum Greifbaren Eigentum
+Das Verhältnis vom geistigen zum greifbaren Eigentum
 ----------------------------------------------------
 
 Wie zuvor erwähnt können wir geistiges Eigentum, zumindest was Patente
 und das Urheberrecht anbelangt, als Rechte an ideelle Objekte
 betrachten. Dabei sollte man unbedingt beachten, dass das Eigentum an
-einer Idee, bzw. an einem ideellen Objekt dem Besitzer letztendlich Rechte
-auf *jede* physikalische Verkörperung dieser Idee einräumt. Betrachten wir
-den Fall von einem urheberrechtlich geschützten Buch. Der Urheber *A* hat
-ein Recht an das zugrundeliegende ideelle Objekt, wovon das Buch bloß
-ein Exemplar ist. Das Urheberrecht gibt *A* das Recht an der *Anordnung*
-der Wörter im Buch; woraus folgt, dass *A* das Recht an *jede*
-physikalische Kopie oder Verkörperung des Buches, bzw. zumindest an jedes
-Buch innerhalb der Jurisdiktion die dieses Urheberrecht anerkannt.
+einer Idee, bzw. an einem ideellen Objekt dem Inhaber letztendlich
+Rechte auf *jede* physikalische Verkörperung dieser Idee einräumt.
+Betrachten wir den Fall von einem urheberrechtlich geschützten Buch. Der
+Urheber *A* hat ein Recht an das zugrundeliegende ideelle Objekt, wovon
+das Buch bloß ein Exemplar ist. Das Urheberrecht gibt *A* das Recht an
+der *Anordnung* der Wörter im Buch; woraus folgt, dass *A* das Recht an
+*jede* physikalische Kopie oder Verkörperung des Buches hat, bzw.
+zumindest an jedes Buch innerhalb der Jurisdiktion die dieses
+Urheberrecht anerkannt.
 
 Wenn *A* also ein Roman schreibt, hat er das Urheberrecht an diesem
 "Werk". Wenn er eine physikalische Kopie des Romans in der Form eines
@@ -320,11 +321,11 @@ Form von Papier, Tinte und Drucker besitzt, darf er demnach mit seinem
 eigenen Eigentum keine weitere Kopie des Buches von *A* anfertigen.
 Dieses Recht ist dem *Urheber* vorbehalten (deswegen "Urheberrecht").
 
-Analog hat der Besitzer *A* von einem Patent, das Recht dritte daran zu
+Analog hat der Inhaber *A* von einem Patent, das Recht dritte daran zu
 hindern die patentierte Erfindung zu nutzen oder auszuüben, selbst wenn
 der Dritte ausschließlich sein eigenes Eigentum verwendet. Auf diese Art
 wird *A* durch das Eigentum an einem ideellen Objekt ein eingeschränktes
 Verfügungsrecht eingeräumt–bzw. wird zum Miteigentümer–an das greifbare
 Eigentum unzähliger anderer. Patente und Urheberrechte führen
-unweigerlich dazu, dass das Eigentum von seinem natürlichen Besitzer an
-Erfinder, Entwickler und Künstler übertragen wird.
+unweigerlich dazu, dass das Privateigentum von seinem natürlichen
+Inhaber an Erfinder, Entwickler und Künstler übertragen wird.
