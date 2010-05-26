@@ -1,4 +1,4 @@
-Die Lösung: Privateigentum und Originäre Aneignung
+Die Lösung: Privateigentum und originäre Aneignung
 ==================================================
 
 Die Geschichte des gesellschaftlichen und politischen Diskurses, hat
@@ -14,7 +14,7 @@ heutigen Zeit wurde diese alte und einfache Lösung am klarsten und
 
 [^1.1]: Siehe Kapitel 5.
 
-[^1.2]: See Murray N. Rothbard, *Man, Economy, and State* (Auburn, Al.:
+[^1.2]: Siehe Murray N. Rothbard, *Man, Economy, and State* (Auburn, Al.:
     Mises Institute, 1993 [1962]); idem, *Power and Market* (Kansas City:
     Sheed Andrews & McMeel, 1977 [1970]); idem, *The Ethics of Liberty*
     (New York: New York University Press, 1998 [1982]); idem,
@@ -82,7 +82,7 @@ erworben wurden. Unter solcher Reglung gäbe es demzufolge zwei
 Klassen von Personen - *Untermenschen* wie *A* und *Übermenschen* wie
 *B* - für die ein jeweils verschiedenes "Recht" gilt. Dementsprechend
 ist eine solch Regelung keine Ethik die auf jedes menschliche
-(rationale) Wesen angewendet werden kann. Sie gilt per Definition nicht
+(rationale) Wesen angewandt werden kann. Sie gilt per Definition nicht
 für alle gleich und kann deshalb nicht für sich beanspruchen Recht zu
 sein. Eine Regel die den Anspruch hat ein Recht - eine *gerechte* Regel
 - zu sein, muss universell für alle gleich gelten.
@@ -92,14 +92,14 @@ sind, ist die Bedingung nach gleichem Recht für alle erfüllt. Diese
 Alternative leidet allerdings an einem viel schwerwiegenderen Fehler.
 Würde sie angewendet, müsste die gesamte Menschheit sofort
 zugrundegehen. Jede Aktivität einer Person verlangt den Einsatz
-bestimmter Knapper Mittel (zumindest des Körpers der Person und der
-Fläche auf dem er Steht). Wenn aber jeder an allen Gütern ein
+bestimmter knapper Mittel (zumindest des Körpers der Person und der
+Fläche auf dem er steht). Wenn aber jeder an allen Gütern ein
 Miteigentümer ist, wäre es niemandem jemals erlaubt irgendetwas zu tun,
 ohne vorher das Einverständnis aller Miteigentümer zu bekommen. Wie soll
 jemand dieses Einverständnis aber jemals gewähren, wenn er nicht der
 exclusive Eigentümer seines eigenen Körpers ist (einschließlich der
 Stimmbänder) womit er dieses Einverständnis ausdrücken muss?
-Tatsächlich bräuchte man vorher Erlaubnis um überhaupt einem anderen
+Tatsächlich bräuchte man vorher Erlaubnis um überhaupt einem Anderen
 Erlaubnis zu geben, damit dieser wiederum einem Erlaubnis erteilt. Die
 Menschheit befände sich im Stillstand und da jede menschliche Ethik das
 Überleben erlauben muss, müssen wir diese Alternative ebenfalls
@@ -109,7 +109,7 @@ Diese Erkenntnis über die praxeologische[^1.3] (praktische) Unmöglichkeit
 des "universellen Kommunismus", wie Rothbard diesen Vorschlag nannte,
 bringt mich sofort auf eine weitere viel strengere Form, womit die Idee
 der originären Aneignung und das Privateigentum, als einzig korrekte
-Lösung für das Problem der Gesellschaftlichen Ordnung, bewiesen werden
+Lösung für das Problem der gesellschaftlichen Ordnung, bewiesen werden
 kann:[^1.4] Ob Personen Rechte haben oder nicht, und wenn ja welche, kann
 nur durch Argumentation (dem sprachlichen Austausch von Aussagen)
 entschieden werden. Rechtfertigung - Beweisführung, Ableitung,
@@ -143,12 +143,12 @@ von dem Gorilla das für seine Art übliche Verhalten annehmen, gibt es
 keine rationale Lösung zu dem Konflikt. Entweder der Gorilla wird Crusoe
 zur Seite schieben, zerquetschen, oder verspeisen - so würde der Gorilla
 das Problem lösen - oder Crusoe wird den Gorilla zähmen, verfolgen,
-schlagen oder töten - so würde Crusoe das Problem lösen.  Man könnte in
+schlagen oder töten - so würde Crusoe das Problem lösen. Man könnte in
 dieser Situation auch vom moralischen Relativismus sprechen. Eher
-angemessen wäre es jedoch diese Situation als solche zu bezeichnen, in
-der die Frage nach Gerechtigkeit und Vernunft gar nicht erst aufkommt;
-man könnte sagen,  eine moralische Frage tritt gar nicht erst auf.
-Freitag als Gorilla ist für Crusoe kein moralisches sondern ein
+angemessen wäre es jedoch diese Situation als solch eine zu bezeichnen,
+in der die Frage nach Gerechtigkeit und Vernunft gar nicht erst
+aufkommt; man könnte sagen, eine moralische Frage tritt gar nicht erst
+auf. Freitag als Gorilla ist für Crusoe kein moralisches sondern ein
 technisches Problem. Er hat keine andere Wahl, außer sich zu bemühen den
 Gorilla unter seiner Kontrolle zu bringen; ebenso wie andere leblose
 Objekte in seiner Umgebung ihm keinen anderen Umgang erlauben, außer sie
@@ -161,7 +161,7 @@ nach einer Lösung überhaupt von Bedeutung wird. Erst wenn Freitag,
 ungeachtet seiner physischen Erscheinung, in der Lage ist zu
 argumentieren (selbst wenn er diese Fähigkeit bloß ein mal gezeigt hat),
 kann er als rational erachtet werden. Erst dann kann die Frage nach einer
-Korrekten Lösung für das Problem der gesellschaftlichen Ordnung
+korrekten Lösung für das Problem der gesellschaftlichen Ordnung
 überhaupt einen Sinn ergeben. Man kann nicht jemandem *irgendeine*
 Antwort geben, wenn derjenige noch nie eine Frage gestellt hat, oder
 genauer gesagt noch nicht mal seine relativistische Sichtweise in der
@@ -180,7 +180,7 @@ Voraussetzung der Argumentation gemacht werden, nicht umgekehrt durch
 ein Argument widerlegen können, ohne dabei durch die eigene Handlung
 in einen internen Widerspruch zu geraten.
 
-Beim der Argumentation schweben Aussagen nicht einfach frei im Raum,
+Bei der Argumentation schweben Aussagen nicht einfach frei im Raum,
 sondern es handelt sich um eine bestimmte menschliche Aktivität.
 Voraussetzung für die Argumentation zwischen Crusoe und Freitag ist die
 gegenseitige Anerkennung, dass beide als einzige die Kontrolle über
@@ -222,7 +222,7 @@ ohne vorher von einem solchen Nachzügler die Erlaubnis zu haben. Wie
 kann aber ein Nachzügler jemals einem Vorgänger diese Erlaubnis
 erteilen? Der Nachzügler bräuchte außerdem das Einverständnis von allen
 die im Bezug auf ihm Nachzügler sind, etc. Unter solchen Bedingungen,
-könnten weder wir, unsere Vorfahren noch unsere Nachkommen jemals
+könnten weder wir, unsere Vorfahren, noch unsere Nachkommen jemals
 überleben. Damit eine Person zu irgend einem Zeitpunkt etwas
 argumentieren kann, muss er jedoch überleben können; deswegen kann das
 Recht am Eigentum nicht als Zeitlos und und unabhängig von den
@@ -239,7 +239,7 @@ einem bestimmten Ort.[^1.5]
 
 [^1.5]: Merke den "naturrechtlichen" Charakter der vorgeschlagenen Lösung
     zum Problem der gesellschaftlichen Ordnung - Privateigentum und das
-    erlangen von Besitz durch originäre Aneignung ist nicht bloß eine
+    erlangen von Eigentum durch originäre Aneignung ist nicht bloß eine
     Konvention, sondern ein notwendiges Recht, dass sich aus der Natur
     des Menschen als rationales Wesen ergibt. Eine
     Konvention dient einem bestimmten *Zweck* und es existieren zu ihm

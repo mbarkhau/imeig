@@ -20,7 +20,7 @@ Gelehrten, der Ökonomie und ökonomischen Abwägungen untergeordnet.
 Nach Posner war alles gerecht, was den gesellschaftlichen Wohlstand
 fördert.[^1.12]
 
-[^1.12]: Posner, *The Economics of Justice*, p. 74: "ungerecht (ist
+[^1.12]: Posner, *The Economics of Justice*, S. 74: "ungerecht (ist
     definiert) als das was den Wohlstand einer Gesellschaft verringert."
 
 Der Unterschied zwischen den beiden Ansätzen kann man anhand eines der
@@ -52,7 +52,7 @@ wäre das ein Schaden an *A*. Die wirkliche Frage sollte sein: Sollte es
 größeren Schaden zu vermeiden".[^1.13]
 
 [^1.13]: Ronald Coase, "The Problem of Social Cost," in: idem, *The Firm,
-    the Market, and the Law*, p. 96. Die moralische Perversion dieser
+    the Market, and the Law*, S. 96. Die moralische Perversion dieser
     Behauptung kann man am besten erkennen wenn wir uns den Fall einer
     Vergewaltigung von *B* durch *A* vorstellen. Nach Coase, sollte *A*
     nicht aufgehalten werden.. Vielmehr "handelt es sich um eine Frage
@@ -95,7 +95,7 @@ Fabrik verursacht Rauch und verringert dadurch den Eigentumswert der
 umliegenden Grundstücke. Wenn die Grundstücke um $ 3 Million an Wert
 verlieren und die Kosten eines Standortwechsels für die Fabrik $ 2
 Million betragen, sollte die Fabrik haftbar gemacht werden und gezwungen
-werden um zu ziehen. Wenn die Zahlen jedoch umgekehrt sind - die
+werden umzuziehen. Wenn die Zahlen jedoch umgekehrt sind - die
 Grundstückswerte verlieren $ 2 Million und die Kosten des
 Standortwechsels sind $ 3 Million - darf die Fabrik bleiben und
 weiterhin Rauch abgeben.
@@ -103,7 +103,7 @@ weiterhin Rauch abgeben.
 Sowohl die positive als auch die normative Behauptung der
 Rechtsgelehrten und Ökonomen aus Chicago müssen abgewiesen werden.[^1.14]
 Im Bezug auf die Behauptung es würde keine Rolle spielen, wem die
-Eigentumsrechte zugewiesen werden folgen drei Antworten. Erstens, wie
+Eigentumsrechte zugewiesen werden, folgen drei Antworten. Erstens, wie
 Coase unweigerlich zugibt, macht es für den Bauern und der Eisenbahn
 sehr wohl einen Unterschied, wem die Eigentumsrechte zugewiesen werden.
 Es macht nicht nur ein Unterschied, wie Ressourcen verteilt werden,
@@ -113,9 +113,9 @@ sondern auch wem sie gehören.
     Rights," *Journal of Libertarian Studies*, Vol.1, no. 2, 1977; idem,
     "Ethics, Efficiency, Coasian Property Rights, and Psychic Income: A
     Reply to Harold Demsetz," *Review of Austrian Economics*, Vol. 8,
-    no.  2, 1995; idem, "Private Property Rights, Erroneous
+    no. 2, 1995; idem, "Private Property Rights, Erroneous
     Interpretations, Morality and Economics," Quarterly Journal of
-    Austrian Economics, Vol.  3, no. 1, 2000; Gary North, *The Coase
+    Austrian Economics, Vol. 3, no. 1, 2000; Gary North, *The Coase
     Theorem: A Study in Epistemology* (Tyler, Texas: Institute for
     Christian Economics, 1992); idem, "Undermining Property Rights:
     Coase and Becker," *Journal of Libertarian Studies*, Vol. 16, no. 4
@@ -154,7 +154,7 @@ je nachdem wie Eigentumsrechte eingangs bestimmt wurden.
 Wirtschaftslehre, dass Gerichte die Rechte am Eigentum zur Maximierung
 des gesellschaftlichen Wohlstands zuweisen sollten, folgen drei
 Antworten. Erstens ist kein zwischenmenschlicher Vergleich vom Nutzen
-möglich. Dennoch müssen Gerichte wohl oder über solche beliebigen
+möglich. Dennoch müssen Gerichte wohl oder übel solche beliebigen
 Vergleiche machen, jedes mal wenn sie eine Kosten-Nutzen-Analyse machen.
 Solche Kosten-Nutzen-Vergleiche sind so willkürlich wie die Annahmen auf
 denen sie beruhen. Sie nehmen z.B. an, dass psychische Kosten
@@ -172,7 +172,7 @@ desweiteren würde wohl keiner mit rechtem Verstand, sich an ein Gericht
 wenden, dass bekanntgibt es wird Eigentumsrechte mit der Zeit neu
 zuweisen, abhängig von der derzeitigen Marktlage.
 
-[^1.15]: Posner, *The Economics of Justice*, p. 70-71, gibt dies mit
+[^1.15]: Posner, *The Economics of Justice*, S. 70-71, gibt dies mit
     ergreifender Offenheit zu: "Absolute Rechte spielen eine wichtige
     Rolle in der ökonomischen Rechtstheorie. ... Wenn Transaktionskosten
     zu groß werden, ist die Anerkennung von absoluten Rechten nicht
@@ -182,7 +182,7 @@ zuweisen, abhängig von der derzeitigen Marktlage.
 
 Zuletzt, muss eine Ethik bei sich ändernde Umstände gleich und stabil
 bleiben; eine Ethik muss einem erlauben Entscheidungen über "Recht oder
-Unrecht" zu treffen *bevor* man handelt und das wofür man haftbar
+Unrecht" zu treffen *bevor* man handelt, und das wofür man haftbar
 gemacht werden könnte, muss unter der eigenen Kontrolle stehen. Das gilt
 für die klassische Ethik des Privateigentums mit dem
 erster-Nutzer-erster-Eigentümer Prinzip. Dieser Ethik zufolge, sind

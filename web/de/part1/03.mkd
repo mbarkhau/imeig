@@ -8,7 +8,7 @@ unaufgeforderte *physische* Beschädigung oder Beeinträchtigung von
 Objekten oder Gebiete die das Eigentum anderer Personen sind. Im Gegensatz
 dazu steht die weit verbreitete Meinung, dass eine Beschädigung oder
 Beeinträchtigung vom *Wert* (oder Preis) des Eigentums einer anderer
-Person ebenfalls eine Strafbare Handlung darstellt.
+Person, ebenfalls eine Strafbare Handlung darstellt.
 
 Im Bezug auf die (Un-)Vereinbarkeit beider Positionen ist es leicht
 einzusehen, dass praktisch jede Handlung einer Person den *Wert* (Preis)
@@ -37,7 +37,7 @@ Wertschätzung von Bier und Brot, oder seine Eröffnung einer Brauerei
 oder Bäckerei - haben keinen Einfluss auf die körperliche Unversehrtheit
 von *B* oder die physische Integrität des Eigentums der Brauer und
 Bäcker. Wenn sie sich trotzdem physisch verteidigen, hätte *A* das Recht
-sich zu verteidigen.  Demnach können wir es jedoch nicht als Straftat
+sich zu verteidigen. Demnach können wir es jedoch nicht als Straftat
 erachten wenn jemand den Wert des Eigentums einer anderen Person
 verändert. Eine dritte Möglichkeit existiert nicht.
 
@@ -47,25 +47,25 @@ nicht haltbar. Eine Person hat zwar Kontrolle darüber ob seine
 Handlungen die *physischen* Eigenschaften des Eigentums einer anderen
 Person verändert, er hat jedoch keine Kontrolle darüber ob seine
 Handlungen den *Wert* (oder Preis) des Eigentums einer anderen Person
-beeinflussen. Dieser Wert wird nämlich durch Wertschätzung und
+beeinflusst. Dieser Wert wird nämlich durch Wertschätzung und
 Einschätzung *anderer* Personen bestimmt. Demzufolge wäre es unmöglich
 vorauszusagen, ob die eigenen geplanten Handlungen legitim wären oder
 nicht. Man müsste die gesamte Bevölkerung befragen, um sicherzustellen
 dass die eigenen Handlungen nicht den Wert des Eigentums einer anderen
 Person beeinträchtigt und man könnte damit nicht anfangen, bevor man
-einen universellen Konsens erreicht. Die Menschheit müsste aussterben, 
+einen universellen Konsens erreicht. Die Menschheit müsste aussterben,
 lange bevor man solch eine Annahme jemals erfüllen könnte.
 
 Desweiteren beinhaltet die Aussage, dass Eigentum ein Recht am Wert
 bedeutet einen Widerspruch. Denn sollte diese Aussage gültig sein -
-allgemein Zustimmungsfähig - müsste man annehmen es wäre legitim 
-schon *vor* einer Übereinstimmung zu handeln. Sonst wäre es
-unmöglich jemals eine Behauptung aufzustellen. Wenn es jedoch erlaubt
-ist eine Behauptung aufzustellen - was keiner verneinen kann ohne sich
-in ein Widerspruch zu begeben - dann liegt das nur daran, dass es
-*physische* Grenzen des Eigentums gibt, also Grenzen die jeder
-selbstständig und unabhängig erkennen kann, ohne irgendetwas von den
-subjektiven Wertschätzungen anderer zu wissen.[^1.6]
+allgemein Zustimmungsfähig - müsste man annehmen es wäre legitim schon
+*vor* einer Übereinstimmung zu handeln. Sonst wäre es unmöglich jemals
+eine Behauptung aufzustellen. Wenn es jedoch erlaubt ist eine Behauptung
+aufzustellen - was keiner verneinen kann ohne sich in ein Widerspruch zu
+begeben - dann liegt das nur daran, dass es objektive *physische*
+Grenzen des Eigentums gibt, also Grenzen die jeder selbstständig und
+unabhängig erkennen kann, ohne irgendetwas von den subjektiven
+Wertschätzungen anderer zu wissen.[^1.6]
 
 [^1.6]: Es stimmt zwar, dass *niemand* handeln könnte, wenn *jeder* den
     Wert seines Eigentums besäße, praktisch *ist* es aber schon möglich,
@@ -73,11 +73,12 @@ subjektiven Wertschätzungen anderer zu wissen.[^1.6]
     besitzt und bestimmen darf was eine *andere* Person oder Gruppe,
     *B*, mit ihrem Eigentum tun oder lassen darf. Das bedeutet jedoch,
     dass *B* *weder* Eigentum am Wert *noch* an der physischen
-    Integrität ihres Besitzes hat. *B* und sein Eigentum ist also in
-    Wirklichkeit das Eigentum von *A*. Diese Reglung kann man durchaus
-    implementieren aber es kann nicht als menschliche Ethik bezeichnet
-    werden. In Wirklichkeit handelt es sich dabei um ein Klassensystem
-    mit ausbeutenden Übermenschen und ausgebeuteten Untermenschen.
+    Integrität "seines" Eigentums hat. *B* und sein Eigentum sind 
+    also in Wirklichkeit das Eigentum von *A*. Diese Reglung kann man
+    durchaus implementieren aber es kann nicht als menschliche Ethik
+    bezeichnet werden. In Wirklichkeit handelt es sich dabei um ein
+    Klassensystem mit ausbeutenden Übermenschen und ausgebeuteten
+    Untermenschen.
 
 Ein weiteres ebenso verbreitetes Missverständnis ist, dass
 Eigentumsrechte bestimmen welche Handlungen erlaubt sind oder nicht,
@@ -97,15 +98,15 @@ von *B* als erstes begründet, muss *A* mit seinen Aktivitäten aufhören;
 und wenn er das nicht möchte, muss er *B* für dieses Privileg bezahlen.
 Jede andere Regelung ist unmöglich und nicht zu verteidigen, da ein
 Mensch so lange er lebt, nicht in der Lage ist *nicht* zu handeln.
-Jemand der mit einer Aktivität beginnt, kann selbst wenn er es wollte, 
+Jemand der mit einer Aktivität beginnt, kann selbst wenn er es wollte,
 nicht auf das Einverständnis von allen Nachzüglern warten. Es muss ihm
 erlaubt sein sofort zu handeln. Sofern kein anderes Eigentum neben sein
 eigenes existiert (da die Nachzügler noch nicht angekommen sind), sind
 die eigenen Aktivitäten alleine durch die Naturgesetze beschränkt. Ein
 Nachzügler könnte die Berechtigung eines Vorgängers nur anzweifeln wenn
 *er* Eigentümer der Güter wäre, die durch die Handlungen des Vorgängers
-beeinflusst werden. Das würde allerdings implizieren, dass man nicht
-angeeignete Sachen besitzen kann, also Eigentum an Sachen die man noch
-nicht entdeckt oder durch eigene Handlungen originär angeeignet hat.
-Demzufolge dürfte niemand eine vorher unentdeckte und nicht angeeignete
-Sache erstmalig benutzen.
+beeinflusst werden. Das würde allerdings implizieren, dass man Eigentum
+an nicht angeeignete Sachen haben kann, also Eigentum an Sachen die man
+noch nicht entdeckt oder durch eigene Handlungen originär angeeignet
+hat. Demzufolge dürfte niemand eine vorher unentdeckte und nicht
+angeeignete Sache erstmalig benutzen.
