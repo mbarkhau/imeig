@@ -18,24 +18,24 @@ Nach jeder Theorie über das Vertragsrecht können die Käufer *B*
 gegenüber *A* haftbar gemacht werden, sollte er diese Bedingungen
 verletzen.[^108]
 
-[^107]: Siehe McElroy, "Intellectual Property: Copyright and Patent"; Roy
+[^107]: Siehe McElroy: "Intellectual Property: Copyright and Patent"; Roy
     Halliday, "Ideas as Property," *Formulations* 4, no. 4 (Summer 1997);
-    Bouckaert, "What is Property?" pp. 804–5; Palmer, "Intellectual
-    Property: A Non-Posnerian Law and Economics Approach," pp. 280,
-    291–95; Palmer, "Are Patents and Copyrights Morally Justified?" pp.
-    821 n. 8, 851–55, 864; und Richard O. Hammer, "Intellectual Property
+    Bouckaert: "What is Property?" S. 804–5; Palmer: "Intellectual
+    Property: A Non-Posnerian Law and Economics Approach," S. 280,
+    291–95; Palmer: "Are Patents and Copyrights Morally Justified?" S.
+    821 n. 8, 851–55, 864; und Richard O. Hammer: "Intellectual Property
     Rights Viewed as Contracts," *Formulations* 3, no. 2 (Winter 1995–96).
 
-[^108]: Siehe z.B. Kinsella, "A Theory of Contracts"; Rothbard, *The
-    Ethics of Liberty*, chap. 19; Williamson M. Evers, "Toward a
-    Reformulation of the Law of Contracts," *Journal of Libertarian
-    Studies* 1, no. 1 (Winter 1977): 3–13; und Randy E.  Barnett, "A
+[^108]: Siehe z.B. Kinsella: "A Theory of Contracts"; Rothbard: *The
+    Ethics of Liberty*, kap. 19; Williamson M. Evers: "Toward a
+    Reformulation of the Law of Contracts", *Journal of Libertarian
+    Studies* 1, no. 1 (Winter 1977): 3–13; und Randy E. Barnett: "A
     Consent Theory of Contract," *Columbia Law Review* 86 (1986):
     269–321.
 
 Die Befürworter vom vertraglichen Ansatz zum geistigen Eigentum täuschen
 sich jedoch wenn sie glauben, dass Verträge dazu benutzt werden können
-den gleichen Schutz wie derzeitige Gesetze zum g.E.  nachzubilden.
+den gleichen Schutz wie derzeitige Gesetze zum g.E. nachzubilden.
 Patent und Urheberrechte sind gültig gegenüber *jede* Person, unabhängig
 von der Zustimmung zu einem Vertrag. Sie sind *echte* Rechte an die
 jeder im selben Sinne gebunden ist, wie mein Recht an ein Stück Land
@@ -49,15 +49,15 @@ Parteien getroffen haben.[^110]
 [^109]: Nach internationaler Übereinkunft *pacta sunt servanda* (Verträge
     sind zu erfüllen), entstehen "Gesetzt der Übereinkunft" durch 
     Verträge zwischen Souveräne (Staaten im Sinne des internationalen
-    Rechts). Siehe Paul E. Comeaux und N. Stephan Kinsella, *Protecting
+    Rechts). Siehe Paul E. Comeaux und N. Stephan Kinsella: *Protecting
     Foreign Investment Under International Law: Legal Aspects of 
     Political Risk* (Dobbs Ferry, N.Y.: Oceana Publications, 1997), 
-    chaps. 2, 5.
+    kap. 2, 5.
 
 [^110]: Eine Definition für "Vertragsbeziehung" (engl. privity of
     Contract) findet man in *Black's Law Dictionary*, 6th ed. (St.
-    Paul, Minn.: West Publishing, 1990), p.  1199. Siehe im Rahmen des
-    g.E. auch Bouckaert, "What is Property?" pp. 795, 805.
+    Paul, Minn.: West Publishing, 1990), S. 1199. Siehe im Rahmen des
+    g.E. auch Bouckaert: "What is Property?" S. 795, 805.
 
 Wenn der Käufer *B* mit einer dritten Partei *T* über die Handlung in
 dem Buch spricht, ist diese Partei *T* im Allgemeinen nicht an den
@@ -88,12 +88,12 @@ dar; es ist kein Diebstahl; es ist auch kein physischer Eingriff in das
 greifbare Eigentum des Erfinders. An meinem Vergaser herumzuspielen
 verletzt nicht die Rechte des Erfinders. Man kann höchstens sagen, dass
 es den *Wert* für den Erfinder mindert, da es seine Möglichkeiten
-einschränkt es durch ein Monopol auszubeuten. Wie wir jedoch gesehen
-haben, kann man kein Recht an dem Wert seines Eigentums haben, sondern
-nur an seiner physischen Integrität.[^111]
+einschränkt es durch ein Monopol auszubeuten. Wie wir in Kapitel 4
+jedoch gesehen haben, kann man kein Recht an dem Wert seines Eigentums
+haben, sondern nur an seiner physischen Integrität.[^111]
 
-[^111]: Hoppe, *A Theory of Socialism and Capitalism*, pp. 139–41,
-    237 n.  17.
+[^111]: Hoppe: *A Theory of Socialism and Capitalism*, S. 139–41,
+    237 n. 17.
 
 Verträge sind also nur von beschränktem Nutzen. Der Verleger von einem
 Buch kann seine Käufer dazu verpflichten das Buch nicht zu kopieren,
@@ -102,7 +102,7 @@ verlegen, es sein denn eine andere vertragliche Vereinbarung hindert sie
 daran.
 
 
-Vertrag kontra Vorbehaltene Rechte
+Vertrag kontra vorbehaltene Rechte
 ----------------------------------
 
 Dritte die keine Parteien in einem Vertrag sind oder an eines der
@@ -122,11 +122,11 @@ verkaufen und noch die Rechte an der Oberfläche behalten. Davon
 ausgeschlossen wäre die Dienstbarkeit gegenüber dem Nachbar, der ein
 Wegerecht hat und die Rechte seiner Mutter, die an der Oberfläche ein
 Wohn- und Nutzungsrecht hat. Entsprechend dem Gedanken über eine Menge
-von Rechte, entsteht der Ansatz sich "Rechte vor zu behalten". Nach
-diesem Ansatz kann g.E. im privaten nachgebildet werden, indem man das
-Recht einen greifbaren Gegenstand zu reproduzieren nicht zusammen mit
-dem Gegenstand verkauft. Rothbard argumentiert beispielsweise, dass man
-eine anderen Person bedingt zum "Eigentümer" (von "Wissen") machen kann,
+von Rechte, entsteht der Ansatz sich "Rechte vorzubehalten". Nach diesem
+Ansatz kann g.E. im privaten nachgebildet werden, indem man das Recht
+einen greifbaren Gegenstand zu reproduzieren nicht zusammen mit dem
+Gegenstand verkauft. Rothbard argumentiert beispielsweise, dass man eine
+anderen Person bedingt zum "Eigentümer" (von "Wissen") machen kann,
 dabei jedoch "das Recht vorbehalten kann das Wissen über die Erfindung
 weiter zu verbreiten". Braun, der Erfinder einer verbesserten
 Mausefalle, kann darauf "Urheberrechtlich Geschützt" stempeln und
@@ -142,10 +142,10 @@ verkauft wurde". Mit anderen Worten, die dritte Partei erwirbt das
 Eigentumsrecht an der greifbaren Sache – z.B. ein Buch oder eine
 Mausefalle – nicht jedoch das "Recht es zu kopieren", dass
 "normalerweise" zu den Rechten gehören würde. Anders ausgedrückt, die
-dritte Partei wird zum "Besitzer" der Information durch jemand der kein
-Recht hatte diese weiterzugeben.[^112]
+dritte Partei wird zum "Eigentümer" der Information durch jemand der
+kein Recht hatte diese weiterzugeben.[^112]
 
-[^112]: Rothbard, *The Ethics of Liberty*, p. 123.
+[^112]: Rothbard: *The Ethics of Liberty*, p. 123.
 
 Hierbei haben wir doch sicherlich etwas übersehen. Stellen wir uns vor,
 dass *A* ein Roman schreibt und eine erste Kopie, BUCH₁, ohne
@@ -163,9 +163,9 @@ zwischen dem echten Besitzer *A* und dem Buch gespannt ist, wo immer es
 auch sein mag. Sollte *T* das verlassene BUCH₂ finden und sich aneignen,
 hat er kein Recht es zu kopieren, da es schlicht und einfach kein
 solches Recht "in sich" trägt. Dieses Recht wird fortwährend durch ein
-Wurmloch der Rechte abgesaugt, dass den Besitzer *A* und sein Buch
+Wurmloch der Rechte abgesaugt, dass den Eigentümer *A* und sein Buch
 verbindet. So kann *T* durch Aneignung des Buchs lediglich das Buch
-selbst bekommen, jedoch ohne das "Eingebaute" Recht es zu kopieren und
+selbst bekommen, jedoch ohne das "eingebaute" Recht es zu kopieren und
 er kann dementsprechend keine Kopie vom BUCH₂ anfertigen. Gleiches gilt
 für darauffolgende Dritte die Besitzer des Buchs werden.
 
@@ -198,7 +198,7 @@ Die Implikationen solch einer Sicht sind beunruhigend. Palmer schreibt:
 > gerechtfertigt Sie zu verklagen, sollte ich beweisen könnte, dass Sie
 > sich an den Namen der Hauptfigur im Buch erinnern können?[^113]
 
-[^113]: Palmer, "Are Patents and Copyrights Morally Justified?" p. 853.
+[^113]: Palmer: "Are Patents and Copyrights Morally Justified?" S. 853.
     Palmer zitiert auch die folgenden aufschlussreiche Passagen.
     Hegel argumentierte:
 
@@ -216,7 +216,7 @@ Die Implikationen solch einer Sicht sind beunruhigend. Palmer schreibt:
     > behalten oder als einen Wert zu veräußern oder für sich keinen
     > Wert darauf zu legen und mit der einzelnen Sache auch sie
     > preiszugeben. (*Grundlinien der Philosophie des Rechts* § 69,
-    > zitiert in "Are Patents and Copyrights Morally Justified?" p. 853
+    > zitiert in "Are Patents and Copyrights Morally Justified?" S. 853
     > n. 138)
 
     Anmerkung von Kant:
@@ -235,7 +235,7 @@ Die Implikationen solch einer Sicht sind beunruhigend. Palmer schreibt:
     > Verbindlichkeit derselben zureichen? (Immanuel Kant, *Von der
     > Unrechtmäßigkeit des Büchernachdrucks*, in 2 "Copyrights and
     > Patents for Inventions" 580 (R. MacFie ed. 1888). zitiert in Palmer,
-    > "Are Patents and Copyrights Morally Justified?" p. 853 n. 138)
+    > "Are Patents and Copyrights Morally Justified?" S. 853 n. 138)
 
 Dritte Parteien stellen für diese Theorie jedoch immer noch ein Problem
 dar. Selbst wenn der Verkäufer irgendwie bestimmte Rechte an dem
@@ -276,25 +276,25 @@ Rothbard versucht dieses Argument folgendermaßen anzugehen:
 > Braun verletzen, auch wenn er selbst keine vertragliche Vereinbarung
 > eingegangen ist.[^114]
 
-[^114]: Rothbard, *The Ethics of Liberty*, p. 123.
+[^114]: Rothbard: *The Ethics of Liberty*, S. 123.
 
 Es gibt mehrere Probleme mit dieser Denkart. Zunächst müssen wir
 feststellen, das Schwarz lediglich die Mausefalle von Grün *sieht*. Er
 hat weder Einsicht in die Gedanken von Grün, noch muss er diesen Zugang
 haben um die offensichtlichen Eigenschaften der Mausefalle nachzubauen.
 
-Im übrigen ist man ebensowenig der Besitzer von Ideen im eigenen Kopf
-wie man der Besitzer der eigenen Arbeit ist. Nur knappe Ressourcen
-können Besitz sein. Indem man die Knappheit als wesentlich für die
+Im übrigen ist man ebensowenig der Eigentümer von Ideen im eigenen Kopf
+wie man der Eigentümer der eigenen Arbeit ist. Nur knappe Ressourcen
+können Eigentum sein. Indem man die Knappheit als wesentlich für die
 originäre Aneignung aus dem Blick verliert, sowie die Regel des ersten
-Nutzers um knappe Ressourcen in Besitz zu nehmen, sind Rothbard und
-andere zu der falschen Ansicht gekommen, dass man Eigentum an Ideen und
-Arbeit haben kann. Sobald wir erkennen, dass Ideen kein Eigentum sein
-können (sie sind keine knappen Ressourcen), dass Schöpfung von Ideen
-weder nötig noch ausreichend ist um Eigentümer zu werden (die erste
-Nutzer Regel ist es), und dass man Arbeit nicht "besitzen" muss um etwas
-originär aneignen zu können, verschwinden die durch diese Verwirrung
-verursachten Schwierigkeiten.
+Nutzers um Eigentümer von knappen Ressourcen zu werden, sind Rothbard
+und andere zu der falschen Ansicht gekommen, dass man Eigentum an Ideen
+und Arbeit haben kann. Sobald wir erkennen, dass Ideen kein Eigentum
+sein können (sie sind keine knappen Ressourcen), dass Schöpfung von
+Ideen weder nötig noch ausreichend ist um Eigentümer zu werden (die
+erste Nutzer Regel ist es), und dass man kein "Eigentum" an Arbeit haben
+muss um etwas originär aneignen zu können, verschwinden die durch diese
+Verwirrung verursachten Schwierigkeiten.
 
 Wenn Schwarz *irgendwie* an die Ideen gelangt die implizit in dem von
 Braun erfundenen Gegenstand vorhanden sind (im Beispiel von Rothbard,
@@ -305,8 +305,8 @@ einzusetzen. Inwiefern verletzt Schwarz die Rechte von Braun wenn er
 "zufällig die Mausefalle sieht"?
 
 Alle Handlungen, auch solche die angeeignete knappe Mittel (Eigentum)
-einsetzen, bedürfen dem Gebrauch von technischem Wissen.[^115] Einen Teil
-von diesem Wissen kann man durch Beobachtung unserer Umwelt erlangen,
+einsetzen, bedürfen dem Gebrauch von technisches Wissen.[^115] Einen
+Teil dieses Wissens kann man durch Beobachtung unserer Umwelt erlangen,
 inklusive dem Eigentum von anderen. Zu unseren Rechten muss kein "Recht
 zum kopieren" gehören, damit wir ein bekanntes Muster oder eine Form auf
 ein uns gehörendes Objekt anwenden können. Wir haben vielmehr das Recht
@@ -314,14 +314,14 @@ mit unserem eigenen Eigentum *beliebig und nach eigenem Ermessen
 umzugehen*, mit der *einzigen* Beschränkung, dass wir die Grenzen des
 Eigentums eines Anderen nicht übertreten dürfen. Wir dürfen diese
 wesentliche libertäre Einsicht nicht aus den Augen verlieren. Wenn ich
-im Besitz von 100 Hektar Land bin, kann ich darauf nackig herumhüpfen,
+Eigentümer von 100 Hektar Land bin, kann ich darauf nackig herumhüpfen,
 *nicht* weil dem Land irgend ein "Recht-zum-nackigen-herumhüpfen"
 innewohnt, sondern weil es mein *Eigentum* ist und diese Handlung nicht
 (unbedingt) die Eigentumsrechte anderer verletzt.
 
-[^115]: Kinsella, "Knowledge, Calculation, Conflict, and Law"; Jörg Guido
-    Hülsmann, "Knowledge, Judgment, and the Use of Property," *Review of
-    Austrian Economics* 10, no. 1 (1997), p. 44.
+[^115]: Kinsella: "Knowledge, Calculation, Conflict, and Law"; Jörg Guido
+    Hülsmann: "Knowledge, Judgment, and the Use of Property", *Review of
+    Austrian Economics* 10, no. 1 (1997), S. 44.
 
 Gleichermaßen, habe ich das Recht mit meinem Eigentum anzustellen was
 ich möchte – sei es mein Auto, mein Papier, meine
@@ -342,7 +342,7 @@ Umkehrung davon, denn jeder Einsatz von Eigentum wäre nur erlaubt wenn
 das Recht es auf diese bestimmte Art zu nutzen irgendwie oder irgendwo
 in dem Eigentum gefunden werden könnte.
 
-Betrachten die folgende Analogie. Hans der Bauer entdeckt Öl unter
+Betrachten wir die folgende Analogie. Hans der Bauer entdeckt Öl unter
 seinem Land. Kein anderer in der Nähe weiß etwas über das schwarze Gold.
 Hans plant die Grundstücke seiner Nachbarn für 'nen Appel und 'n Ei
 aufzukaufen; den Preis kriegt er auch, denn die Verkäufer wissen nichts
@@ -391,13 +391,13 @@ zum Kopieren, versucht lediglich darüber hinwegzutäuschen, dass ein
 Vertrag lediglich die beteiligten Parteien bindet.[^116]
 
 [^116]: Im Anarchokapitalismus ist es freilich schwer vorher zu sagen
-    welche weit reichenden Vertraglichen Reglungen, Netzwerke und
+    welche weit reichenden vertraglichen Reglungen, Netzwerke und
     Institutionen aufkommen werden. Verschiedene Gemeinschaften könnten
     sehr wohl ihre Kunden, Patrone, oder Bürger verpflichten sich an
     bestimmte Regeln, ähnlich dem g.E., zu halten.
 
-    Zum Anarchokapitalismus siehe z.B. Hans-Hermann Hoppe, "The Private
-    Production of Defense," *Journal of Libertarian Studies* 14, no. 1
+    Zum Anarchokapitalismus siehe z.B. Hans-Hermann Hoppe: "The Private
+    Production of Defense", *Journal of Libertarian Studies* 14, no. 1
     (Winter 1998–1999): 27–52.
 
 Demnach können Käufer im Allgemeinen durch Verträge mit Verkäufer daran
@@ -450,9 +450,9 @@ oder sie entgegen vertragliche Vereinbarungen veröffentlichen, sowie für
 Personen die wissen, dass sie die Informationen von solch einer Person
 erhalten.[^118]
 
-[^117]: Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
-    Approach," pp. 280, 292–93; and Palmer, "Are Patents and Copyrights
-    Morally Justified?" pp. 854–55.
+[^117]: Palmer: "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," S. 280, 292–93; und Palmer: "Are Patents and Copyrights
+    Morally Justified?" S. 854–55.
 
 [^118]: UTSA, § 1; Halligan, "Restatement of the Third Law—Unfair
     Competition: A Brief Summary," § 40, comment d.
@@ -489,7 +489,7 @@ gehindert werden die Geschäftsgeheimnisse zu Nutzen, die sie
 unrechtmäßig erhalten haben.[^119]
 
 [^119]: Zu der Verantwortung für Handlungen eines Anderen oder zu
-    Verschwörungen, siehe z.B.  Texas Penal Code, §§ 7.02 
+    Verschwörungen, siehe z.B. Texas Penal Code, §§ 7.02 
     (Criminal Responsibility for Conduct of Another), und 15.02 
     (criminal conspiracy). Definitionen für "abet," "accessory,"
     "accomplice," "aid and abet," "concert," und "conspiracy," findet
@@ -500,9 +500,9 @@ Markenzeichen
 -------------
 
 Palmer argumentiert auch, dass Gesetze zu Markenzeichen legitim
-sind.[^120] Stellen wir und vor, ein Lachmanninan ändert den Namen seiner
+sind.[^120] Stellen wir uns vor, ein Lachmanninan ändert den Namen seiner
 schlecht laufenden Brauerei von "Lachmannian Bier" nach "Rothbard Bier",
-den Namen einer anderen bereits laufenden Brauerei. Ich, als Konsument
+den Namen einer anderen bereits laufenden Brauerei. Ich, als Konsument,
 möchte gerne einen Bier vom Rothbard. Ich sehe eine gefälschte Flasche
 vom Lachmanninan und kaufe sie mir. Nach heutigem Gesetz, kann Rothbard,
 als "Eigentümer" der Marke "Rothbard Bier", Lachmanninan an der Nutzung
@@ -511,8 +511,8 @@ seiner Marke auf der Grundlage hindern, dass es seiner Marke "verwirrend
 Güter in die Irre. Das Gesetz gibt dem Inhaber der Marke also ein Recht
 gegenüber dem fälschenden.
 
-[^120]: Palmer, "Intellectual Property: A Non-Posnerian Law and Economics
-    Approach," p. 280.
+[^120]: Palmer: "Intellectual Property: A Non-Posnerian Law and Economics
+    Approach," S. 280.
 
 Meiner Ansicht nach, sind es die *Kunden* dessen Rechte verletzt werden,
 nicht die vom Inhaber der Marke. In dem vorherigen Beispiel, dachte ich
