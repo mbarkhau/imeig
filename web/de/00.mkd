@@ -8,21 +8,21 @@ Unterhaltung zum Thema geistiges Eigentum führen, ohne auf diesen
 Artikel zu verweisen. Ich freue mich mit diesem Buch den Artikel auch in
 deutscher Sprache zur Verfügung zu stellen, denn auch in Deutschland
 wird immer häufiger vor allem das Urheberrecht in Frage gestellt. Zur
-Untermauerung dieser Position, ist die Lektüre von diesem Buch
+Untermauerung dieser Position, ist die Lektüre dieses Buches
 unerlässlich.
 
-Technische Innovation und das Heranwachsen einer Generation die sie
-als selbstverständlich ansieht macht es unvermeidlich, dass sich
+Technische Innovation und das Heranwachsen einer Generation, die sie
+als selbstverständlich ansieht, macht es unvermeidlich, dass sich
 am Urheberrecht etwas ändern wird. Einer der lautstärkeren Befürworter
 für Reform, Lawrence Lessig, der insbesondere im Internet entstandene
 Kulturen beobachtet, sagt folgendes dazu:
 
 > Das Problem ist eine bestimmte Architektur der Gesetzgebung zum
-> Urheberrecht–die Art wie diese Architektur in der
+> Urheberrecht – die Art wie diese Architektur in der
 > Informationsgesellschaft angewandt wird. Jede sinnvolle und
 > vernünftige Reaktion auf die rasante Ausbreitung digitaler
 > Technologie, konfrontiert mit dieser veralteten Architektur, wäre sie
-> zu ändern–zu aktualisieren, sie ins einundzwanzigste Jahrhundert zu
+> zu ändern – zu aktualisieren, sie ins einundzwanzigste Jahrhundert zu
 > bringen[^0.1]
 
 [^0.1]: Stanford Report, August 23, 2006 *Law professor and copyright
@@ -40,7 +40,7 @@ und somit andauernd Gefahr laufen verklagt zu werden. Eine Situation in
 der man sich nicht sicher sein kann rechtmäßig zu handeln, in der man
 andauernd einer scheinbar willkürlichen "Ordnung" ausgesetzt ist, kann
 in Grenzen als tyrannisch bezeichnet werden. Ein Pharmaunternehmen kann
-sich nicht sicher sein, ob ihre Forscher nicht gerade etwas entwickeln
+sich nicht sicher sein, ob seine Forscher nicht gerade etwas entwickeln,
 was die Patente eines Konkurrenten verletzt. Sie sind gezwungen zur
 Anheuerung von Rechtsbeistand, sei es auch nur zur Verteidigung in einem
 möglichen "Patentkrieg". Rechtmäßig zu handeln ist in dieser Situation
@@ -51,7 +51,7 @@ leisten können um herauszufinden was rechtmäßig ist.
 
 Die sich im Internet entwickelnde "Remix" Kultur kann sich schon
 prinzipbedingt nicht an geltende Gesetzgebung halten, da die von ihnen
-geschaffenen Werke auf andere urheberrechtlich geschützten Werge
+geschaffenen Werke auf andere urheberrechtlich geschützten Werken
 beruhen. Die Teilnehmer dieser Kultur werden also alleine schon durch
 ihre Teilnahme implizit zu Kriminellen. Wenn diese Kulturschaffenden
 nicht der Ansicht sind, dass sie einen Rechtsbruch begehen und diese
@@ -80,7 +80,7 @@ in diesem Buch von Hans-Hermann Hoppe und Stephan Kinsella.
 
 Das besondere an der hier dargelegten Kritik am geistigen Eigentum (im
 weiteren auch g.E.), ist ihre Begründung durch *Prinzipien*. Es ist eine
-kritische Betrachtung der zugrundeliegenden philosophisch ethische
+kritische Betrachtung der zugrundeliegenden philosophisch-ethischen
 Rechtfertigungen vom g.E. Dies steht im starken Kontrast zu der üblichen
 Kritik aufgrund empirischer Betrachtungen oder der Abwägung von
 Interessen verschiedener gesellschaftlichen Gruppen wie Urheber,
@@ -89,13 +89,13 @@ ethisch Grundlage finden lässt, dann ist die fragwürdige
 Entstehungsgeschichte des Urheberrechts zwar aufschlussreich, jedoch
 zweitrangig. Ebenso können die Interessen diverser gesellschaftlicher
 Gruppen nur gegeneinander aufgewogen werden, wenn es sich dabei um
-Rechtmäßige Interessen handelt.
+rechtmäßige Interessen handelt.
 
 Betrachten wir z.B. die in Europa auf politischer Ebene wohl
 vehementesten Befürworter für eine Reform der Gesetze zum g.E., die
 Piratenparteien. Keine von ihnen geht so weit sie völlig abschaffen zu
 wollen. Dies ist auch nicht weiter verwunderlich, schließlich ist ihre
-Kritik keine Prinzipielle, sondern das Ergebnis einer Abwägung zwischen
+Kritik keine prinzipielle, sondern das Ergebnis einer Abwägung zwischen
 den Interessen der Urheber und aus ihrer Sicht wesentlich wichtigere
 gesellschaftliche Interessen:
 
@@ -126,32 +126,33 @@ grundsätzlichen Berechtigung vom g.E.:
     Hybrid Economy* 2008 Bloomsbury Academic
 
 Eben diese Berechtigung ist jedoch zu bezweifeln. Wie so oft in der
-Geschichte, brauchen Interessensgruppen sich um die Antworten kaum
+Geschichte brauchen Interessensgruppen sich um die Antworten kaum
 sorgen machen, wenn gar nicht erst die richtigen Fragen gestellt werden.
 Angesichts der oben dargestellten, im wesentliche utilitaristischen
 Betrachtungen, haben sie auf diesem Gebiet wahrlich ganze Arbeit
 geleistet. Die wirkliche Fragestellung muss lauten: Ist geistiges
 Eigentum ethisch vertretbar? Angesichts ihrer Entstehungsgeschichte, als
-Mittel zur Zensur und zur Gewährung von Monopole auf ideelle Objekte,
-zum Vorteil wirtschaftlicher Interessensgruppen, sollte es nicht weiter
-verwundern wenn diese Gesetze eine Untersuchung ihrer ethischen
+Mittel zur Zensur und zur Gewährung von Monopolen auf ideelle Objekte,
+sowie zum Vorteil wirtschaftlicher Interessensgruppen, sollte es nicht weiter
+verwundern wenn diese Gesetze einer Untersuchung ihrer ethischen
 Rechtfertigung nicht standhalten. Es sollte nicht weiter verwunderlich
 sein herauszufinden, dass diese parlamentarisch gewährten Privilegien
 unter Missachtung grundlegender Rechte (insbesondere Eigentumsrechte)
 zustandegekommen sind.
 
 Eben diese Fragestellung untersucht Stephan Kinsella in seinem Artikel
-"Gegen Geistiges Eigentum", zum ersten mal veröffentlicht im "Journal of
-Libertarian Studies 15, no. 2" im Frühling 2001. Der Artikel hat für
-einiges an Umdenken in libertären Kreisen gesorgt. Seine rigorose
-Argumentation, sowie logische und schlüssige Beispiele haben, zumindest
-in diesen Kreisen sehr viele überzeugt.[^0.6] Man könnte meinen es fehlt
-diesem Buch zur Überzeugung eine empirische Betrachtung der Folgen vom
-g.E. sowie der potentielle Ausgang sollte man sie abschaffen. Solche
-Bedenken sind nur ein Randnotiz und werden ohnehin zur genüge etwa in
+"Gegen Geistiges Eigentum", zum ersten Mal veröffentlicht im "Journal of
+Libertarian Studies 15, no. 2" im Frühling 2001. Dieser Artikel hat für
+einiges Umdenken in libertären Kreisen gesorgt. Seine rigorose
+Argumentation, sowie logische und schlüssige Beispiele haben - zumindest
+in diesen Kreisen - sehr viele überzeugt.[^0.6] Man könnte meinen, es fehlt
+diesem Buch zur Überzeugung eine empirische Betrachtung der Folgen von
+g.E. sowie des potentiellen Ausgangs (besser: der möglichen Konsequenzen),
+sollte man es abschaffen. Solche
+Bedenken sind nur ein Randnotiz und werden ohnehin zur Genüge etwa in
 "Against Intellectual Monopoly"[^0.7] behandelt. Sie zu ignorieren ist
-allerdings nur konsequent denn hierbei handelt es sich um eine
-Untersuchung ethischer vertretbarer Handlung aus einer theoretischen
+allerdings nur konsequent, denn hierbei handelt es sich um eine
+Untersuchung ethisch vertretbarer Handlung aus einer theoretischen
 Perspektive. Wenn aus der theoretischen Argumentation folgt, dass g.E.
 ethisch nicht vertretbar ist, sind die Bedenken über die Art wie eine
 Gesellschaft ohne sie funktionieren könnte im wesentlichen ein
@@ -169,16 +170,16 @@ aufhalten wollen.
     http://levine.sscnet.ucla.edu/general/intellectual/againstfinal.htm
 
 [^0.8]: Etwas überspitzt: Wenn wir durch logische Argumentation 
-    nachgewiesen können, dass g.E. ethisch nicht vertretbar ist, und
+    nachweisen können, dass g.E. ethisch nicht vertretbar ist, und
     ein Verteidiger fragt trotzdem noch wie eine Gesellschaft ohne das
     Patent- und Urheberrecht funktionieren könnte, können wir die
     Frage zu dieser umformulieren: "Ethisches Verhalten ist doch
     praktisch gar nicht möglich; damit Authoren und Erfinder nicht
     verhungern, dürfen wir die Gewährung unethischer Privilegien nicht
     aufgeben". Wäre in unserer Gesellschaft der Diebstahl
-    institutionalisiert um etwa für die ärmsten in unserer Gesellschaft
+    institutionalisiert um etwa für die Ärmsten in unserer Gesellschaft
     zu sorgen, könnte man analog fragen: "Wir müssen uns doch gegenseitig
-    Ausrauben, damit die Ärmsten unter uns nicht verhungern". Ich hoffe
+    ausrauben, damit die Ärmsten unter uns nicht verhungern". Ich hoffe
     es leuchtet ein, dass wir bei solch einem Konsens sicherlich auch
     ethisch vertretbare Wege finden können um für diese Gruppen zu
     sorgen.
@@ -186,15 +187,15 @@ aufhalten wollen.
 Es sei nur soviel gesagt: Libertäre haben ein praktisch grenzenloses
 Vertrauen in freie Märkte; was nichts anderes heißt, als dass sie darauf
 vertrauen, dass Menschen die sich ethisch verhalten und auf freiwilliger
-Ebene miteinander kooperieren für ihre Probleme Lösungen finden werden.
+Ebene miteinander kooperieren, für ihre Probleme Lösungen finden werden.
 Tatsächlich zeichnen sich solche Lösungen bereits heute ab. Wenn wir
 z.B. das Problem der Finanzierung der Urheber betrachten, sehen wir
 bereits mit dem heutigen Urheberrecht, dass Künstler durch den
-eigentlichen Verkauf ihrer Arbeit, nach der Veröffentlichung kaum Geld
+eigentlichen Verkauf ihrer Arbeit nach der Veröffentlichung kaum Geld
 verdienen. Einen Ausgleich schaffen alternative Einnahmequellen, wie
-etwa Konzertauftritte. Das wesentliche Problem welches sich durch die
-digitalen Medien ergibt ist, dass die Finanzierung *nach* der
-Veröffentlichung von einem Werk nicht praktikabel ist, da die
+etwa Konzertauftritte. Das wesentliche Problem, welches sich durch die
+digitalen Medien ergibt ist, dass die Finanzierung eines Werkes *nach*
+der Veröffentlichung nicht praktikabel ist, da die
 Konsumenten durch freie Quellen an das Werk gelangen können. Wenn zwei
 Gruppen, in diesem Fall diejenigen die geistige Schöpfungen herstellen
 und diejenigen die sie gebrauchen, ein gemeinsames Interesse an der
@@ -204,8 +205,8 @@ einem Künstler ermöglichen *vor* der Veröffentlichung seiner Werke
 angemessen entlohnt zu werden. Tatsächlich lässt sich bereits heute
 solch eine Lösung am Beispiel von "kickstarter"[^0.9] beobachten. Hier
 können Künstler ihre Projekte vorstellen zusammen mit dem dafür nötigen
-Budget. Jeder der ein Projekt realisiert sehen möchte (und eines der vom
-Künstler angebotenen Boni ergattern möchte) steht es frei das Projekt
+Budget. Jeder der ein Projekt realisiert sehen möchte (und einen der vom
+Künstler angebotenen Boni ergattern möchte), steht es frei das Projekt
 finanziell zu unterstützen. Es ist nichts anderes als eine moderne
 Version und eine Wiederbelebung des vor dem Urheberrecht verbreiteten
 Prinzips der Patronage.
@@ -214,23 +215,23 @@ Prinzips der Patronage.
 
 Bevor wir jedoch zu der Kritik von Kinsella am *geistigen* Eigentum
 kommen, ist es unerlässlich ein fundiertes Verständnis der ethischen
-Grundlagen vom *greifbaren* Eigentum zu haben. Eigentum wird,
+Grundlagen von *greifbarem* Eigentum zu haben. Eigentum wird,
 insbesondere auf politischer Ebene, gerne als etwas relatives
-betrachtet. Sofern man z.B. die Enteignung eines Grundbesitzers,
-aufgrund der vorgeblich (man möchte unterstellen aufgrund politischer
-Kontakte) wichtigeren wirtschaftlichen Interessen eines Dritten oder zum
-undefinierten "Wohle der Allgemeinheit" und mit Verweis auf
-Gesetzgebung[^0.10], auch nur Ansatzweise als legitim betrachtet, wird man
-die Argumentation von Kinsella schwerlich folgen können. Eigentum ist ja
+betrachtet. Sofern man z.B. die Enteignung eines Grundbesitzers
+aufgrund der vorgeblich wichtigeren wirtschaftlichen Interessen 
+(man möchte unterstellen: aufgrund politischer Kontakte) eines Dritten
+oder zum undefinierten "Wohle der Allgemeinheit" und mit Verweis auf
+Gesetzgebung[^0.10], auch nur ansatzweise als legitim betrachtet, wird man
+der Argumentation von Kinsella schwerlich folgen können. Eigentum ist ja
 gerade dadurch definiert, wer über ein bestimmtes Objekt verfügen darf.
 Beanspruchen Andere dieses Recht für sich, so beanspruchen sie per
-Definition Miteigentümer zu sein. Da die *letztendliche*
+definitionem Miteigentümer zu sein. Da die *letztendliche*
 Verfügungsgewalt über dieses Eigentum beim Gesetzgeber liegt, könnte man
 sogar behaupten, dass der "Eigentümer" gar keiner ist, sondern dass der
-Gesetzgeber Eigentümer ist und derjenige den er Eigentümer nennt,
-lediglich ein Nutzungsrecht hat was jederzeit auch wieder entzogen
+Gesetzgeber Eigentümer ist und derjenige den er Eigentümer nennt
+lediglich ein Nutzungsrecht hat, das jederzeit auch wieder entzogen
 werden kann. Bevor wir also dazu übergehen die Ausweitung von
-Eigentumsrechte auf Ideelle Dinge zu untersuchen, muss geklärt werden ob
+Eigentumsrechten auf ideelle Dinge zu untersuchen, muss geklärt werden ob
 diese Praxis ethisch vertretbar ist. Zu diesem Thema liefert Hans-Herman
 Hoppe eine wundervolle Argumentation, man kann sogar sagen
 Beweisführung, in der Form des Artikels "Privateigentum: Grundlage von
@@ -252,14 +253,14 @@ Ethik und Wirtschaft"[^0.11].
 Hoppe zeigt in diesem Artikel auf rigorose und kompromisslose Art, wie
 wesentlich das Eigentumsrecht für ethisches Handeln ist. Es wird auch
 deutlich, dass es sich bei der darauffolgenden Kritik am g.E. lediglich
-um eines vieler Beispiel für die konsequente Anwendung des
+um eines von vielen Beispielen für die konsequente Anwendung des
 Eigentumsrechts handelt. Es ist eine Bestätigung der Aussage von
-Rothbard: "Es gibt keine Rechte außer Eigentumsrechte"[^0.12]. Eigentum
-ist demnach Zentral für ein Verständnis der libertären Betrachtung vom
-geistigen Eigentum in dem Artikel von Kinsella. Meine Hoffnung ist
+Rothbard: "Es gibt keine Rechte außer Eigentumsrechte"[^0.11]. Eigentum
+ist demnach zentral für das Verständnis der libertären Betrachtung von
+geistigem Eigentum in dem Artikel von Kinsella. Meine Hoffnung ist
 demnach nicht nur, dass dieses Buch eine heute sehr relevante
 grundsätzliche Kritik am g.E. aus dem angloamerikanischen Raum nach
-Deutschland bringt, sondern auch dass es dazu anregt sich näher mit dem
+Deutschland bringt, sondern auch, dass es dazu anregt, sich näher mit dem
 Libertarismus zu beschäftigen.
 
 [^0.12]: Murry N. Rothbard, "Human Rights and Property Rights" *Power and
