@@ -12,8 +12,8 @@ markbook_paths = (
 
 markbook_cmd = ""
 for p in markbook_paths:
-    print p
     if os.path.exists(p):
+    	print p
         markbook_cmd = os.path.abspath(p)
         break
 
@@ -28,8 +28,10 @@ def is_lang_dir(d):
 lang_dirs = filter(is_lang_dir, os.listdir(base_dir))
 
 _ = os.system
-_(markbook_cmd + " ".join(lang_dirs))
-_("cd /home/server/ie/web/de")
-_("mv out.pdf IE.pdf")
-_("zip ie_quellen.zip *.mkd metadata part1/* part2/*")
 
+for l in lang_dirs:
+    _(markbook_cmd + " " + l)
+    _("mv out.pdf %s/IE.pdf" % l)
+    _("rm %s/out.*" % l)
+    _("rm out.*")
+    _("zip %s/ie_quellen.zip %s/*.mkd %s/metadata %s/part1/* %s/part2/*" % (l,l,l,l,l))
