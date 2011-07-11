@@ -32,6 +32,9 @@ _ = os.system
 for l in lang_dirs:
     _(markbook_cmd + " " + l)
     _("mv out.pdf %s/IE.pdf" % l)
+    _("db2epub.py out.db --xsl /home/server/docbook-xsl-1.76.1/epub/docbook.xsl")
+    _("mv out.epub %s/IE.epub" % l)
     _("rm %s/out.*" % l)
     _("rm out.*")
+    _("rm -rf out/")
     _("zip %s/ie_quellen.zip %s/*.mkd %s/metadata %s/part1/* %s/part2/*" % (l,l,l,l,l))
